@@ -1,0 +1,12 @@
+preprint:
+  short: Preprint
+  full: Preprint
+  bibtex:
+    type: misc
+    venue: booktitle
+sosp:
+  short: SOSP
+  full: ACM SIGOPS Symposium on Operating Systems Principles (SOSP)
+  bibtex:
+    type: inproceedings
+    venue: booktitle

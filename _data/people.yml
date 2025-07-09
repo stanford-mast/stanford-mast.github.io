@@ -1,0 +1,48 @@
+# Example
+# - name: Firstname Lastname
+#   url: https://example.com
+#   title: PhD Student
+#   affiliation: Stanford University
+#   alumni: true
+#   next: Faculty at Brown CS
+
+christoskozyrakis:
+  name: Christos Kozyrakis
+  url: https://web.stanford.edu/~kozyraki/
+  title:  Professor
+
+# PhDs
+athinagorasskiadopoulos:
+  name: Athinagoras Skiadopoulos
+  url: https://stanford.edu/~askiad/
+  title: PhD Student
+
+swapnilgandhi:
+  name: Swapnil Gandhi
+  url: https://swapnilgandhi.com/
+  title: PhD Student
+
+zhiqiangxie:
+  name: Zhiqiang Xie
+  url: https://zhiqiangxie.com
+  title: PhD Student
+
+calebwinston:
+  name: Caleb Winston
+  url: https://calebwin.github.io
+  title: PhD Student
+
+markzhao:
+  name: Mark Zhao
+  url: https://home.cs.colorado.edu/~myzhao/
+  title: PhD Student
+  alumni: true
+  next: Assistant Professor at University of Colorado Boulder
+
+# Master's
+
+# Undergrads
+
+# Interns
+
+# Visitors

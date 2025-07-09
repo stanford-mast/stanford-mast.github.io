@@ -1,0 +1,15 @@
+- key: theme_1
+  name: Theme 1
+  url: /pubs/
+  desc: >
+    ...
+- key: theme_2
+  name: Theme 2
+  url: /pubs/
+  desc: >
+    ...
+- key: theme_3
+  name: Theme 3
+  url: /pubs/
+  desc: >
+    ...
