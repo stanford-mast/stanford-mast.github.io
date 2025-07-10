@@ -45,18 +45,18 @@ timchong:
   title: PhD Student
   alumni: true
 
-  jackhumphries:
-    name: Jack Humphries
-    url: https://www.linkedin.com/in/jack-h-7b9a0a161/
-    title: PhD Student
-    alumni: true
+jackhumphries:
+  name: Jack Humphries
+  url: https://www.linkedin.com/in/jack-h-7b9a0a161/
+  title: PhD Student
+  alumni: true
 
-  geetsethi:
-    name: Geet Sethi
-    url: https://www.linkedin.com/in/jack-h-7b9a0a161/
-    title: PhD Student
-    alumni: true
-    next: Researcher at Meta
+geetsethi:
+  name: Geet Sethi
+  url: https://www.linkedin.com/in/jack-h-7b9a0a161/
+  title: PhD Student
+  alumni: true
+  next: Researcher at Meta
 
 
 # Postdocs
