@@ -1,0 +1,8 @@
+# - pinned: true
+#   desc: >
+#     Description of pinned news items.
+
+#     More text can be added here to provide additional context or details about the news item.
+- date: 2025-07-11
+  desc: >
+    Labs new webpage is now live!
