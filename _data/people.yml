@@ -12,11 +12,6 @@ christoskozyrakis:
   title:  Professor
 
 # PhDs
-athinagorasskiadopoulos:
-  name: Athinagoras Skiadopoulos
-  url: https://stanford.edu/~askiad/
-  title: PhD Student
-
 swapnilgandhi:
   name: Swapnil Gandhi
   url: https://swapnilgandhi.com/
@@ -30,6 +25,11 @@ zhiqiangxie:
 calebwinston:
   name: Caleb Winston
   url: https://calebwin.github.io
+  title: PhD Student
+
+athinagorasskiadopoulos:
+  name: Athinagoras Skiadopoulos
+  url: https://stanford.edu/~askiad/
   title: PhD Student
 
 markzhao:
@@ -50,6 +50,7 @@ jackhumphries:
   url: https://www.linkedin.com/in/jack-h-7b9a0a161/
   title: PhD Student
   alumni: true
+  next: Engineer at Stellar Foundation
 
 geetsethi:
   name: Geet Sethi
@@ -78,6 +79,97 @@ yawenwang:
   title: PhD Student
   alumni: true
   next: Researcher at Google SRG
+
+kostiskaffes:
+  name: Kostis Kaffes  
+  url: https://www.cs.columbia.edu/~kkaffes/
+  title: PhD Student
+  alumni: true
+  next: Faculty at Columbia CS
+
+anaklimovic:
+  name: Ana Klimovic  
+  url: https://anakli.inf.ethz.ch
+  title: PhD Student
+  alumni: true
+  next: Faculty at ETHZ CS
+
+grantayers:
+  name: Grant Ayers  
+  url: https://www.linkedin.com/in/grant-edward-ayers/
+  title: PhD Student
+  alumni: true
+  next: Engineer at Google
+
+raghuprabhakar:
+  name: Raghu Prabhakar  
+  url: https://www.linkedin.com/in/raprabhakar/
+  title: PhD Student
+  alumni: true
+  next: Engineer at Sambanova Systems
+
+samgrossman:
+  name: Samuel Grossman  
+  url: https://www.linkedin.com/in/samuel-grossman-603bba35/
+  title: PhD Student
+  alumni: true
+  next: Engineer at Google
+
+mingyugao:
+  name: Mingyu Gao  
+  url: https://people.iiis.tsinghua.edu.cn/~gaomy/
+  title: PhD Student
+  alumni: true
+  next: Faculty at Tshinghua IIIS
+
+camilomoreno:
+  name: Camilo Moreno  
+  url: https://www.linkedin.com/in/camilo-moreno-757a6012/
+  title: PhD Student
+  alumni: true
+  next: Architect at Intel
+
+adambelay:
+  name: Adam Belay  
+  url: http://www.abelay.me
+  title: PhD Student
+  alumni: true
+  next: Faculty at MIT CS
+
+davidlo:
+  name: David Lo  
+  url: https://www.linkedin.com/in/davidlo168/
+  title: PhD Student
+  alumni: true
+  next: Eng. Director at Google
+
+christinadelimitrou:
+  name: Christina Delimitrou  
+  url: https://people.csail.mit.edu/delimitrou/
+  title: PhD Student
+  alumni: true
+  next: Faculty at MIT CS
+
+jacobleverich:
+  name: Jacob Leverich  
+  url: https://www.linkedin.com/in/jacob-leverich/ 
+  title: PhD Student
+  alumni: true
+  next: Co-founder at Observe
+
+rehanhameed:
+  name: Rehan Hameed  
+  url: https://www.linkedin.com/in/rehan-hameed/
+  title: PhD Student
+  alumni: true
+  next: Co-founder at Kinara
+
+richardyoo:
+  name: Richard Yoo  
+  url: https://www.linkedin.com/in/rmyoo/
+  title: PhD Student
+  alumni: true
+  next: CTO at Lunit 
 
 # Postdocs
 
