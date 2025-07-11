@@ -3,7 +3,7 @@ layout: page
 home: true
 ---
 <p id="mission">
-  Lab's <strong>mission</strong> goes here.
+We conduct research in </strong>computer architecture and computer systems</strong>, with the goal of making computing systems <i>at all scales</i> faster, more energy-efficient, cost-effective, and secure. Our recent work focuses on cloud computing infrastructure, systems for machine learning, and the use of machine learning to optimize systems.
 </p>
 
 <div id="home" class="pure-g">
