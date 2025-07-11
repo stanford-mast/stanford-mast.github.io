@@ -257,9 +257,26 @@ neerajadwadkar:
 
 
 # Master's
-
 # Undergrads
+dimitriseconomou:
+  name: Dimitris Economou
+  url: https://www.linkedin.com/in/dimitris-economou-8b6a1b1a2/
+  title: Undergraduate Student
+  alumni: true
+  next: Partner at MIO Partners
 
+travisskare:
+  name: Travis Skare
+  url: https://www.linkedin.com/in/travis-skare-0b1a1b1a2/
+  title: Undergraduate Student
+  alumni: true
+
+danielmendoza:
+  name: Daniel Mendoza
+  url: https://cs.stanford.edu/people/dmendo/
+  title: Undergraduate Student
+  alumni: true
+  next: PhD student at Stanford  
 # Interns
 
 # Visitors
