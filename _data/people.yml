@@ -171,6 +171,75 @@ richardyoo:
   alumni: true
   next: CTO at Lunit 
 
+danielsanchez:
+  name: Daniel Sanchez  
+  url: https://people.csail.mit.edu/sanchez/
+  title: PhD Student
+  alumni: true
+  next: Faculty at MIT CS
+
+harikannan:
+  name: Hari Kannan  
+  url: https://www.linkedin.com/in/hakannan/
+  title: PhD Student
+  alumni: true
+  next: Eng. Director at Pure Storage 
+
+woongkibaek:
+  name: Woongki Baek  
+  url: https://www.linkedin.com/in/rmyoo/
+  title: PhD Student
+  alumni: true
+  next: Faculty at UNIST CSE 
+
+austenmcdonald:
+  name: Austen McDonald  
+  url: https://www.linkedin.com/in/austenmc/
+  title: PhD Student
+  alumni: true
+  next: CTO at RITP 
+
+michaeldalton:
+  name: Michael Dalton  
+  url: https://www.linkedin.com/in/mike-dalton-998b895/
+  title: PhD Student
+  alumni: true
+  next: MTS at OpenAI 
+
+sewookwee:
+  name: Sewook Wee  
+  url: https://www.linkedin.com/in/sewook-wee/
+  title: PhD Student
+  alumni: true
+  next: Data TL at Ringle 
+
+ruzyrivoire:
+  name: Suzanne Rivoire  
+  url: https://rivoire.cs.sonoma.edu
+  title: PhD Student
+  alumni: true
+  next: Faculty at Sonoma State CS 
+
+jaewoongchung:
+  name: JaeWoong Chung  
+  url: https://www.linkedin.com/in/jae-woong-chung-6711b710/
+  title: PhD Student
+  alumni: true
+  next: CEO at Atto Research 
+
+chicaominh:
+  name: Chi Cao Minh  
+  url: https://www.linkedin.com/in/chicaominh/
+  title: PhD Student
+  alumni: true
+  next: MTS at Oracle 
+
+ahmadzmily:
+  name: Ahmad Zmily  
+  url: https://dl.acm.org/profile/81100474901
+  title: PhD Student
+  alumni: true
+
 # Postdocs
 
 # Master's
