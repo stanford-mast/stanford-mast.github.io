@@ -8,7 +8,7 @@ We conduct research in <strong>computer architecture and computer systems</stron
 
 <div id="home" class="pure-g">
   <div id="themes" class="pure-u-1 pure-u-md-3-5">
-    <h2>Research Themes</h2>
+    <h2>Active Research Themes</h2>
     {% for theme in site.data.research_themes %}
       <div id="theme-{{theme.key}}" class="theme" data-url="{{theme.url}}" data-people="{{theme.people}}">
         <!-- <img src="/themes/{{theme.key}}.png" style="max-width: 100%; height: auto; display: block; margin-top: 0;"> -->
