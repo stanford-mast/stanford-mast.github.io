@@ -9,7 +9,7 @@
   url: /pubs/#tag=scaleoutai
 # people:
   desc: >
-  Today’s AI infrastructure, rooted in HPC paradigms, is inflexible and expensive. We are designing AI systems around scale-out principles to improve scalability, resilience, and cost effectiveness.
+    Today’s AI infrastructure, rooted in HPC paradigms, is inflexible and expensive. We are designing AI systems around scale-out principles to improve scalability, resilience, and cost effectiveness.
 - key: hwswcodesign
   name: Hardware/software co-design
   url: /pubs/#tag=hwswcodesign
