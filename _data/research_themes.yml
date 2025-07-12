@@ -1,5 +1,5 @@
 - key: efficientai
-  name: Efficient AI
+  name: AI Efficiency
   url: /pubs/#tag=efficientai
   desc: >
     AI workloads are growing in compute and memory demands far faster than hardware capabilities can keep up. We are developing systems techniques and AI-system interfaces that bridge this efficiency gap.
