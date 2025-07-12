@@ -1,18 +1,15 @@
 - key: efficientai
   name: Efficient AI
   url: /pubs/#tag=efficientai
-# people:
   desc: >
     AI workloads are growing in compute and memory demands far faster than hardware capabilities can keep up. We are developing systems techniques and AI-system interfaces that bridge this efficiency gap.
 - key: scaleoutai
   name: Scale-out AI systems
   url: /pubs/#tag=scaleoutai
-# people:
   desc: >
     Today’s AI infrastructure, rooted in HPC paradigms, is inflexible and expensive. We are designing AI systems around scale-out principles to improve scalability, resilience, and cost effectiveness.
 - key: hwswcodesign
   name: Hardware/software co-design
   url: /pubs/#tag=hwswcodesign
- # people:
- desc: >
+  desc: >
     We are co-designing hardware, system software, and applications to improve the efficiency of cloud infrastructure, frequently using AI techniques to automate optimization.
