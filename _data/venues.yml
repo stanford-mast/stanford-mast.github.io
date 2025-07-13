@@ -10,3 +10,117 @@ sosp:
   bibtex:
     type: inproceedings
     venue: booktitle
+vldb:
+  short: VLDB
+  full: The International Journal on Very Large Data Bases 
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+osdi:
+  short: OSDI
+  full: USENIX Symposium on Operating Systems Design and Implementation (OSDI)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+usenixatc:
+  short: USENIX ATC
+  full: USENIX Annual Technical Conference (USENIX ATC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+asplos:
+  short: ASPLOS
+  full: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+isca:
+  short: ISCA
+  full: International Symposium on Computer Architecture (ISCA)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+nsdi:
+  short: NSDI
+  full: USENIX Symposium on Networked Systems Design and Implementation (NSDI)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sigmod:
+  short: SIGMOD
+  full: ACM SIGMOD International Conference on Management of Data
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+micro:
+  short: MICRO
+  full: International Symposium on Microarchitecture (MICRO)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+hpca:
+  short: HPCA
+  full: International Symposium on High-Performance Computer Architecture (HPCA)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+cidr:
+  short: CIDR
+  full: Conference on Innovative Data Systems Research (CIDR)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+socc:
+  short: SoCC
+  full: ACM Symposium on Cloud Computing (SoCC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+neurips:
+  short: NeurIPS
+  full: Conference on Neural Information Processing Systems (NeurIPS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+icml:
+  short: ICML
+  full: International Conference on Machine Learning (ICML)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+iclr:
+  short: ICLR
+  full: International Conference on Learning Representations (ICLR)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+acl:
+  short: ACL
+  full: Association for Computational Linguistics (ACL)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+emnlp:
+  short: EMNLP
+  full: Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  bibtex:   
+    type: inproceedings
+    venue: booktitle
+icde:
+  short: ICDE
+  full: IEEE International Conference on Data Engineering (ICDE)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+mlsys:
+  short: MLSys
+  full: Conference on Machine Learning and Systems (MLSys)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sigcomm:
+  short: SIGCOMM
+  full: ACM Special Interest Group on Data Communication (SIGCOMM)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
