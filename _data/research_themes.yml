@@ -1,6 +1,6 @@
-- key: efficient AI
+- key: AI efficiency
   name: AI Efficiency
-  url: /pubs/#tag="efficient AI"
+  url: /pubs/#tag="AI efficiency"
   desc: >
     AI workloads are growing in compute and memory demands far faster than hardware capabilities can keep up. We are developing systems techniques and AI-system interfaces that bridge this efficiency gap.
 - key: scale-out AI
