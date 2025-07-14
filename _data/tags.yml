@@ -1,4 +1,7 @@
 - # domain
+  - efficientai
+  - scaleoutai
   - distributed pre-training
   - inference
   - fault-tolerance
+  - hwswcodesign
