@@ -1,14 +1,14 @@
-- key: AI efficiency
+- key: aiefficiency
   name: AI Efficiency
   url: /pubs/#tag="AI efficiency"
   desc: >
     AI workloads are growing in compute and memory demands far faster than hardware capabilities can keep up. We are developing systems techniques and AI-system interfaces that bridge this efficiency gap.
-- key: scale-out AI
+- key: scaleoutAI
   name: Scale-out AI systems
   url: /pubs/#tag="scale-out AI"
   desc: >
     Today’s AI infrastructure, rooted in HPC paradigms, is inflexible and expensive. We are designing AI systems around scale-out principles to improve scalability, resilience, and cost effectiveness.
-- key: HW/SW co-design
+- key: hwswcodesign
   name: HW/SW co-design
   url: /pubs/#tag="HW/SW co-design"
   desc: >
