@@ -7,7 +7,6 @@ venue: preprint
 year: 2025
 date: 2025-04-29
 doi: 10.48550/arXiv.2412.15411
-teaser: False
 thumbnail: True
 materials:
   - name: PDF
