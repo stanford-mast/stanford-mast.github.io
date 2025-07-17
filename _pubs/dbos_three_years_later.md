@@ -13,6 +13,8 @@ venue: vldb
 year: 2025
 date: 2025-04-29
 doi: 10.1007/s00778-024-00899-0
+teaser: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -15,6 +15,8 @@ venue: mlsys
 year: 2025
 date: 2025-05-12
 doi: 10.48550/arXiv.2411.03519
+teaser: False
+thumbnail: True
 materials:
   - name: PDF
     url: https://arxiv.org/pdf/2411.03519

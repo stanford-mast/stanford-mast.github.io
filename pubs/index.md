@@ -21,7 +21,9 @@ layout: page
         <div id="{{pub.slug}}" class="pub pure-g" data-pub='{{ pub | jsonify_pub }}'>
           <div class="thumbnail pure-u-1-3 pure-u-md-1-5">
             <a href="{{url}}">
-              <img src="/imgs/thumbs/{{pub.slug}}.png" alt="" />
+              {% if pub.thumbnail %}
+                <img src="/imgs/thumbs/{{pub.slug}}.png" alt="" />
+              {% endif %}
             </a>
           </div>
 

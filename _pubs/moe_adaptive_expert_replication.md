@@ -13,6 +13,8 @@ venue: preprint
 year: 2025
 date: 2025-04-28
 doi: 10.48550/arXiv.2504.19925
+teaser: False
+thumbnail: True
 materials:
   - name: PDF
     url: https://arxiv.org/pdf/2504.19925
