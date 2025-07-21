@@ -23,7 +23,7 @@ email: kozyraki@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "The Stanford Multi-scale Architectures & Systems Team"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://stanford-mast.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://mast.stanford.edu" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /imgs/logo.png
 github_username:  stanford-mast
 
