@@ -1,0 +1,18 @@
+---
+title: 'RecShard: statistical feature-based memory optimization for industry-scale neural recommendation'
+authors:
+  - key: geetsethi
+  - name: Bilge Acun
+  - name: Niket Agarwal
+  - key: christoskozyrakis
+  - name: Caroline Trippel
+  - name: Carole-Jean Wu
+venue: preprint
+year: 2022
+date: 2022-02-01
+doi: 
+thumbnail: False
+materials:
+tags:
+---
+We propose RecShard, a fine-grained embedding table (EMB) partitioning and placement technique for deep learning recommendation models (DLRMs). RecShard is designed based on two key observations. First, not all EMBs are equal, nor all rows within an EMB are equal in terms of access patterns. EMBs exhibit distinct memory characteristics, providing performance optimization opportunities for intelligent EMB partitioning and placement across a tiered memory hierarchy. Second, in modern DLRMs, EMBs function as hash tables. As a result, EMBs display interesting phenomena, such as the birthday paradox, leaving EMBs severely under-utilized. RecShard determines an optimal EMB sharding strategy for a set of EMBs based on training data distributions and model characteristics, along with the bandwidth characteristics of the underlying tiered memory hierarchy. In doing so, RecShard achieves over 6 …
