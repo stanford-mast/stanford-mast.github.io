@@ -4,10 +4,10 @@ authors:
   - key: swapnilgandhi
   - key: christoskozyrakis
 venue: preprint
-year: 2024
-date: 2024-12-01
+year: 2025
+date: 2025-05-01
 doi: 
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---
