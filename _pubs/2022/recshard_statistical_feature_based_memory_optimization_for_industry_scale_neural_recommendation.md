@@ -7,10 +7,10 @@ authors:
   - key: christoskozyrakis
   - name: Caroline Trippel
   - name: Carole-Jean Wu
-venue: preprint
+venue: asplos
 year: 2022
 date: 2022-02-01
-doi: 
+doi: 10.1145/3503222.3507777
 thumbnail: False
 materials:
 tags:

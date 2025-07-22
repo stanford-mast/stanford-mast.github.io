@@ -1,15 +1,14 @@
 ---
 title: 'A case for managed and model-less inference serving'
 authors:
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - key: frankyromero
   - key: qianli
   - key: christoskozyrakis
-venue: preprint
+venue: hotos
 year: 2019
 date: 2019-05-01
-doi: 
+doi: 10.1145/3317550.3321443
 thumbnail: False
 materials:
 tags:

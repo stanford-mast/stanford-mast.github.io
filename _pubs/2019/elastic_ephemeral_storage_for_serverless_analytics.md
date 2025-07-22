@@ -1,5 +1,5 @@
 ---
-title: 'Elastic Ephemeral Storage for Serverless Analytics'
+title: 'Pocket: Elastic Ephemeral Storage for Serverless Analytics'
 authors:
   - key: anaklimovic
   - key: yawenwang
@@ -7,10 +7,10 @@ authors:
   - name: Animesh Trivedi
   - name: Jonas Pfefferle
   - key: christoskozyrakis
-venue: preprint
+venue: osdi
 year: 2019
 date: 2019-01-01
-doi: 
+doi: 10.5555/3291168.3291200
 thumbnail: False
 materials:
 tags:

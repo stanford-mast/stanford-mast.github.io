@@ -3,14 +3,18 @@ title: 'Cloud atlas: Efficient fault localization for cloud systems using langua
 authors:
   - key: zhiqiangxie
   - name: Yujia Zheng
+    affiliation: CMU
   - name: Lizi Ottens
+    affiliation: Stanford
   - name: Kun Zhang
+    affiliation: CMU
   - key: christoskozyrakis
   - name: Jonathan Mace
+    affiliation: Microsoft
 venue: preprint
 year: 2024
 date: 2024-07-01
-doi: 
+doi: 10.48550/arXiv.2407.08694
 thumbnail: False
 materials:
 tags:

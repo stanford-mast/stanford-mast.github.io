@@ -12,10 +12,10 @@ authors:
   - name: Tipp Moseley
   - name: Parthasarathy Ranganathan
     affiliation: Google
-venue: preprint
+venue: isca
 year: 2020
 date: 2020-04-01
-doi: 
+doi: 10.1145/3307650.3322234
 thumbnail: False
 materials:
 tags:

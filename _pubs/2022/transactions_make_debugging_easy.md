@@ -13,10 +13,10 @@ authors:
   - name: Lalith Suresh
   - name: Matei Zaharia
     affiliation: UC Berkeley
-venue: preprint
+venue: cidr
 year: 2022
 date: 2022-12-01
-doi: 
+doi: 10.48550/arXiv.2212.14161
 thumbnail: False
 materials:
 tags:

@@ -10,7 +10,7 @@ authors:
 venue: preprint
 year: 2018
 date: 2018-12-01
-doi: 
+doi: 10.48550/arXiv.1812.09442
 thumbnail: False
 materials:
 tags:

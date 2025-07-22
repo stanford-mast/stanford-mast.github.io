@@ -1,5 +1,5 @@
 ---
-title: 'Faa $ t: A transparent auto-scaling cache for serverless applications'
+title: 'Faa$t: A Transparent Auto-Scaling Cache for Serverless Applications'
 authors:
   - key: frankyromero
   - name: Gohar Irfan Chaudhry
@@ -11,10 +11,10 @@ authors:
   - name: Rodrigo Fonseca
   - key: christoskozyrakis
   - name: Ricardo Bianchini
-venue: preprint
+venue: socc
 year: 2021
 date: 2021-11-01
-doi: 
+doi: 10.1145/3472883.3486974
 thumbnail: False
 materials:
 tags:

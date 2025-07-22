@@ -5,10 +5,10 @@ authors:
   - name: Christos Kozanitis
   - key: christoskozyrakis
   - name: Angelos Bilas
-venue: preprint
+venue: taco
 year: 2018
 date: 2018-08-01
-doi: 
+doi: 10.1145/3210560
 thumbnail: False
 materials:
 tags:

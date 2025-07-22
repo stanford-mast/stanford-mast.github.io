@@ -14,10 +14,10 @@ authors:
   - name: Xiangyao Yu
   - name: Matei Zaharia
     affiliation: UC Berkeley
-venue: preprint
+venue: vldb
 year: 2023
 date: 2023-07-01
-doi: 
+doi: 10.14778/3611479.3611510
 thumbnail: False
 materials:
 tags:

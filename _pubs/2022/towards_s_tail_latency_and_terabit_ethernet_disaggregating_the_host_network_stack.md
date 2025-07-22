@@ -7,10 +7,10 @@ authors:
   - key: christoskozyrakis
   - name: Rachit Agarwal
     affiliation: Cornell
-venue: preprint
+venue: sigcomm
 year: 2022
 date: 2022-08-01
-doi: 
+doi: 10.1145/3544216.3544230
 thumbnail: False
 materials:
 tags:

@@ -9,10 +9,10 @@ authors:
   - key: christoskozyrakis
   - name: H-S Philip Wong
   - name: Subhasish Mitra
-venue: preprint
+venue: codes
 year: 2017
 date: 2017-10-01
-doi: 
+doi: 10.1145/3125502.3125531
 thumbnail: False
 materials:
 tags:

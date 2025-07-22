@@ -8,10 +8,10 @@ authors:
   - name: Hongzhong Zheng
   - name: Bob Brennan
   - key: christoskozyrakis
-venue: preprint
+venue: isca
 year: 2017
 date: 2017-06-01
-doi: 
+doi: 10.1145/3007787.3001191
 thumbnail: False
 materials:
 tags:

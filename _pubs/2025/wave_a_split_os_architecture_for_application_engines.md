@@ -11,9 +11,9 @@ authors:
   - name: David E Culler
   - key: christoskozyrakis
 venue: preprint
-year: 2024
-date: 2024-01-01
-doi: 
+year: 2025
+date: 2025-01-01
+doi: 10.48550/arXiv.2408.17351
 thumbnail: False
 materials:
 tags:

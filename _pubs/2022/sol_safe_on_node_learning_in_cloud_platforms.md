@@ -3,15 +3,14 @@ title: 'SOL: Safe on-node learning in cloud platforms'
 authors:
   - key: yawenwang
   - name: Daniel Crankshaw
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - name: Daniel Berger
   - key: christoskozyrakis
   - name: Ricardo Bianchini
-venue: preprint
+venue: asplos
 year: 2022
 date: 2022-02-01
-doi: 
+doi: 10.1145/3503222.350770
 thumbnail: False
 materials:
 tags:

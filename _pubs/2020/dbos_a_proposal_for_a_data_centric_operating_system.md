@@ -1,5 +1,5 @@
 ---
-title: 'Dbos: A proposal for a data-centric operating system'
+title: 'DBOS: A proposal for a data-centric operating system'
 authors:
   - name: Michael Cafarella
   - name: David DeWitt
@@ -12,10 +12,10 @@ authors:
     affiliation: MIT
   - name: Matei Zaharia
     affiliation: UC Berkeley
-venue: preprint
+venue: vldb
 year: 2020
 date: 2020-07-01
-doi: 
+doi: 10.14778/3485450.3485454
 thumbnail: False
 materials:
 tags:

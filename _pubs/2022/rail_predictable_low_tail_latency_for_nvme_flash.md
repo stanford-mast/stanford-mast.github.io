@@ -5,10 +5,10 @@ authors:
   - name: Javier Gonzalez
   - key: anaklimovic
   - key: christoskozyrakis
-venue: preprint
+venue: tos
 year: 2022
 date: 2022-01-01
-doi: 
+doi: 10.1145/3465406
 thumbnail: False
 materials:
 tags:

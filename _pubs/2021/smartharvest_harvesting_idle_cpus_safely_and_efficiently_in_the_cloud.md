@@ -12,10 +12,10 @@ authors:
   - name: Sameh Elnikety
   - key: christoskozyrakis
   - name: Ricardo Bianchini
-venue: preprint
+venue: eurosys
 year: 2021
 date: 2021-04-01
-doi: 
+doi: 10.1145/3447786.3456225
 thumbnail: False
 materials:
 tags:

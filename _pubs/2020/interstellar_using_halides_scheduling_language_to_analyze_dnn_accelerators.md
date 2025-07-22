@@ -1,5 +1,5 @@
 ---
-title: 'Interstellar: Using halides scheduling language to analyze dnn accelerators'
+title: 'Interstellar: Using Halides Scheduling Language to Analyze DNN Accelerators'
 authors:
   - name: Xuan Yang
   - key: mingyugao
@@ -14,10 +14,10 @@ authors:
   - key: christoskozyrakis
   - name: Mark Horowitz
     affiliation: Stanford
-venue: preprint
+venue: asplos
 year: 2020
 date: 2020-03-01
-doi: 
+doi: 10.1145/3373376.3378514
 thumbnail: False
 materials:
 tags:

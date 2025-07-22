@@ -18,10 +18,10 @@ authors:
   - name: Carole-Jean Wu
   - key: christoskozyrakis
   - name: Parik Pol
-venue: preprint
+venue: isca
 year: 2022
 date: 2022-06-01
-doi: 
+doi: 10.1145/3470496.3533044
 thumbnail: False
 materials:
 tags:

@@ -2,13 +2,12 @@
 title: 'Centralized core-granular scheduling for serverless functions'
 authors:
   - key: kostiskaffes
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - key: christoskozyrakis
-venue: preprint
+venue: socc
 year: 2019
 date: 2019-11-01
-doi: 
+doi: 10.1145/3357223.3362709
 thumbnail: False
 materials:
 tags:

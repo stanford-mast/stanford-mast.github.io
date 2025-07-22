@@ -1,13 +1,14 @@
 ---
-title: 'cedar: Optimized and unified machine learning input data pipelines'
+title: 'cedar: Optimized and Unified Machine Learning Input Data Pipelines'
 authors:
   - key: markzhao
   - name: Emanuel Adamiak
+    affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
+venue: vldb
 year: 2024
-date: 2024-01-01
-doi: 
+date: 2024-10-01
+doi: 10.14778/3705829.3705861
 thumbnail: False
 materials:
 tags:

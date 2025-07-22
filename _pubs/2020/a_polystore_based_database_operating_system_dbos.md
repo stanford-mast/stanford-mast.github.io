@@ -12,10 +12,10 @@ authors:
     affiliation: MIT
   - name: Matei Zaharia
     affiliation: UC Berkeley
-venue: vldb
+venue: vldbworkshop
 year: 2020
 date: 2020-08-01
-doi: 
+doi: 10.1007/978-3-030-71055-2_1
 thumbnail: False
 materials:
 tags:

@@ -2,13 +2,12 @@
 title: 'Hermod: principled and practical scheduling for serverless functions'
 authors:
   - key: kostiskaffes
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - key: christoskozyrakis
-venue: preprint
+venue: socc
 year: 2022
 date: 2022-11-01
-doi: 
+doi: 10.1145/3542929.3563468
 thumbnail: False
 materials:
 tags:

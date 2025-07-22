@@ -8,10 +8,10 @@ authors:
   - name: Charlie Tai
   - name: Michael Kishinevsky
   - key: christoskozyrakis
-venue: preprint
+venue: archletters
 year: 2021
 date: 2021-03-01
-doi: 
+doi: 10.1109/LCA.2021.3066142
 thumbnail: False
 materials:
 tags:

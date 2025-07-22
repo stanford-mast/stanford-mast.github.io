@@ -1,13 +1,13 @@
 ---
-title: 'Shef: Shielded enclaves for cloud fpgas'
+title: 'ShEF: Shielded enclaves for cloud fpgas'
 authors:
   - key: markzhao
   - key: mingyugao
   - key: christoskozyrakis
-venue: preprint
+venue: asplos
 year: 2022
 date: 2022-02-01
-doi: 
+doi: 10.1145/3503222.3507733
 thumbnail: False
 materials:
 tags:

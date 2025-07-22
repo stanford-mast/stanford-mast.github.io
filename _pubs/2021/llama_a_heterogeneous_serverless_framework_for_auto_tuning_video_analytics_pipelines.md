@@ -3,13 +3,12 @@ title: 'Llama: A heterogeneous & serverless framework for auto-tuning video anal
 authors:
   - key: frankyromero
   - key: markzhao
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - key: christoskozyrakis
-venue: preprint
+venue: socc
 year: 2021
 date: 2021-11-01
-doi: 
+doi: 10.48550/arXiv.2102.01887
 thumbnail: False
 materials:
 tags:

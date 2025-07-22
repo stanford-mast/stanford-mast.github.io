@@ -7,10 +7,10 @@ authors:
   - name: David Mazières
     affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
+venue: hotnets
 year: 2019
 date: 2019-11-01
-doi: 
+doi: 10.1145/3365609.3365856
 thumbnail: False
 materials:
 tags:

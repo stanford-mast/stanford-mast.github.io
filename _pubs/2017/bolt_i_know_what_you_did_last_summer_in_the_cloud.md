@@ -3,10 +3,10 @@ title: 'Bolt: I know what you did last summer... in the cloud'
 authors:
   - key: christinadelimitrou
   - key: christoskozyrakis
-venue: preprint
+venue: asplos
 year: 2017
 date: 2017-04-01
-doi: 
+doi: 10.1145/3093337.3037703
 thumbnail: False
 materials:
 tags:

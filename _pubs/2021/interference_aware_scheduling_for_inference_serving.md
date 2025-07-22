@@ -4,13 +4,12 @@ authors:
   - key: danielmendoza
   - key: frankyromero
   - key: qianli
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - key: christoskozyrakis
-venue: preprint
+venue: euromlsys
 year: 2021
 date: 2021-04-01
-doi: 
+doi: 10.1145/3437984.3458837
 thumbnail: False
 materials:
 tags:

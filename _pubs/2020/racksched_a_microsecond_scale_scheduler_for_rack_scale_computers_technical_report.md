@@ -9,10 +9,10 @@ authors:
   - name: Ion Stoica
     affiliation: UC Berkeley
   - name: Xin Jin
-venue: preprint
+venue: osdi
 year: 2020
 date: 2020-10-01
-doi: 
+doi: 10.5555/3488766.3488835
 thumbnail: False
 materials:
 tags:

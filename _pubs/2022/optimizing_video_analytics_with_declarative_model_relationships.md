@@ -5,14 +5,16 @@ authors:
   - name: Johann Hauswald
     affiliation: Stanford
   - name: Aditi Partap
+    affiliation: Stanford
   - name: Daniel Kang
+    affiliation: Stanford
   - name: Matei Zaharia
     affiliation: UC Berkeley
   - key: christoskozyrakis
-venue: preprint
+venue: vldb
 year: 2022
 date: 2022-11-01
-doi: 
+doi: 10.14778/3570690.3570695
 thumbnail: False
 materials:
 tags:

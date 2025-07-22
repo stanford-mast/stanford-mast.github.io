@@ -2,13 +2,12 @@
 title: 'Practical scheduling for real-world serverless computing'
 authors:
   - key: kostiskaffes
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - key: christoskozyrakis
 venue: preprint
 year: 2021
 date: 2021-11-01
-doi: 
+doi: 10.48550/arXiv.2111.07226
 thumbnail: False
 materials:
 tags:

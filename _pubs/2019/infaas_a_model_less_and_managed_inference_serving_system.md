@@ -6,10 +6,10 @@ authors:
   - name: Neeraja J Yadwadkar
     affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
+venue: atc
 year: 2019
 date: 2019-05-01
-doi: 
+doi: 10.48550/arXiv.1905.13348
 thumbnail: False
 materials:
 tags:

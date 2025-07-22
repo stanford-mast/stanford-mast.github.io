@@ -2,14 +2,18 @@
 title: 'Teaching Cloud Infrastructure and Scalable Application Deployment in an Undergraduate Computer Science Program'
 authors:
   - name: Aditya Saligrama
+    affiliation: Stanford
   - name: Cody Ho
+    affiliation: Stanford
   - name: Benjamin Tripp
+    affiliation: Stanford
   - name: Michael Abbott
+    affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
+venue: sigcsets
 year: 2025
 date: 2025-02-01
-doi: 
+doi: 10.1145/3641554.370187
 thumbnail: False
 materials:
 tags:

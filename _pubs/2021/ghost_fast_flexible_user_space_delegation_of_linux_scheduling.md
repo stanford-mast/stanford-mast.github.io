@@ -1,5 +1,5 @@
 ---
-title: 'ghost: Fast & flexible user-space delegation of linux scheduling'
+title: 'ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling'
 authors:
   - name: Jack Tigar Humphries
     affiliation: Stanford
@@ -12,10 +12,10 @@ authors:
   - name: Oleg Rombakh
   - name: Paul Turner
   - key: christoskozyrakis
-venue: preprint
+venue: sosp
 year: 2021
 date: 2021-10-01
-doi: 
+doi: 10.1145/3477132.3483542
 thumbnail: False
 materials:
 tags:

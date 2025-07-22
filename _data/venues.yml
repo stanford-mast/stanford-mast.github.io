@@ -22,7 +22,7 @@ osdi:
   bibtex:
     type: inproceedings
     venue: booktitle
-usenixatc:
+atc:
   short: USENIX ATC
   full: USENIX Annual Technical Conference (USENIX ATC)
   bibtex:
@@ -124,3 +124,93 @@ sigcomm:
   bibtex:
     type: inproceedings
     venue: booktitle
+sigcsets:
+  short: SIGCSETS
+  full: ACM Technical Symposium on Computer Science Education (SIGCSETS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+tos:
+  short: ToS
+  full: ACM Transactions on Storage (ToS)
+  bibtex:
+    type: article
+    venue: journal
+hotos:
+  short: HotOS
+  full: USENIX Workshop on Hot Topics in Operating Systems (HotOS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+eurosys:
+  short: EuroSys
+  full: European Conference on Computer Systems (EuroSys)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+euromlsys:
+  short: EuroMLSys
+  full: European Conference on Machine Learning Systems (EuroMLSys)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+archletters:
+  short: IEEE Letters
+  full: IEEE Computer Architecture Letters 
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+vldbworkshop:
+  short: VLDB Workshop
+  full: International Conference on Very Large Data Bases (VLDB) Workshop
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+micro:
+  short: MICRO
+  full: International Symposium on Microarchitecture (MICRO)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+hotnets:
+  short: HotNets
+  full: ACM Workshop on Hot Topics in Networks (HotNets)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+cacm:
+  short: CACM
+  full: Communications of the ACM (CACM)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+ppopp:
+  short: PPoPP
+  full: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+taco:
+  short: TACO
+  full: ACM Transactions on Architecture and Code Optimization (TACO)
+  bibtex:
+    type: article
+    venue: journal
+pldi:
+  short: PLDI
+  full: ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+codes:
+  short: CODES
+  full: International Conference on Hardware/Software Codesign and System Synthesis (CODES)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+tocs:
+  short: TOCS
+  full: ACM Transactions on Computer Systems (TOCS)
+  bibtex:
+    type: article
+    venue: journal

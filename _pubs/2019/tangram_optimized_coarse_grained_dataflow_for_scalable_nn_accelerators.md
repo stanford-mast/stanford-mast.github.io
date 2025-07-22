@@ -7,10 +7,10 @@ authors:
   - name: Mark Horowitz
     affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
+venue: asplos
 year: 2019
 date: 2019-04-01
-doi: 
+doi: 10.1145/3297858.3304014
 thumbnail: False
 materials:
 tags:

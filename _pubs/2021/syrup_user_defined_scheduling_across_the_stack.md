@@ -7,10 +7,10 @@ authors:
   - name: David Mazières
     affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
+venue: sosp
 year: 2021
 date: 2021-10-01
-doi: 
+doi: 10.1145/3477132.3483548
 thumbnail: False
 materials:
 tags:

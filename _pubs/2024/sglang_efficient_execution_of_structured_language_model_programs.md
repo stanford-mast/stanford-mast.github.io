@@ -2,12 +2,15 @@
 title: 'Sglang: Efficient execution of structured language model programs'
 authors:
   - name: Lianmin Zheng
+    affiliation: UC Berkeley
   - name: Liangsheng Yin
   - key: zhiqiangxie
   - name: Chuyue Livia Sun
+    affiliation: Stanford
   - name: Jeff Huang
   - name: Cody Hao Yu
   - name: Shiyi Cao
+    affiliation: UC Berkeley
   - key: christoskozyrakis
   - name: Ion Stoica
     affiliation: UC Berkeley
@@ -17,10 +20,10 @@ authors:
     affiliation: Stanford
   - name: Ying Sheng
     affiliation: Stanford
-venue: preprint
+venue: neurips
 year: 2024
 date: 2024-12-01
-doi: 
+doi: 10.48550/arXiv.2312.07104
 thumbnail: False
 materials:
 tags:

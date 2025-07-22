@@ -6,10 +6,10 @@ authors:
   - name: Yiyan Lin
   - key: davidlo
   - key: christoskozyrakis
-venue: preprint
+venue: socc
 year: 2020
 date: 2020-10-01
-doi: 
+doi: 10.1145/3419111.3421274
 thumbnail: False
 materials:
 tags:

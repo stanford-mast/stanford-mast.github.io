@@ -3,6 +3,7 @@ title: 'AI Metropolis: Scaling Large Language Model-based Multi-Agent Simulation
 authors:
   - key: zhiqiangxie
   - name: Hao Kang
+    affiliation: Georgia Tech
   - name: Ying Sheng
     affiliation: Stanford
   - name: Tushar Krishna
@@ -10,10 +11,10 @@ authors:
   - name: Kayvon Fatahalian
     affiliation: Stanford
   - key: christoskozyrakis
-venue: preprint
-year: 2024
-date: 2024-11-01
-doi: 
+venue: mlsys
+year: 2025
+date: 2025-05-17
+doi: 10.48550/arXiv.2411.03519
 thumbnail: False
 materials:
 tags:

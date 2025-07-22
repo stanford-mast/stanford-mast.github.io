@@ -6,10 +6,10 @@ authors:
   - key: christoskozyrakis
   - name: Parthasarathy Ranganathan
     affiliation: Google
-venue: preprint
+venue: asplos
 year: 2020
 date: 2020-03-01
-doi: 
+doi: 10.1145/3373376.3378498
 thumbnail: False
 materials:
 tags:
