@@ -6,8 +6,7 @@ authors:
   - name: Íñigo Goiri
   - name: Pragna Gopa
   - name: Paul Batum
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - name: Rodrigo Fonseca
   - key: christoskozyrakis
   - name: Ricardo Bianchini

@@ -1,8 +1,7 @@
 ---
 title: 'ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling'
 authors:
-  - name: Jack Tigar Humphries
-    affiliation: Stanford
+  - key: jackhumphries
   - name: Neel Natu
   - name: Ashwin Chaugule
   - name: Ofir Weisse

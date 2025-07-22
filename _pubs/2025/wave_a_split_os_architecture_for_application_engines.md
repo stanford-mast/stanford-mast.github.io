@@ -1,8 +1,7 @@
 ---
 title: 'Wave: A Split OS Architecture for Application Engines'
 authors:
-  - name: Jack Tigar Humphries
-    affiliation: Stanford
+  - key: jackhumphries
   - name: Neel Natu
     affiliation: Google
   - key: kostiskaffes

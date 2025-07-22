@@ -2,8 +2,7 @@
 title: 'Syrup: User-defined scheduling across the stack'
 authors:
   - key: kostiskaffes
-  - name: Jack Tigar Humphries
-    affiliation: Stanford
+  - key: jackhumphries
   - name: David Mazières
     affiliation: Stanford
   - key: christoskozyrakis

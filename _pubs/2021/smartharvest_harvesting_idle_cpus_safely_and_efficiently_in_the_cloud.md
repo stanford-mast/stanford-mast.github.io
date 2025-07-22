@@ -6,8 +6,7 @@ authors:
   - name: Marios Kogias
   - name: Manohar Vanga
   - name: Aditya Bhandari
-  - name: Neeraja J Yadwadkar
-    affiliation: Stanford
+  - key: neerajadwadkar
   - name: Siddhartha Sen
   - name: Sameh Elnikety
   - key: christoskozyrakis

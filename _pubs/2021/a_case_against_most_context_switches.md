@@ -1,9 +1,10 @@
 ---
 title: 'A case against (most) context switches'
 authors:
-  - name: Jack Tigar Humphries
-    affiliation: Stanford
+  - key: jackhumphries
+    equal: True
   - key: kostiskaffes
+    equal: True
   - name: David Mazières
     affiliation: Stanford
   - key: christoskozyrakis
