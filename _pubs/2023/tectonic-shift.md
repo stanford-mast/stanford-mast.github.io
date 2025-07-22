@@ -3,21 +3,37 @@ title: 'Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training'
 authors:
   -  key: markzhao
   - name: Satadru Pan
+    affiliation: Meta
   - name: Niket Agarwal
+    affiliation: Meta
   - name: Zhaoduo Wen
+    affiliation: Meta
   - name: David Xu
+    affiliation: Meta
   - name: Anand Natarajan
+    affiliation: Meta
   - name: Pavan Kumar
+    affiliation: Meta
   - name: Shiva Shankar P
+    affiliation: Meta
   - name: Ritesh Tijoriwala
+    affiliation: Meta
   - name: Karan Asher
+    affiliation: Meta
   - name: Hao Wu
+    affiliation: Meta
   - name: Aarti Basant
+    affiliation: Meta
   - name: Daniel Ford
+    affiliation: Meta
   - name: Delia David
+    affiliation: Meta
   - name: Nezih Yigitbasi
+    affiliation: Meta
   - name: Pratap Singh
+    affiliation: Meta
   - name: Carole-Jean Wu
+    affiliation: Meta
   - key: christoskozyrakis
 venue: atc
 year: 2023

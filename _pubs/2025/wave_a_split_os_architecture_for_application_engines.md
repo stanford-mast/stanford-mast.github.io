@@ -4,11 +4,16 @@ authors:
   - name: Jack Tigar Humphries
     affiliation: Stanford
   - name: Neel Natu
+    affiliation: Google
   - key: kostiskaffes
   - name: Stanko Novakovic
+    affiliation: Google
   - name: Paul Turner
+    affiliation: Google
   - name: Hank Levy
+    affiliation: Google
   - name: David E Culler
+    affiliation: Google
   - key: christoskozyrakis
 venue: preprint
 year: 2025
