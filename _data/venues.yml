@@ -238,3 +238,9 @@ spaa:
   bibtex:
     type: inproceedings
     venue: booktitle
+ieeemicro:
+  short: IEEE MICRO
+  full: IEEE Micro
+  bibtex:
+    type: inproceedings
+    venue: booktitle

@@ -3,7 +3,7 @@ title: 'The hot chips renaissance'
 authors:
   - key: christoskozyrakis
   - name: Ian Bratt
-venue: micro
+venue: ieeemicro
 year: 2020
 date: 2020-03-01
 doi: 10.1109/MM.2020.2977409

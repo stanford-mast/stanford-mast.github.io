@@ -3,7 +3,7 @@ title: 'Uncovering the Security Implications of Cloud Multi-Tenancy with Bolt'
 authors:
   - key: christinadelimitrou
   - key: christoskozyrakis
-venue: micro
+venue: ieeemicro
 year: 2018
 date: 2018-05-01
 doi: 10.1109/MM.2018.032271065
