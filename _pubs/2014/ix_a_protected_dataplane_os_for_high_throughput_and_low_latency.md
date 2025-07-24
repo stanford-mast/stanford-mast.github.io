@@ -9,7 +9,7 @@ authors:
   - key: christoskozyrakis
   - name: Edouard Bugnion
     affiliation: EPFL
-venue: hpca
+venue: osdi
 year: 2014
 date: 2014-10-01
 doi: 10.5555/2685048.2685053
