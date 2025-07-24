@@ -1,0 +1,25 @@
+---
+title: 'Generating configurable hardware from parallel patterns'
+authors:
+  - key: raghuprabhakar
+    affiliation: Stanford
+  - name: David Koeplinger
+    affiliation: Stanford
+  - name: Kevin J Brown
+    affiliation: Stanford
+  - name: HyoukJoong Lee
+    affiliation: Stanford
+  - name: Christopher De Sa
+    affiliation: Stanford
+  - key: christoskozyrakis
+  - name: Kunle Olukotun
+    affiliation: Stanford
+venue: asplos
+year: 2016
+date: 2016-03-01
+doi: 10.1145/2872362.2872415
+thumbnail: False
+materials:
+tags:
+---
+In recent years the computing landscape has seen an increasing shift towards specialized accelerators. Field programmable gate arrays (FPGAs) are particularly promising for the implementation of these accelerators, as they offer significant performance and energy improvements over CPUs for a wide class of applications and are far more flexible than fixed-function ASICs. However, FPGAs are difficult to program. Traditional programming models for reconfigurable logic use low-level hardware description languages like Verilog and VHDL, which have none of the productivity features of modern software languages but produce very efficient designs, and low-level software languages like C and OpenCL coupled with high-level synthesis (HLS) tools that typically produce designs that are far less efficient. Functional languages with parallel patterns are a better fit for hardware generation because they provide high-level abstractions to programmers with little experience in hardware design and avoid many of the problems faced when generating hardware from imperative languages. In this paper, we identify two important optimizations for using parallel patterns to generate efficient hardware: tiling and metapipelining. We present a general representation of tiled parallel patterns, and provide rules for automatically tiling patterns and generating metapipelines. We demonstrate experimentally that these optimizations result in speedups up to 39.4× on a set of benchmarks from the data analytics domain.

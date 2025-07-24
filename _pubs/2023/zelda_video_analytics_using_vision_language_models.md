@@ -2,7 +2,9 @@
 title: 'Zelda: Video analytics using vision-language models'
 authors:
   - key: frankyromero
+    equal: True
   - key: calebwinston
+    equal: True
   - name: Johann Hauswald
     affiliation: Stanford
   - name: Matei Zaharia

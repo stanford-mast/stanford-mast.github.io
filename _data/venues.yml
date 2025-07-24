@@ -214,3 +214,9 @@ tocs:
   bibtex:
     type: article
     venue: journal
+computer:
+  short: Computer
+  full: IEEE Computer
+  bibtex:
+    type: inproceedings
+    venue: booktitle
