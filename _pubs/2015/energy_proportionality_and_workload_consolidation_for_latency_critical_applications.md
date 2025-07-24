@@ -9,7 +9,7 @@ authors:
   - key: christoskozyrakis
   - name: Edouard Bugnion
     affiliation: EPFL
-venue: preprint
+venue: socc
 year: 2015
 date: 2015-08-01
 doi: 10.1145/2806777.2806848
