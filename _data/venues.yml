@@ -220,3 +220,21 @@ computer:
   bibtex:
     type: inproceedings
     venue: booktitle
+nvmw:
+  short: NVMW
+  full: Non-Volatile Memories Workshop (NVMW)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+scis:
+  short: SCIS
+  full: Sustainable Computing Informatics and Systems
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+spaa:
+  short: SPAA
+  full: ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)
+  bibtex:
+    type: inproceedings
+    venue: booktitle

@@ -1,0 +1,15 @@
+---
+title: 'Reconciling high server utilization and sub-millisecond quality-of-service'
+authors:
+  - key: jacobleverich
+  - key: christoskozyrakis
+venue: eurosys
+year: 2014
+date: 2014-04-01
+doi: 10.1145/2592798.2592821
+thumbnail: False
+materials:
+tags:
+---
+The simplest strategy to guarantee good quality of service (QoS) for a latency-sensitive workload with sub-millisecond latency in a shared cluster environment is to never run other workloads concurrently with it on the same server. Unfortunately, this inevitably leads to low server utilization, reducing both the capability and cost effectiveness of the cluster.
+In this paper, we analyze the challenges of maintaining high QoS for low-latency workloads when sharing servers with other workloads. We show that workload co-location leads to QoS violations due to increases in queuing delay, scheduling delay, and thread load imbalance. We present techniques that address these vulnerabilities, ranging from provisioning the latency-critical service in an interference aware manner, to replacing the Linux CFS scheduler with a scheduler that provides good latency guarantees and fairness for co-located workloads. Ultimately, we demonstrate that some latency-critical workloads can be aggressively co-located with other workloads, achieve good QoS, and that such co-location can improve a datacenter's effective throughput per TCO-$ by up to 52%.
