@@ -1,11 +1,11 @@
 ---
-title: 'Scalable and efficient fine-grained cache partitioning with vantage'
+title: 'Vantage: Scalable and efficient fine-grain cache partitioning'
 authors:
   - key: danielsanchez
   - key: christoskozyrakis
 venue: isca
-year: 2012
-date: 2012-04-01
+year: 2011
+date: 2011-06-01
 doi: 10.1145/2024723.2000073
 thumbnail: False
 materials:

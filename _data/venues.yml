@@ -244,3 +244,51 @@ ieeemicro:
   bibtex:
     type: inproceedings
     venue: booktitle
+mobiheld:
+  short: MobiHeld
+  full: ACM SOSP Workshop on Networking, Systems, and Applications on Mobile Handhelds (MobiHeld)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+mapreduce:
+  short: MapReduce
+  full: International Workshop on MapReduce and its Applications
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+tpctc:
+  short: TPCTC
+  full: TPC Technology conference on Topics in Performance Evaluation, Measurement and Characterization (TPCTC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+ics:
+  short: ICS
+  full: International Conference on Supercomputing (ICS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sigopsreview:
+  short: SIGOPS Review
+  full: ACM SIGOPS Operating Systems Review
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+mps:
+  short: MPS
+  full: Multicore Processors and Systems. Integrated Circuits and Systems
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sc:
+  short: SC
+  full: International Conference for High Performance Computing, Networking, Storage and Analysis (SC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+dac:
+  short: DAC
+  full: Design Automation Conference (DAC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
