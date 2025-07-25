@@ -292,3 +292,21 @@ dac:
   bibtex:
     type: inproceedings
     venue: booktitle
+hotpower:
+  short: HotPower
+  full: USENIX Workshop on Hot Topics in Power Aware Computing (HotPower)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+iiswc:
+  short: IISWC
+  full: IEEE International Symposium on Workload Characterization (IISWC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+igcc:
+  short: IGCC
+  full: International Green Computing Conference (IGCC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
