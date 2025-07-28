@@ -310,3 +310,21 @@ igcc:
   bibtex:
     type: inproceedings
     venue: booktitle
+dacontest:
+  short: DAC Contest
+  full: Design Automation Student Design Contest
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+ispld:
+  short: ISPLD
+  full: International Symposium on Low Power Electronics and Design (ISPLD)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+europar:
+  short: Euro-Par
+  full: European Conference on Parallel Processing (Euro-Par)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
