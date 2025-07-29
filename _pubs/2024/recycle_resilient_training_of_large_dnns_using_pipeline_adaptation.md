@@ -10,7 +10,7 @@ year: 2024
 date: 2024-11-04
 doi: 10.1145/3694715.3695960
 teaser: ReCycle works around failures by adaptively re-routing micro-batches from failed worker to its functional peers
-thumbnail: True
+thumbnail: False
 materials:
   - name: PDF
     url: https://arxiv.org/pdf/2405.14009
