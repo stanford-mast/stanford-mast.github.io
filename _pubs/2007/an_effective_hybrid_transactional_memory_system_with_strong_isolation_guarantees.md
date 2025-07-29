@@ -1,0 +1,22 @@
+---
+title: 'An effective hybrid transactional memory system with strong isolation guarantees'
+authors:
+  - key: chicaominh
+  - name: Martin Trautmann
+  - key: jaewoongchung
+  - key: austenmcdonald
+  - name: Nathan Bronson
+  - name: Jared Casper
+  - key: christoskozyrakis
+  - name: Kunle Olukotun
+    affiliation: Stanford
+venue: isca
+year: 2007
+date: 2007-06-01
+doi: 10.1145/1250662.1250673
+thumbnail: False
+materials:
+tags:
+---
+We propose signature-accelerated transactional memory (SigTM), ahybrid TM system that reduces the overhead of software transactions. SigTM uses hardware signatures to track the read-set and write-set forpending transactions and perform conflict detection between concurrent threads. All other transactional functionality, including dataversioning, is implemented in software. Unlike previously proposed hybrid TM systems, SigTM requires no modifications to the hardware caches, which reduces hardware cost and simplifies support for nested transactions and multithreaded processor cores. SigTM is also the first hybrid TM system to provide strong isolation guarantees between transactional blocks and non-transactional accesses without additional read and write barriers in non-transactional code.
+Using a set of parallel programs that make frequent use of coarse-grain transactions, we show that SigTM accelerates software transactions by 30% to 280%. For certain workloads, SigTM can match the performance of a full-featured hardware TM system, while for workloads with large read-sets it can be up to two times slower. Overall, we show that SigTM combines the performance characteristics and strong isolation guarantees of hardware TM implementations with the low cost and flexibility of software TM systems.

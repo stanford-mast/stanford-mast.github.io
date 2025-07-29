@@ -328,3 +328,69 @@ europar:
   bibtex:
     type: inproceedings
     venue: booktitle
+warfp:
+  short: WARP
+  full: Workshop on Architecture Research with FPGAs (WARP)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+fpga:
+  short: FPGA
+  full: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+cases:
+  short: CASES
+  full: International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sigarchnews:
+  short: SIGARCH News
+  full: ACM SIGARCH Computer Architecture News
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+report:
+  short: Report
+  full: Technical Report
+  bibtex:
+    type: misc
+    venue: booktitle
+compprogramming:    
+  short: CompProgramming
+  full: Science of Computer Programming
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+pact:
+  short: PACT
+  full: International Conference on Parallel Architectures and Compilation Techniques (PACT)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+queue:
+  short: Queue
+  full: ACM Queue
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+wtw:
+  short: WTW
+  full: Workshop on Transactional Memory Workloads (WTW) at PLDI
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+ddd:
+  short: DDD
+  full: Annual Workshop on Duplicating, Deconstructing, and Debunking
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+stmcs:
+  short: STMCs
+  full: Workshop on Tools for Multicore Systems
+  bibtex:
+    type: inproceedings
+    venue: booktitle
