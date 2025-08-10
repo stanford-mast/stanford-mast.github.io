@@ -14,12 +14,12 @@ authors:
   - name: David E Culler
     affiliation: Google
   - key: christoskozyrakis
-venue: preprint
+venue: asplos
 year: 2025
-date: 2025-01-01
-doi: 10.48550/arXiv.2408.17351
+date: 2025-08-06
+doi: https://doi.org/10.1145/3676642.3736113
 thumbnail: False
 materials:
 tags:
 ---
-The end of Moore's Law is driving cloud providers to offload virtualization and the network data plane to SmartNICs to improve compute efficiency. Even though individual OS control plane tasks consume up to 5% of cycles across the fleet, they remain on the host CPU because they are tightly intertwined with OS mechanisms. Moreover, offloading puts the slow PCIe interconnect in the critical path of OS decisions. We propose Tide, a new split OS architecture that separates OS control plane policies from mechanisms and offloads the control plane policies onto a SmartNIC. Tide has a new host-SmartNIC communication API, state synchronization mechanism, and communication mechanisms that overcome the PCIe bottleneck, even fors-scale workloads. Tide frees up host compute for applications and unlocks new optimization opportunities, including machine learning-driven policies, scheduling on the network I/O …
+SmartNICs are increasingly deployed in datacenters to offload tasks from server CPUs, improving the efficiency and flexibility of datacenter security, networking and storage. Optimizing cloud server efficiency in this way is critically important to ensure that virtually all server resources are available to paying customers. Userspace system software, specifically, decision-making tasks performed by various operating system subsystems, is particularly well suited for execution on mid-tier SmartNIC ARM cores. To this end, we introduce Wave, a framework for offloading userspace system software to processes/agents running on the SmartNIC. Wave uses Linux userspace systems to better align system functionality with SmartNIC capabilities. It also introduces a new host-SmartNIC communication API that enables offloading of even μs-scale system software. To evaluate Wave, we offloaded preexisting userspace system software including kernel thread scheduling, memory management, and an RPC stack to SmartNIC ARM cores, which showed a performance degradation of 1.1%-7.4% in an apples-to-apples comparison with on-host implementations. Wave recovered host resources consumed by on-host system software for memory management (saving 16 host cores), RPCs (saving 8 host cores), and virtual machines (an 11.2% performance improvement). Wave highlights the potential for rethinking system software placement in modern datacenters, unlocking new opportunities for efficiency and scalability.
