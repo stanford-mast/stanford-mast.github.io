@@ -13,7 +13,7 @@ venue: preprint
 year: 2025
 date: 2025-04-01
 doi: 10.48550/arXiv.2504.19925
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

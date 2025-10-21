@@ -14,7 +14,7 @@ venue: sigcsets
 year: 2025
 date: 2025-02-01
 doi: 10.1145/3641554.370187
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---
