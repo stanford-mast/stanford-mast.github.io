@@ -20,7 +20,7 @@ venue: osdi
 year: 2024
 date: 2024-07-16
 doi: 10.5555/3691938.3691960
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

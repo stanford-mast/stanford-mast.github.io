@@ -18,7 +18,7 @@ venue: asplos
 year: 2025
 date: 2025-08-06
 doi: https://doi.org/10.1145/3676642.3736113
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -18,7 +18,7 @@ venue: vldb
 year: 2023
 date: 2023-07-01
 doi: 10.14778/3611479.3611510
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -9,7 +9,7 @@ venue: vldb
 year: 2024
 date: 2024-10-01
 doi: 10.14778/3705829.3705861
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -17,7 +17,7 @@ venue: mlsys
 year: 2023
 date: 2023-03-01
 doi: 10.48550/arXiv.2211.05239
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

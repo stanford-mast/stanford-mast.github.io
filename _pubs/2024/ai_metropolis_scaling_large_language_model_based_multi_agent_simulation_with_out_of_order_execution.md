@@ -15,7 +15,7 @@ venue: mlsys
 year: 2025
 date: 2025-05-17
 doi: 10.48550/arXiv.2411.03519
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

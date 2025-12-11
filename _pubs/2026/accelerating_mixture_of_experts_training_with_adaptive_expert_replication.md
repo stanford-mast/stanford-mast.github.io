@@ -9,9 +9,9 @@ authors:
   - name: Shrijeet Mukherjee
     affiliation: Enfabrica
   - key: christoskozyrakis
-venue: preprint
-year: 2025
-date: 2025-04-01
+venue: nsdi
+year: 2026
+date: 2026-05-01
 doi: 10.48550/arXiv.2504.19925
 thumbnail: True
 materials:

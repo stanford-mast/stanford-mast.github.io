@@ -39,7 +39,7 @@ venue: atc
 year: 2023
 date: 2023-07-10
 doi: 
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

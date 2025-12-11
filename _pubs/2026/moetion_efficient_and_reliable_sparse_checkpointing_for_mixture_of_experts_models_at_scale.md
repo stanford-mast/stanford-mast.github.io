@@ -1,0 +1,16 @@
+---
+title: 'MoEtion: Efficient and Reliable Sparse Checkpointing for Mixture-of-Experts Models at Scale'
+authors:
+  - key: swapnilgandhi
+  - key: christoskozyrakis
+venue: nsdi
+year: 2026
+date: 2026-05-01
+doi: 10.48550/arXiv.2412.15411
+thumbnail: True
+materials:
+tags:
+---
+As large language models scale, training them requires thousands of GPUs over extended durations--making frequent failures an inevitable reality. While checkpointing remains the primary fault-tolerance mechanism, existing methods fall short when applied to Mixture-of-Experts (MoE) models. Due to their substantially larger training state, MoE models exacerbate checkpointing overheads, often causing costly stalls or prolonged recovery that severely degrade training efficiency.
+
+We present MoEtion, a distributed, in-memory checkpointing system tailored for MoE models. MoEtion is built on three key ideas: (1) sparse checkpointing, which incrementally snapshots subsets of experts across iterations to reduce overhead; (2) a sparse-to-dense checkpoint conversion mechanism that incrementally reconstructs consistent dense checkpoints from sparse snapshots; and (3) upstream logging of activations and gradients at pipeline-stage boundaries, enabling localized recovery without re-executing unaffected workers. Evaluations across diverse MoE models with up to 64 experts show that MoEtion reduces checkpointing overhead by up to \(4\times\) and recovery overhead by up to \(31\times\) compared to state-of-the-art approaches, sustaining consistently high Effective Training Time Ratios (ETTR) of up to ≥0.94 even under frequent failures (MTBF as low as 10 minutes) and delivering up to 8× overall training speedup, all without compromising synchronous training semantics. Overall, MoEtion offers a robust and scalable fault-tolerance solution for the next generation of sparsely activated models.

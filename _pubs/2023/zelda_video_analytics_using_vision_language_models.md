@@ -14,7 +14,7 @@ venue: preprint
 year: 2023
 date: 2023-05-01
 doi: 
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

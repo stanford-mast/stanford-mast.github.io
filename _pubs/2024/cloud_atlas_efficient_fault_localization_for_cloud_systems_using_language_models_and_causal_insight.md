@@ -15,7 +15,7 @@ venue: preprint
 year: 2024
 date: 2024-07-01
 doi: 10.48550/arXiv.2407.08694
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

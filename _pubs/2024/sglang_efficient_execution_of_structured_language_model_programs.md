@@ -24,7 +24,7 @@ venue: neurips
 year: 2024
 date: 2024-12-01
 doi: 10.48550/arXiv.2312.07104
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---
