@@ -9,7 +9,7 @@ venue: tos
 year: 2022
 date: 2022-01-01
 doi: 10.1145/3465406
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

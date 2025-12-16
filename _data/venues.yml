@@ -12,7 +12,7 @@ sosp:
     venue: booktitle
 vldb:
   short: VLDB
-  full: The International Journal on Very Large Data Bases 
+  full: The International Journal on Very Large Data Bases (VLDB)
   bibtex:
     type: inproceedings
     venue: booktitle
@@ -48,7 +48,7 @@ nsdi:
     venue: booktitle
 sigmod:
   short: SIGMOD
-  full: ACM SIGMOD International Conference on Management of Data
+  full: ACM International Conference on Management of Data (SIGMOD)
   bibtex:
     type: inproceedings
     venue: booktitle

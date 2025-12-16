@@ -8,7 +8,7 @@ venue: socc
 year: 2022
 date: 2022-11-01
 doi: 10.1145/3542929.3563468
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -11,7 +11,7 @@ venue: asplos
 year: 2022
 date: 2022-02-01
 doi: 10.1145/3503222.3507777
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

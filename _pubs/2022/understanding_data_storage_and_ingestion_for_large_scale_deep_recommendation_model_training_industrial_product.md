@@ -22,7 +22,7 @@ venue: isca
 year: 2022
 date: 2022-06-01
 doi: 10.1145/3470496.3533044
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

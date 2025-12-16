@@ -15,7 +15,7 @@ venue: vldb
 year: 2022
 date: 2022-11-01
 doi: 10.14778/3570690.3570695
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

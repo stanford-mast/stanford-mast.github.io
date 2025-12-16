@@ -10,8 +10,8 @@ authors:
 venue: asplos
 year: 2022
 date: 2022-02-01
-doi: 10.1145/3503222.350770
-thumbnail: False
+doi: 10.1145/3503222.3507704
+thumbnail: True
 materials:
 tags:
 ---
