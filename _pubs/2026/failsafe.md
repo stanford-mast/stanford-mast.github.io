@@ -5,9 +5,9 @@ authors:
   - key: zhiqiangxie
   - key: swapnilgandhi
   - key: christoskozyrakis
-venue: preprint
-year: 2025
-date: 2025-11-18
+venue: mlsys
+year: 2026
+date: 2026-05-01
 doi: 10.48550/arXiv.2511.14116
 thumbnail: True
 materials:
