@@ -7,7 +7,7 @@ venue: isca
 year: 2013
 date: 2013-06-01
 doi: 10.1145/2508148.2485963
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

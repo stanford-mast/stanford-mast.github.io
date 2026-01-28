@@ -14,7 +14,7 @@ venue: scis
 year: 2013
 date: 2013-09-01
 doi: 10.1016/j.suscom.2013.01.009
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

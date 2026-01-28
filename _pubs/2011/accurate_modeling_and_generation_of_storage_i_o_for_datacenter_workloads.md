@@ -8,7 +8,7 @@ authors:
 venue: tos
 year: 2011
 date: 2011-03-01
-doi: 10.1145/2818716
+doi:
 thumbnail: False
 materials:
 tags:
