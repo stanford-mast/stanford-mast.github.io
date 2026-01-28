@@ -10,8 +10,8 @@ authors:
 venue: osdi
 year: 2019
 date: 2019-01-01
-doi: 10.5555/3291168.3291200
-thumbnail: False
+doi:
+thumbnail: True
 materials:
 tags:
 ---

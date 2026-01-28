@@ -13,7 +13,7 @@ venue: socc
 year: 2015
 date: 2015-08-01
 doi: 10.1145/2806777.2806848
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

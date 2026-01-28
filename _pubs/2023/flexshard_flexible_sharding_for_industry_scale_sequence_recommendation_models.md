@@ -10,7 +10,7 @@ venue: preprint
 year: 2023
 date: 2023-01-01
 doi: 10.48550/arXiv.2301.02959
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

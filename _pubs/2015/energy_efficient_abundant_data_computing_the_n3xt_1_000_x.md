@@ -26,7 +26,7 @@ venue: computer
 year: 2015
 date: 2015-12-01
 doi: 10.1109/MC.2015.376
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

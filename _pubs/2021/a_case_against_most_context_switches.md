@@ -12,7 +12,7 @@ venue: hotos
 year: 2021
 date: 2021-06-01
 doi: 10.1145/3458336.3465274
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

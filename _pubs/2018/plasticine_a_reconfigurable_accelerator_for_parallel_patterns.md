@@ -15,7 +15,7 @@ venue: isca
 year: 2018
 date: 2018-05-01
 doi: 10.1145/3079856.3080256
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

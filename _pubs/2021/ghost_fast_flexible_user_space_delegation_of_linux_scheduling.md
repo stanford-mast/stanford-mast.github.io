@@ -15,7 +15,7 @@ venue: sosp
 year: 2021
 date: 2021-10-01
 doi: 10.1145/3477132.3483542
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

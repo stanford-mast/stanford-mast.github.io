@@ -9,7 +9,7 @@ venue: hotos
 year: 2019
 date: 2019-05-01
 doi: 10.1145/3317550.3321443
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

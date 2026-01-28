@@ -7,7 +7,7 @@ venue: preprint
 year: 2019
 date: 2019-03-01
 doi: 10.48550/arXiv.1903.07754
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

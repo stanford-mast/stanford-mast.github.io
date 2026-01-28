@@ -7,7 +7,7 @@ venue: asplos
 year: 2017
 date: 2017-04-01
 doi: 10.1145/3093337.3037703
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

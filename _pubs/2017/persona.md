@@ -11,8 +11,8 @@ authors:
 venue: atc
 year: 2017
 date: 2017-07-12
-doi: 10.5555/3154690.3154705
-thumbnail: False
+doi:
+thumbnail: True
 materials:
 tags:
 ---

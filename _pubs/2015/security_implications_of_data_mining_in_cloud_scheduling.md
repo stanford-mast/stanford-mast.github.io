@@ -7,7 +7,7 @@ venue: archletters
 year: 2015
 date: 2015-07-01
 doi: 10.1109/LCA.2015.2461215
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

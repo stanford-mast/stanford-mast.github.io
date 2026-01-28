@@ -16,7 +16,7 @@ venue: isca
 year: 2016
 date: 2016-06-01
 doi: 10.1109/ISCA.2016.51
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

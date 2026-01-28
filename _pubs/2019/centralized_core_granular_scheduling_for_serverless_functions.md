@@ -8,7 +8,7 @@ venue: socc
 year: 2019
 date: 2019-11-01
 doi: 10.1145/3357223.3362709
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

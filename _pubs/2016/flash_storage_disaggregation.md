@@ -13,7 +13,7 @@ venue: eurosys
 year: 2016
 date: 2016-04-01
 doi: 10.1145/2901318.2901337
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

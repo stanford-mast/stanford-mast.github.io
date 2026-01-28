@@ -1,5 +1,5 @@
 ---
-title: 'RackSched: A microsecond-scale scheduler for rack-scale computers (technical report)'
+title: 'RackSched: A microsecond-scale scheduler for rack-scale computers'
 authors:
   - name: Hang Zhu
   - key: kostiskaffes
@@ -12,8 +12,8 @@ authors:
 venue: osdi
 year: 2020
 date: 2020-10-01
-doi: 10.5555/3488766.3488835
-thumbnail: False
+doi: 
+thumbnail: True
 materials:
 tags:
 ---

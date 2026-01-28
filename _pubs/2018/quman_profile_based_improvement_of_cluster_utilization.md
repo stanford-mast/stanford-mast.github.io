@@ -9,7 +9,7 @@ venue: taco
 year: 2018
 date: 2018-08-01
 doi: 10.1145/3210560
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

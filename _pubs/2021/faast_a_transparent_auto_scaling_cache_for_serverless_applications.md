@@ -14,7 +14,7 @@ venue: socc
 year: 2021
 date: 2021-11-01
 doi: 10.1145/3472883.3486974
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

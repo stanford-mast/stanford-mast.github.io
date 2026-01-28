@@ -17,7 +17,7 @@ venue: pldi
 year: 2018
 date: 2018-06-01
 doi: 10.1145/3192366.3192379
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

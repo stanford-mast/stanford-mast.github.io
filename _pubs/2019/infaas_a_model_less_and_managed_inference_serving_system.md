@@ -10,7 +10,7 @@ venue: atc
 year: 2019
 date: 2019-05-01
 doi: 10.48550/arXiv.1905.13348
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

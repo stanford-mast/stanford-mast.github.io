@@ -10,7 +10,7 @@ venue: asplos
 year: 2020
 date: 2020-03-01
 doi: 10.1145/3373376.3378498
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -12,7 +12,7 @@ venue: archletters
 year: 2021
 date: 2021-03-01
 doi: 10.1109/LCA.2021.3066142
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

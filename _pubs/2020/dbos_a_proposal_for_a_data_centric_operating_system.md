@@ -16,7 +16,7 @@ venue: vldb
 year: 2020
 date: 2020-07-01
 doi: 10.14778/3485450.3485454
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

@@ -11,7 +11,7 @@ venue: asplos
 year: 2019
 date: 2019-04-01
 doi: 10.1145/3297858.3304014
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

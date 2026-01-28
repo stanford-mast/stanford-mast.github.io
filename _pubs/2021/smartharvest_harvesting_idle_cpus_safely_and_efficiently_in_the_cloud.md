@@ -15,7 +15,7 @@ venue: eurosys
 year: 2021
 date: 2021-04-01
 doi: 10.1145/3447786.3456225
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

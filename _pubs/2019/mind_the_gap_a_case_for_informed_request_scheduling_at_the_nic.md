@@ -11,7 +11,7 @@ venue: hotnets
 year: 2019
 date: 2019-11-01
 doi: 10.1145/3365609.3365856
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

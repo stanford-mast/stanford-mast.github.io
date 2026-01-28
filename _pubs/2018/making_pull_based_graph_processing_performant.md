@@ -8,7 +8,7 @@ venue: ppopp
 year: 2018
 date: 2018-02-01
 doi: 10.1145/3178487.3178506
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

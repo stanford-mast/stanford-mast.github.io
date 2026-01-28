@@ -12,7 +12,7 @@ venue: tocs
 year: 2016
 date: 2016-12-01
 doi: 10.1145/2997641
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

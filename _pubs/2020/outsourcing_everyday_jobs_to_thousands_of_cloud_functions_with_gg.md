@@ -14,8 +14,8 @@ authors:
 venue: atc
 year: 2020
 date: 2020-01-01
-doi: 10.5555/3358807.3358848
-thumbnail: False
+doi:
+thumbnail: True
 materials:
 tags:
 ---
