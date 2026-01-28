@@ -1,5 +1,5 @@
 ---
-title: 'Quality-of-service-aware scheduling in heterogeneous data centers with paragon'
+title: 'QoS-aware scheduling in heterogeneous data centers with paragon'
 authors:
   - key: christinadelimitrou
   - key: christoskozyrakis

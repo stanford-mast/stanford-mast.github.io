@@ -13,7 +13,7 @@ venue: isca
 year: 2014
 date: 2014-06-01
 doi: 10.1109/ISCA.2014.6853237
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

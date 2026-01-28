@@ -7,7 +7,7 @@ venue: eurosys
 year: 2014
 date: 2014-04-01
 doi: 10.1145/2592798.2592821
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

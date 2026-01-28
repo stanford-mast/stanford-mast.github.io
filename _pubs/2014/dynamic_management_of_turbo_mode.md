@@ -7,7 +7,7 @@ venue: hpca
 year: 2014
 date: 2014-06-01
 doi: 10.1109/HPCA.2014.6835969
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---

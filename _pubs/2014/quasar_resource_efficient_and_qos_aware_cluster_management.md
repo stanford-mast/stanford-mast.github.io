@@ -7,7 +7,7 @@ venue: asplos
 year: 2014
 date: 2014-02-01
 doi: 10.1145/2541940.2541941
-thumbnail: False
+thumbnail: True
 materials:
 tags:
 ---
