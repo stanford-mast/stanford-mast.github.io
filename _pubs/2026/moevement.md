@@ -1,5 +1,5 @@
 ---
-title: 'MoEtion: Efficient and Reliable Sparse Checkpointing for Mixture-of-Experts Models at Scale'
+title: 'Sparse Checkpointing for Fast and Reliable MoE Training'
 authors:
   - key: swapnilgandhi
   - key: christoskozyrakis
