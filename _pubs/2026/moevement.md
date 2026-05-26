@@ -9,6 +9,12 @@ date: 2026-05-01
 doi: 10.48550/arXiv.2412.15411
 thumbnail: True
 materials:
+  - name: PDF
+    url: https://www.usenix.org/conference/nsdi26/presentation/gandhi
+    type: file-pdf
+  - name: Code
+    url: https://github.com/Swapnil-Gandhi/MoEvement
+    type: code
 tags:
 ---
 As large language models scale, training them requires thousands of GPUs over extended durations--making frequent failures an inevitable reality. While checkpointing remains the primary fault-tolerance mechanism, existing methods fall short when applied to Mixture-of-Experts (MoE) models. Due to their substantially larger training state, MoE models exacerbate checkpointing overheads, often causing costly stalls or prolonged recovery that severely degrade training efficiency.
