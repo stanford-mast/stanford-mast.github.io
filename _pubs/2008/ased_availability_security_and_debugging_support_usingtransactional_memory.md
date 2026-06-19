@@ -15,5 +15,9 @@ doi: 10.1145/1378533.1378599
 thumbnail: False
 materials:
 tags:
+  - security
+  - parallel-compute
+  - memory-storage
+  - transactional-memory
 ---
 We propose ASeD that uses the hardware resources of transactional memory systems for non transactional memory purpose. We show that the hardware components for register checkpointing, data versioning, and conflict detection can be reused as basic building blocks for reliability, security, and debugging support.

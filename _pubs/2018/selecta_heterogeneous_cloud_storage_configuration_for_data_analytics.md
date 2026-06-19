@@ -1,0 +1,23 @@
+---
+title: 'Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics'
+authors:
+  - key: anaklimovic
+  - name: Heiner Litz
+  - key: christoskozyrakis
+venue: atc
+year: 2018
+date: 2018-07-01
+doi:
+thumbnail: True
+materials:
+  - name: USENIX
+    url: https://www.usenix.org/conference/atc18/presentation/klimovic-selecta
+    type: file-alt
+tags:
+  - cloud
+  - memory-storage
+  - datacenter-systems
+---
+Data analytics are an important class of data-intensive workloads on public cloud services. However, selecting the right compute and storage configuration for these applications is difficult as the space of available options is large and the interactions between options are complex. Moreover, the different data streams accessed by analytics workloads have distinct characteristics that may be better served by different types of storage devices.
+
+We present Selecta, a tool that recommends near-optimal configurations of cloud compute and storage resources for data analytics workloads. Selecta uses latent factor collaborative filtering to predict how an application will perform across different configurations, based on sparse data collected by profiling training workloads. We evaluate Selecta with over one hundred Spark SQL and ML applications, showing that Selecta chooses a near-optimal performance configuration (within 10% of optimal) with 94% probability and a near-optimal cost configuration with 80% probability. We also use Selecta to draw significant insights about cloud storage systems, including the performance-cost efficiency of NVMe Flash devices, the need for cloud storage with support for fine-grain capacity and bandwidth allocation, and the motivation for end-to-end storage optimizations.

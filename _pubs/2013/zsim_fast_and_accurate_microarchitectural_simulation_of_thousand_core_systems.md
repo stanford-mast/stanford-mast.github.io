@@ -10,6 +10,7 @@ doi: 10.1145/2508148.2485963
 thumbnail: True
 materials:
 tags:
+  - architecture
 ---
 Architectural simulation is time-consuming, and the trend towards hundreds of cores is making sequential simulation even slower. Existing parallel simulation techniques either scale poorly due to excessive synchronization, or sacrifice accuracy by allowing event reordering and using simplistic contention models. As a result, most researchers use sequential simulators and model small-scale systems with 16-32 cores. With 100-core chips already available, developing simulators that scale to thousands of cores is crucial.
 We present three novel techniques that, together, make thousand-core simulation practical. First, we speed up detailed core models (including OOO cores) with instruction-driven timing models that leverage dynamic binary translation. Second, we introduce bound-weave, a two-phase parallelization technique that scales parallel simulation on multicore hosts efficiently with minimal loss of accuracy. Third, we implement lightweight user-level virtualization to support complex workloads, including multiprogrammed, client-server, and managed-runtime applications, without the need for full-system simulation, sidestepping the lack of scalable OSs and ISAs that support thousands of cores.

@@ -10,5 +10,5 @@ doi:
 thumbnail: False
 materials:
 tags:
+  - parallel-compute
 ---
-

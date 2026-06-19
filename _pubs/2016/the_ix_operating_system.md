@@ -15,6 +15,11 @@ doi: 10.1145/2997641
 thumbnail: True
 materials:
 tags:
+  - OS
+  - networking
+  - resource-management
+  - low-latency
+  - energy-efficiency
 ---
 The conventional wisdom is that aggressive networking requirements, such as high packet rates for small messages and μs-scale tail latency, are best addressed outside the kernel, in a user-level networking stack. We present ix, a dataplane operating system that provides high I/O performance and high resource efficiency while maintaining the protection and isolation benefits of existing kernels.
 ix uses hardware virtualization to separate management and scheduling functions of the kernel (control plane) from network processing (dataplane). The dataplane architecture builds upon a native, zero-copy API and optimizes for both bandwidth and latency by dedicating hardware threads and networking queues to dataplane instances, processing bounded batches of packets to completion, and eliminating coherence traffic and multicore synchronization. The control plane dynamically adjusts core allocations and voltage/frequency settings to meet service-level objectives.

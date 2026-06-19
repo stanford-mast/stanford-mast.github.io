@@ -80,15 +80,21 @@ layout: page
       {% for group in site.data.tags %}
         <p>
           {% for tag in group %}
-            <a id="tag-{{tag | replace: ' ', '-'}}" class="tag" data-tag="{{tag}}">
-              {% assign words = tag | split: ' ' %}
-              {% for word in words %}
-                {% if word == 'human-ai' %}
-                  Human-AI
-                {% else %}
-                  {{word | capitalize}}
-                {% endif %}
-              {% endfor %}
+            <a id="tag-{{tag | replace: ' ', '-' | downcase}}" class="tag" data-tag="{{tag}}">
+              {% if tag == 'OS' %}
+                OS
+              {% elsif tag == 'AI-systems' %}
+                AI-systems
+              {% elsif tag == 'gpu-systems' %}
+                GPU Systems
+              {% elsif tag == 'human-ai' %}
+                Human-AI
+              {% else %}
+                {% assign words = tag | replace: '-', ' ' | split: ' ' %}
+                {% for word in words %}
+                  {{word | capitalize}}{% unless forloop.last %} {% endunless %}
+                {% endfor %}
+              {% endif %}
               <span>()</span>
             </a>
           {% endfor %}

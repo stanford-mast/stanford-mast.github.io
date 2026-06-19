@@ -17,7 +17,16 @@ date: 2023-07-10
 doi: 
 thumbnail: True
 materials:
+  - name: PDF
+    url: https://www.usenix.org/conference/osdi23/presentation/mai
+    type: file-pdf
 tags:
+  - OS
+  - AI-systems
+  - security
+  - parallel-compute
+  - accelerators
+  - gpu-systems
 ---
 Graphics Processing Units (GPUs) unlock emerging use cases like large language models and autonomous driving. They process a large amount of sensitive data, where security is of critical importance. GPU Trusted Execution Environments (TEEs) generally provide security to GPU applications with modest overheads. Recent proposals for GPU TEEs are promising, but many of them require hardware changes that have a long lead time to deploy in production environments.
 

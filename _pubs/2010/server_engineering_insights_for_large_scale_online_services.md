@@ -12,5 +12,8 @@ doi: 10.1109/MM.2010.73
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - datacenter-systems
+  - resource-management
 ---
 The rapid growth of online services in the last decade has led to the development of large data centers to host these workloads. These large-scale online, user-facing services have unique engineering and capacity provisioning design requirements. The authors explore these requirements, focusing on system balancing, the impact of technology trends, and the challenges of online service workloads.

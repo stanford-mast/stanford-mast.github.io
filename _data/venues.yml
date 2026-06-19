@@ -82,12 +82,42 @@ neurips:
   bibtex:
     type: inproceedings
     venue: booktitle
+neuripsmlsysworkshop:
+  short: NeurIPS ML4Sys Workshop
+  full: NeurIPS Workshop on Machine Learning for Systems
+  bibtex:
+    type: inproceedings
+    venue: booktitle
 icml:
   short: ICML
   full: International Conference on Machine Learning (ICML)
   bibtex:
     type: inproceedings
     venue: booktitle
+icdcs:
+  short: ICDCS
+  full: IEEE International Conference on Distributed Computing Systems (ICDCS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+hotchips:
+  short: Hot Chips
+  full: IEEE Hot Chips Symposium
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+cnsm:
+  short: CNSM
+  full: International Conference on Network and Service Management (CNSM)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+techreport:
+  short: Tech Report
+  full: Technical Report
+  bibtex:
+    type: techreport
+    venue: institution
 iclr:
   short: ICLR
   full: International Conference on Learning Representations (ICLR)
@@ -163,6 +193,12 @@ archletters:
 vldbworkshop:
   short: VLDB Workshop
   full: International Conference on Very Large Data Bases (VLDB) Workshop
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+ispass:
+  short: ISPASS
+  full: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   bibtex:
     type: inproceedings
     venue: booktitle
@@ -362,8 +398,8 @@ compprogramming:
   short: CompProgramming
   full: Science of Computer Programming
   bibtex:
-    type: inproceedings
-    venue: booktitle
+    type: article
+    venue: journal
 pact:
   short: PACT
   full: International Conference on Parallel Architectures and Compilation Techniques (PACT)
@@ -391,6 +427,108 @@ ddd:
 stmcs:
   short: STMCs
   full: Workshop on Tools for Multicore Systems
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+isscc:
+  short: ISSCC
+  full: IEEE International Solid-State Circuits Conference (ISSCC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+iccd:
+  short: ICCD
+  full: IEEE International Conference on Computer Design (ICCD)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+nocs:
+  short: NOCS
+  full: IEEE/ACM International Symposium on Networks-on-Chip (NOCS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+icac:
+  short: ICAC
+  full: International Conference on Autonomic Computing (ICAC)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+dsn:
+  short: DSN
+  full: IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+date:
+  short: DATE
+  full: Design, Automation and Test in Europe Conference and Exhibition (DATE)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+fccm:
+  short: FCCM
+  full: IEEE Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+icpp:
+  short: ICPP
+  full: International Conference on Parallel Processing (ICPP)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+popl:
+  short: POPL
+  full: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+globecom:
+  short: GLOBECOM
+  full: IEEE Global Telecommunications Conference (GLOBECOM)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+pieee:
+  short: Proc. IEEE
+  full: Proceedings of the IEEE
+  bibtex:
+    type: article
+    venue: journal
+iceccs:
+  short: ICECCS
+  full: IEEE International Conference on Engineering of Complex Computer Systems (ICECCS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+usenixsecurity:
+  short: USENIX Security
+  full: USENIX Security Symposium
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+oopsla:
+  short: OOPSLA
+  full: Proceedings of the ACM on Programming Languages (OOPSLA)
+  bibtex:
+    type: article
+    venue: journal
+patent:
+  short: Patent
+  full: US Patent
+  bibtex:
+    type: misc
+    venue: booktitle
+springerlncs:
+  short: LNCS
+  full: Lecture Notes in Computer Science
+  bibtex:
+    type: book
+    venue: publisher
+arvlsi:
+  short: ARVLSI
+  full: Advanced Research in VLSI
   bibtex:
     type: inproceedings
     venue: booktitle

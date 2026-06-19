@@ -1,0 +1,22 @@
+---
+title: 'Improving Resource Efficiency at Scale with Heracles'
+authors:
+  - key: davidlo
+  - name: Liqun Cheng
+  - name: Rama Govindaraju
+  - name: Parthasarathy Ranganathan
+  - key: christoskozyrakis
+venue: tocs
+year: 2016
+date: 2016-05-01
+doi: 10.1145/2882783
+thumbnail: False
+materials:
+tags:
+  - cloud
+  - datacenter-systems
+  - resource-management
+  - low-latency
+  - energy-efficiency
+---
+User-facing, latency-sensitive services, such as websearch, underutilize their computing resources during daily periods of low traffic. Reusing those resources for other tasks is rarely done in production services since the contention for shared resources can cause latency spikes that violate the service-level objectives of latency-sensitive tasks. The resulting under-utilization hurts both the affordability and energy efficiency of large-scale datacenters. With the slowdown in technology scaling caused by the sunsetting of Moore’s law, it becomes important to address this opportunity. We present Heracles, a feedback-based controller that enables the safe colocation of best-effort tasks alongside a latency-critical service. Heracles dynamically manages multiple hardware and software isolation mechanisms, such as CPU, memory, and network isolation, to ensure that the latency-sensitive job meets latency targets while maximizing the resources given to best-effort tasks. We evaluate Heracles using production latency-critical and batch workloads from Google and demonstrate average server utilizations of 90% without latency violations across all the load and colocation scenarios that we evaluated.

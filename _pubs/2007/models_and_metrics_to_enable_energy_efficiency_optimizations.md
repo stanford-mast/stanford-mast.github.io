@@ -14,5 +14,7 @@ doi: 10.1109/MC.2007.436
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - energy-efficiency
 ---
 Power consumption and energy efficiency are important factors in the initial design and day-to-day management of computer systems. Researchers and system designers need benchmarks that characterize energy efficiency to evaluate systems and identify promising new technologies. To predict the effects of new designs and configurations, they also need accurate methods of modeling power consumption.

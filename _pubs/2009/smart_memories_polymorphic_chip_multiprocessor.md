@@ -20,6 +20,11 @@ date: 2009-07-01
 doi: 
 thumbnail: False
 materials:
+  - name: Slides
+    url: https://archive.dac.com/portals/0/documents/archive/2009/smartmemories.ppt
+    type: file
 tags:
+  - architecture
+  - near-data-processing
 ---
 The Stanford Smart Memories polymorphic chip-multiprocessor architecture was conceived as a unified multipurpose hardware architecture base, capable of supporting a variety of programming models and per-application optimizations [17]. Backing the architectural claims, our team of PhD students set out to implement this challenging design in silicon, targeting 90nm technology. Now, with 55M transistors covering 61mm2, this is one of the most complex chips ever fabricated in academia.

@@ -6,7 +6,7 @@ authors:
 venue: nsdi
 year: 2026
 date: 2026-05-01
-doi: 10.48550/arXiv.2412.15411
+doi:
 thumbnail: True
 materials:
   - name: PDF
@@ -16,6 +16,11 @@ materials:
     url: https://github.com/Swapnil-Gandhi/MoEvement
     type: code
 tags:
+  - cloud
+  - AI-systems
+  - memory-storage
+  - accelerators
+  - gpu-systems
 ---
 As large language models scale, training them requires thousands of GPUs over extended durations--making frequent failures an inevitable reality. While checkpointing remains the primary fault-tolerance mechanism, existing methods fall short when applied to Mixture-of-Experts (MoE) models. Due to their substantially larger training state, MoE models exacerbate checkpointing overheads, often causing costly stalls or prolonged recovery that severely degrade training efficiency.
 

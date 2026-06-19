@@ -12,6 +12,9 @@ doi: 10.48550/arXiv.2605.06914
 thumbnail: True
 materials:
 tags:
+  - AI-systems
+  - parallel-compute
+  - resource-management
 ---
 Recent methods expose intra-request parallelism in LLM outputs, allowing independent branches to decode concurrently. Existing serving systems execute these branches eagerly or under fixed caps. We show that both are brittle: eager admission inflates the shared decode step, degrading co-batched requests in serial stages, while conservative fixed caps forgo the throughput that motivated exposing branches in the first place. We call the excess step latency caused by admitted branches the branch externality and show that the safe width depends on batch composition, context lengths, and accumulated slack, all of which change continuously over a workload trace.
 

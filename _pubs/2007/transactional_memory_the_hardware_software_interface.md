@@ -16,5 +16,9 @@ doi: 10.1109/MM.2007.26
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - parallel-compute
+  - memory-storage
+  - transactional-memory
 ---
 As multicore chips become ubiquitous, the need to provide architectural support for practical parallel programming is reaching critical. Conventional lock-based concurrency control techniques are difficult to use, requiring the programmer to navigate through the minefield of coarse-versus fine-grained locks, deadlock, livelock, lock convoying, and priority inversion. This explicit management of concurrency is beyond the reach of the average programmer, threatening to waste the additional parallelism available with multicore architectures. This comprehensive architecture supports nested transactions, transactional handlers, and two-phase commit. The result is a seamless integration of transactional memory with modern programming languages and runtime environments

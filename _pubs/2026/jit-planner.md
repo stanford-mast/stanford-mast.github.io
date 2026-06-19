@@ -12,5 +12,9 @@ doi: 10.48550/arXiv.2605.21470
 thumbnail: True
 materials:
 tags:
+  - cloud
+  - compilers
+  - AI-systems
+  - resource-management
 ---
 Computer-use agents (CUA) automate tasks specified with natural language such as "order the cheapest item from Taco Bell" by generating sequences of calls to tools such as click, type, and scroll on a browser. Current implementations follow a sequential fetch-screenshot-execute loop where each iteration requires an LLM call, resulting in high latency and frequent errors from incorrect tool use. We present agent just-in-time (JIT) compilation, an alternative that compiles task descriptions directly into executable code that is free to include LLM calls, tool calls, and parallelization. Our approach comprises three components: (1) JIT-Planner, which generates multiple code plans, validates each against tool specifications, and selects the minimum-cost candidate; (2) JIT-Scheduler, which explores parallelization strategies via Monte Carlo cost estimation from learned latency distributions; and (3) an invariant-enforcing tool protocol specifying precondition and postcondition state requirements that reduce the rate of generating plans with incorrect tool use. Across 5 web applications, JIT-Planner achieves 10.4× speedup and +28% accuracy over Browser-Use, while JIT-Scheduler achieves 2.4× speedup and +9% accuracy over OpenAI CUA.

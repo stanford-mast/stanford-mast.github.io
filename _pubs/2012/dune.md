@@ -17,8 +17,11 @@ date: 2012-04-01
 doi: 
 thumbnail: False
 materials:
+  - name: PDF
+    url: https://www.usenix.org/conference/osdi12/technical-sessions/presentation/belay
+    type: file-pdf
 tags:
+  - OS
 ---
 Dune is a system that provides applications with direct but safe access to hardware features such as ring protection, page tables, and tagged TLBs, while preserving the existing OS interfaces for processes. Dune uses the virtualization hardware in modern processors to provide a process, rather than a machine abstraction. It consists of a small kernel module that initializes virtualization hardware and mediates interactions with the kernel, and a user-level library that helps applications manage privileged hardware features. We present the implementation of Dune for 64bit x86 Linux. We use Dune to implement three userlevel applications that can benefit from access to privileged hardware: a sandbox for untrusted code, a privilege separation facility, and a garbage collector. The use of Dune greatly simplifies the implementation of these applications and provides significant performance advantages.
-
 

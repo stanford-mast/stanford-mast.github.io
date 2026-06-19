@@ -14,7 +14,12 @@ date: 2017-07-12
 doi:
 thumbnail: True
 materials:
+  - name: USENIX
+    url: https://www.usenix.org/conference/atc17/technical-sessions/presentation/byma
+    type: file-alt
 tags:
+  - cloud
+  - datacenter-systems
 ---
 Next-generation genome sequencing technology has reached a point at which it is becoming cost-effective to sequence all patients. Biobanks and researchers are faced with an oncoming deluge of genomic data, whose processing requires new and scalable bioinformatics architectures and systems. Processing raw genetic sequence data is computationally expensive and datasets are large. Current software systems can require many hours to process a single genome and generally run only on a single computer. Common file formats are monolithic and row-oriented, a barrier to distributed computation.
 

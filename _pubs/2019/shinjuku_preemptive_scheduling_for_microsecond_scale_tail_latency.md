@@ -1,0 +1,28 @@
+---
+title: 'Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency'
+authors:
+  - key: kostiskaffes
+  - key: timchong
+  - key: jackhumphries
+  - key: adambelay
+    affiliation: MIT
+  - name: David Mazières
+  - key: christoskozyrakis
+venue: nsdi
+year: 2019
+date: 2019-02-01
+doi:
+thumbnail: True
+materials:
+  - name: PDF
+    url: https://www.usenix.org/conference/nsdi19/presentation/kaffes
+    type: file-pdf
+tags:
+  - OS
+  - cloud
+  - resource-management
+  - low-latency
+---
+The recently proposed dataplanes for microsecond scale applications, such as IX and ZygOS, use non-preemptive policies to schedule requests to cores. For the many real-world scenarios where request service times follow distributions with high dispersion or a heavy tail, they allow short requests to be blocked behind long requests, which leads to poor tail latency.
+
+Shinjuku is a single-address space operating system that uses hardware support for virtualization to make preemption practical at the microsecond scale. This allows Shinjuku to implement centralized scheduling policies that preempt requests as often as every 5µsec and work well for both light and heavy tailed request service time distributions. We demonstrate that Shinjuku provides significant tail latency and throughput improvements over IX and ZygOS for a wide range of workload scenarios. For the case of a RocksDB server processing both point and range queries, Shinjuku achieves up to 6.6× higher throughput and 88% lower tail latency.

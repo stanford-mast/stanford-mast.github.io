@@ -24,5 +24,9 @@ doi: 10.1145/1965724.1965751
 thumbnail: False
 materials:
 tags:
+  - cloud
+  - databases
+  - memory-storage
+  - datacenter-systems
 ---
 With scalable high-performance storage entirely in DRAM, RAMCloud will enable a new breed of data-intensive applications.

@@ -10,5 +10,8 @@ doi: 10.1109/MM.2012.19
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - memory-storage
+  - resource-management
 ---
 The Vantage cache-partitioning technique enables configurability and quality-of-service guarantees in large-scale chip multiprocessors with shared caches. Caches can have hundreds of partitions with sizes specified at cache line granularity, while maintaining high associativity and strict isolation among partitions.

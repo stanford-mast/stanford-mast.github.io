@@ -21,5 +21,6 @@ doi: 10.14778/3611479.3611510
 thumbnail: True
 materials:
 tags:
+  - databases
 ---
 Developers would benefit greatly from time travel: being able tofaithfully replaypast executions andretroactively executemodified code on past events. Currently, replay and retroaction are impractical because they require expensively capturing fine-grained timing information to reproduce concurrent accesses to shared state. In this paper, we propose practical time travel fordatabase-backed applications, an important class of distributed applications that access shared state through transactions.We present R3, a novel Record-Replay-Retroaction tool. R3implements a lightweight interceptor to record concurrency information for applications at transaction-level granularity, enabling replay and retroaction with minimal overhead. We address key challenges in both replay and retroaction. First, we design a novel algorithm for faithfully reproducing application requests running with snapshot isolation, allowing R3to …

@@ -12,10 +12,17 @@ authors:
 venue: nsdi
 year: 2026
 date: 2026-05-01
-doi: 10.48550/arXiv.2504.19925
+doi:
 thumbnail: True
 materials:
+  - name: PDF
+    url: https://www.usenix.org/conference/nsdi26/presentation/skiadopoulos
+    type: file-pdf
 tags:
+  - cloud
+  - AI-systems
+  - accelerators
+  - gpu-systems
 ---
 Mixture-of-Experts (MoE) models have become a widely-adopted solution to continue scaling model sizes without a corresponding linear increase in compute. During MoE model training, each input token is dynamically routed to a subset of experts -- sparsely-activated feed-forward networks -- within each transformer layer. The distribution of tokens assigned to each expert varies widely and rapidly over the course of training. To handle the wide load imbalance across experts, current systems are forced to either drop tokens assigned to popular experts, degrading convergence, or frequently rebalance resources allocated to each expert based on popularity, incurring high state migration overheads.
 

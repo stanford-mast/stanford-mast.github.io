@@ -19,10 +19,19 @@ authors:
 venue: osdi
 year: 2024
 date: 2024-07-16
-doi: 10.5555/3691938.3691960
+doi:
 thumbnail: True
 materials:
+  - name: PDF
+    url: https://www.usenix.org/conference/osdi24/presentation/skiadopoulos
+    type: file-pdf
 tags:
+  - architecture
+  - OS
+  - networking
+  - AI-systems
+  - accelerators
+  - gpu-systems
 ---
 Modern network hardware is able to meet the stringent bandwidth demands of applications like GPU-accelerated AI. However, existing host network stacks offer a hard tradeoff between performance (in terms of sustained throughput when compared to network hardware capacity) and flexibility (in terms of the ability to select, customize, and extend different network protocols).
 

@@ -11,6 +11,9 @@ doi: 10.1145/1273440.1250722
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - security
+  - accelerators
 ---
 High-level semantic vulnerabilities such as SQL injection and crosssite scripting have surpassed buffer overflows as the most prevalent security exploits. The breadth and diversity of software vulnerabilities demand new security solutions that combine the speed and practicality of hardware approaches with the flexibility and robustness of software systems.
 This paper proposes Raksha, an architecture for software security based on dynamic information flow tracking (DIFT). Raksha provides three novel features that allow for a flexible hardware/software approach to security. First, it supports flexible and programmable security policies that enable software to direct hardware analysis towards a wide range of high-level and low-level attacks. Second, it supports multiple active security policies that can protect the system against concurrent attacks. Third, it supports low-overhead security handlers that allow software to correct, complement, or extend the hardware-based analysis without the overhead associated with operating system traps.

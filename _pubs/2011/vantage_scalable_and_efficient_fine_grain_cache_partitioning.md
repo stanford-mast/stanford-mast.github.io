@@ -10,6 +10,8 @@ doi: 10.1145/2024723.2000073
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - memory-storage
 ---
 Cache partitioning has a wide range of uses in CMPs, from guaranteeing quality of service and controlled sharing to security-related techniques. However, existing cache partitioning schemes (such as way-partitioning) are limited to coarse-grain allocations, can only support few partitions, and reduce cache associativity, hurting performance. Hence, these techniques can only be applied to CMPs with 2-4 cores, but fail to scale to tens of cores.
 We present Vantage, a novel cache partitioning technique that overcomes the limitations of existing schemes: caches can have tens of partitions with sizes specified at cache line granularity, while maintaining high associativity and strong isolation among partitions. Vantage leverages cache arrays with good hashing and associativity, which enable soft-pinning a large portion of cache lines. It enforces capacity allocations by controlling the replacement process. Unlike prior schemes, Vantage provides strict isolation guarantees by partitioning most (e.g. 90%) of the cache instead of all of it. Vantage is derived from analytical models, which allow us to provide strong guarantees and bounds on associativity and sizing independent of the number of partitions and their behaviors. It is simple to implement, requiring around 1.5% state overhead and simple changes to the cache controller.

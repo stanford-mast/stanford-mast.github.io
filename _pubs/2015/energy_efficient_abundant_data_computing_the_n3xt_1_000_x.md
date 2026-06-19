@@ -29,5 +29,8 @@ doi: 10.1109/MC.2015.376
 thumbnail: True
 materials:
 tags:
+  - architecture
+  - near-data-processing
+  - energy-efficiency
 ---
 Next-generation information technologies will process unprecedented amounts of loosely structured data that overwhelm existing computing systems. N3XT improves the energy efficiency of abundant-data applications 1,000-fold by using new logic and memory technologies, 3D integration with fine-grained connectivity, and new architectures for computation immersed in memory.

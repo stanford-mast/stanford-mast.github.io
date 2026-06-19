@@ -13,6 +13,9 @@ doi: 10.1145/1810085.1810097
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - parallel-compute
+  - transactional-memory
 ---
 Transactional Memory (TM) simplifies parallel programming by supporting parallel tasks that execute in an atomic and isolated way. To achieve the best possible performance, TM must support the nested parallelism available in real-world applications and supported by popular programming models. A few recent papers have proposed support for nested parallelism in software TM (STM) and hardware TM (HTM). However, the proposed designs are still impractical, as they either introduce excessive runtime overheads or require complex hardware structures.
 This paper presents filter-accelerated, nested TM (FaNTM). We extend a hybrid TM based on hardware signatures to provide practical support for nested parallel transactions. In the FaNTM design, hardware filters provide continuous and nesting-aware conflict detection, which effectively eliminates the excessive overheads of software nested transactions. In contrast to a full HTM approach, FaNTM simplifies hardware by decoupling nested parallel transactions from caches using hardware filters. We also describe subtle correctness and liveness issues that do not exist in the non-nested baseline TM.

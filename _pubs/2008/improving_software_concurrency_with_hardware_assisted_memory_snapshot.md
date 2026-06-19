@@ -16,5 +16,9 @@ doi: 10.1145/1378533.1378596
 thumbnail: False
 materials:
 tags:
+  - architecture
+  - parallel-compute
+  - memory-storage
+  - transactional-memory
 ---
 We propose a hardware-assisted memory snapshot to improve software concurrency. It is built on top of the hardware resources for transactional memory and allows for easy development of system software modules such as concurrent garbage collector and dynamic profiler.

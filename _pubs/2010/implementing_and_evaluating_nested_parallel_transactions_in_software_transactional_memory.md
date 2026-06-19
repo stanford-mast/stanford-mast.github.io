@@ -13,6 +13,9 @@ doi: 10.1145/1810479.1810528
 thumbnail: False
 materials:
 tags:
+  - parallel-compute
+  - memory-storage
+  - transactional-memory
 ---
 Transactional Memory (TM) is a promising technique that simplifies parallel programming for shared-memory applications. To date, most TM systems have been designed to efficiently support single-level parallelism. To achieve widespread use and maximize performance gains, TM must support nested parallelism available in many applications and supported by several programming models.
 We present NesTM, a software TM (STM) system that supports closed-nested parallel transactions. NesTM is based on a high-performance, blocking STM that uses eager version management and word-granularity conflict detection. Its algorithm targets the state and runtime overheads of nested parallel transactions. We also describe several subtle correctness issues in supporting nested parallel transactions in NesTM and discuss their performance impact.

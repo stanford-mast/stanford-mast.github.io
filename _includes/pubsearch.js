@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   const $  = document.querySelector.bind(document);
   const $$ = document.querySelectorAll.bind(document);
+  const byId = document.getElementById.bind(document);
   const allElems = $$('.pub, .year');
   const searchBar = $('#search');
 
@@ -62,8 +63,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const counts = {};
     for (const res of results) {
-      $(`#${res.id}`).style.display = 'block';
-      $(`#year-${res.year}`).style.display = 'block';
+      byId(res.id).style.display = 'block';
+      byId(`year-${res.year}`).style.display = 'block';
       counts[`type-${res.type}`] = counts[`type-${res.type}`] + 1 || 1;
       for (const tag of res.tags) {
         const t = tag.replaceAll(' ', '-').toLowerCase();

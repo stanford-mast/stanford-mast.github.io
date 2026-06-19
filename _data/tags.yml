@@ -1,10 +1,22 @@
-# - # domain
-#   - AI efficiency
-#   - scale-out AI
-#   - distributed training
-#   - inference
-#   - resilience
-#   - HW/SW co-design
-# - # contribution type
-#   - benchmark
-#   - open-source software
+- # area
+  - architecture
+  - OS
+  - cloud
+  - databases
+  - compilers
+  - AI-systems
+  - networking
+  - security
+  - parallel-compute
+  - memory-storage
+- # topic
+  - transactional-memory
+  - datacenter-systems
+  - resource-management
+  - low-latency
+  - serverless
+  - near-data-processing
+  - accelerators
+  - gpu-systems
+  - video-analytics
+  - energy-efficiency
