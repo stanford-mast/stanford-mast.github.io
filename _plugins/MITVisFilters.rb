@@ -29,6 +29,27 @@ module MITVisFilters
     head + tail
   end
 
+  def sort_alumni(input, titles)
+    def namesort(arr)
+      arr.sort{ |a, b| a[1]['name'].split(' ')[-1] <=> b[1]['name'].split(' ')[-1] }
+    end
+
+    titles = titles.split(', ')
+    alumni = input.select{ |key, value| value['alumni'] }
+    grouped = []
+    grouped_keys = {}
+
+    titles.each do |title|
+      group = alumni.select{ |key, value| value['title'].include?(title) }.to_a
+      namesort(group).each do |person|
+        grouped << person
+        grouped_keys[person[0]] = true
+      end
+    end
+
+    grouped + namesort(alumni.reject{ |key, value| grouped_keys[key] }.to_a)
+  end
+
   def jsonify_pub(input)
     people = @context.registers[:site].data['people']
     pub = {

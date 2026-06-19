@@ -7,7 +7,7 @@ We conduct research in <strong>computer architecture and computer systems</stron
 </p>
 
 <div id="home" class="pure-g">
-  <div id="themes" class="pure-u-1 pure-u-md-3-5">
+  <div id="themes" class="pure-u-1 pure-u-md-2-3">
     <h2>Active Research Themes</h2>
     {% for theme in site.data.research_themes %}
       <div id="theme-{{theme.key}}" class="theme" data-url="{{theme.url}}" data-people="{{theme.people}}">
@@ -16,13 +16,34 @@ We conduct research in <strong>computer architecture and computer systems</stron
             <div class="content">
               <h3>{{theme.name}}</h3>
               {{theme.desc | markdownify}}
+              {% if theme.highlights %}
+                <div class="theme-highlights">
+                  <h4>Latest &amp; Greatest</h4>
+                  <ul>
+                    {% for slug in theme.highlights %}
+                      {% assign matches = site.pubs | where: "slug", slug %}
+                      {% assign pub = matches[0] %}
+                      {% if pub %}
+                        <li>
+                          <a href="{{pub.url}}">
+                            <span class="highlight-title">{{pub.title}}</span>
+                            <span class="highlight-venue">
+                              {{site.data.venues[pub.venue].short | default: pub.venue}} {{pub.year}}
+                            </span>
+                          </a>
+                        </li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
             </div>
           </div>
       </div>
     {% endfor %}
   </div>
 
-  <div class="pure-u-1 pure-u-md-2-5">
+  <div class="pure-u-1 pure-u-md-1-3">
 
     <h2 id="news-header">News</h2>
 
@@ -59,11 +80,11 @@ We conduct research in <strong>computer architecture and computer systems</stron
       {% endfor %}
     </div>
     <h3 id="alumni-header">Alumni</h3>
-    <ul id="alumni" class="pure-g">
-      {% assign alumni = site.data.people | sort_people: 'PhD, Postdoctoral, Scientist' %}
+    <ul id="alumni">
+      {% assign alumni = site.data.people | sort_alumni: 'PhD Student, Postdoc, Undergraduate Student' %}
       {% for person in alumni  %}
         {% if person[1].alumni %}
-        <li id="{{person[0]}}" class="person pure-u-1-2">
+        <li id="{{person[0]}}" class="person">
           <a href="{{person[1].url}}">
             <span class="headshot">
               <img src="/imgs/people/{{person[0]}}.jpg" alt="" />

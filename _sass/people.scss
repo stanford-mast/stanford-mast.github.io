@@ -68,8 +68,16 @@
   }
 }
 
-#gallery-header, #alumni-header {
+#gallery-header {
   font-size: 1rem;
+  color: #19196b;
+  margin-bottom: 0.25em;
+  border-bottom: 1px solid rgba(#19196b, 0.5);
+}
+
+#alumni-header {
+  text-transform: uppercase;
+  font-weight: bold;
   color: #19196b;
   margin-bottom: 0.25em;
   border-bottom: 1px solid rgba(#19196b, 0.5);
@@ -77,35 +85,64 @@
 
 #alumni {
   margin: 0;
-  padding: 0;
+  padding: 0 0.2rem 0 0;
   list-style: none;
   height: 20rem;
-  overflow-y: scroll;
+  overflow-y: auto;
+
+  li {
+    margin-bottom: 0.45rem;
+  }
 
   li a {
     display: flex;
     align-items: center;
+    width: 100%;
     text-align: left;
-    padding: 0.5em 0 0.25em 0;
-    border-bottom: 1px solid rgba(#19196b, 0.5);
+    padding: 0.45rem 0.55rem;
+    border: 1px solid rgba(#626AA0, 0.20);
+    border-radius: 8px;
+    background: rgba(#626AA0, 0.065);
+    box-shadow: 0 1px 2px rgba(#626AA0, 0.04);
+    transition: background 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+    &:hover {
+      background: rgba(#626AA0, 0.11);
+      border-color: rgba(#626AA0, 0.34);
+      box-shadow: 0 2px 5px rgba(#626AA0, 0.08);
+    }
 
     .name {
-      font-weight: normal;
+      display: inline-block;
+      font-weight: 600;
       font-size: 0.9rem;
+      line-height: 1.05;
     }
 
     .title {
-      font-size: 0.9rem;
+      display: inline-block;
+      color: rgba(#19196b, 0.75);
+      font-size: 0.8rem;
+      font-style: normal;
+      line-height: 1.15;
     }
 
     .headshot {
+      flex: 0 0 2.7rem;
+      margin-right: 0.6rem;
+      line-height: 0;
+
       img {
-        width: 2.5em;
-        margin-right: 0.5em;
+        width: 2.7rem;
+        height: 2.7rem;
+        object-fit: cover;
+        margin: 0;
+        border-color: rgba(#19196b, 0.28);
+        border-radius: 100em;
       }
 
       &:before {
-        right: 0.5em;
+        display: none;
       }
     }
   }

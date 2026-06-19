@@ -51,7 +51,7 @@
       position: relative;
       bottom: 0em;
       padding: 0.5em;
-      background: rgba(#19196b, 0.05);
+      background: rgba(#19196b, 0.045);
       padding-bottom: 20px;
 
       &:hover {
@@ -80,6 +80,67 @@
         &:hover {
           // text-decoration: none;
         }
+      }
+    }
+
+    .theme-highlights {
+      margin: 0.9rem 0.5rem 0;
+      padding-top: 0.6rem;
+      border-top: 1px solid rgba(#19196b, 0.18);
+
+      h4 {
+        margin: 0 0 0.35rem;
+        color: rgba(#19196b, 0.72);
+        font-size: 0.72rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      li {
+        border-top: 1px solid rgba(#19196b, 0.10);
+
+        &:first-child {
+          border-top: 0;
+        }
+      }
+
+      a {
+        display: flex;
+        gap: 0.75rem;
+        justify-content: space-between;
+        padding: 0.35rem 0;
+        color: #19196b;
+
+        &:hover {
+          text-decoration: none;
+
+          .highlight-title {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      .highlight-title {
+        min-width: 0;
+        font-size: 0.88rem;
+        font-weight: 600;
+        line-height: 1.15;
+      }
+
+      .highlight-venue {
+        flex: 0 0 auto;
+        color: rgba(#19196b, 0.58);
+        font-size: 0.75rem;
+        font-weight: 600;
+        line-height: 1.2;
+        white-space: nowrap;
       }
     }
   }

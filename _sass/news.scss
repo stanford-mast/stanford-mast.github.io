@@ -30,44 +30,40 @@
 
 #news {
   position: relative;
-  height: 10rem;
-  overflow-x: scroll;
+  height: 14rem;
+  overflow-y: scroll;
 
   #news-items {
-    position:  absolute;
     height: 100%;
-    white-space: nowrap;
   }
 
   .item {
-    display: inline-block;
-    width: 10rem;
     max-height: 10rem;
     overflow: hidden;
-    white-space: normal;
-    margin-right: 1em;
-    border: 1px solid #19196b;
+    margin-bottom: 0.85em;
+    border: 1px solid rgba(#2A7F8F, 0.20);
     border-radius: $border-radius;
-    padding: 0.5em;
-    vertical-align: top;
+    background: rgba(#2A7F8F, 0.06);
+    padding: 0.6em;
   }
 
 
   p {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
+    line-height: 1.25;
     margin: 0;
 
     &.date {
       font-style: italic;
-      font-size: 0.8rem;
-      text-align: right;
-      margin-bottom: 0.25em;
+      font-size: 0.75rem;
+      line-height: 1.25;
       color: $csail-dgrey;
+      margin-bottom: 0.25em;
     }
   }
 
   a {
-    color: #333;
-    font-weight: 500;
+    color: #19196b;
+    font-weight: 600;
   }
 }
