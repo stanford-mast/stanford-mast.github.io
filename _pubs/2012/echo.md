@@ -13,6 +13,15 @@ date: 2012-04-01
 doi: 10.1109/IISWC.2012.6402896
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/echo/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/echo/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/IISWC.2012.6402896
+    type: file-alt
 tags:
   - cloud
   - networking

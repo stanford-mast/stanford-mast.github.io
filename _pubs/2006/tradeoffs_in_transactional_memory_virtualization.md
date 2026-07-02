@@ -16,6 +16,15 @@ date: 2006-10-01
 doi: 10.1145/1168919.1168903
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/tradeoffs_in_transactional_memory_virtualization/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/tradeoffs_in_transactional_memory_virtualization/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1168919.1168903
+    type: file-alt
 tags:
   - OS
   - parallel-compute

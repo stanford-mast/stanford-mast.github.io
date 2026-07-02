@@ -10,6 +10,12 @@ date: 2006-03-01
 doi: 
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_software_stack_for_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/the_software_stack_for_transactional_memory/talk.pdf
+    type: file-pdf
 tags:
   - compilers
   - parallel-compute

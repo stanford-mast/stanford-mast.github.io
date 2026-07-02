@@ -15,6 +15,9 @@ date: 2026-05-11
 doi: 10.48550/arXiv.2605.11277
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2605.11277
+    type: file-alt
 tags:
   - architecture
   - AI-systems

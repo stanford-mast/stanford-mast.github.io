@@ -11,6 +11,15 @@ date: 2010-05-01
 doi: 10.1109/nocs.2010.10
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/evaluating_bufferless_flow_control_for_on_chip_networks/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/evaluating_bufferless_flow_control_for_on_chip_networks/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/nocs.2010.10
+    type: file-alt
 tags:
   - architecture
   - networking

@@ -13,6 +13,9 @@ date: 2018-12-01
 doi: 10.48550/arXiv.1812.09442
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.1812.09442
+    type: file-alt
 tags:
   - architecture
   - resource-management

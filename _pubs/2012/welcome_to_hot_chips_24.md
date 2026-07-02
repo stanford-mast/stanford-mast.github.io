@@ -9,7 +9,7 @@ date: 2012-08-01
 doi:
 thumbnail: False
 materials:
-  - name: Article
+  - name: IEEE Computer
     url: https://www.computer.org/csdl/proceedings-article/hcs/2012/07476477/12OmNyaXPOQ
     type: file-alt
 tags:

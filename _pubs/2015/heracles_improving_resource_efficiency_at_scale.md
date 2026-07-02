@@ -12,6 +12,12 @@ date: 2015-06-01
 doi: 10.1145/2749469.2749475
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/heracles_improving_resource_efficiency_at_scale/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2749469.2749475
+    type: file-alt
 tags:
   - architecture
   - datacenter-systems

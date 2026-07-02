@@ -10,6 +10,12 @@ date: 2010-04-01
 doi: 10.1145/1773912.1773933
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/tainting_is_not_pointless/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1773912.1773933
+    type: file-alt
 tags:
   - OS
   - security

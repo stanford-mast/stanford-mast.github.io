@@ -9,6 +9,15 @@ date: 2013-03-16
 doi: 10.1145/2451116.2451125
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/paragon_qos_aware_scheduling_for_heterogeneous_datacenters/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/paragon_qos_aware_scheduling_for_heterogeneous_datacenters/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2451116.2451125
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

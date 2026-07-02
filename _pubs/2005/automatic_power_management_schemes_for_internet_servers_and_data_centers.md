@@ -11,6 +11,9 @@ date: 2005-11-01
 doi: 10.1109/glocom.2005.1577776
 thumbnail: False
 materials:
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/glocom.2005.1577776
+    type: file-alt
 tags:
   - cloud
   - networking

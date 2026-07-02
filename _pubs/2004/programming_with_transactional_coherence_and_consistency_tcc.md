@@ -15,6 +15,15 @@ date: 2004-10-01
 doi: 10.1145/1037187.1024395
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/programming_with_transactional_coherence_and_consistency_tcc/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/programming_with_transactional_coherence_and_consistency_tcc/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1037187.1024395
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

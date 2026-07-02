@@ -13,6 +13,12 @@ date: 2007-04-16
 doi: 10.1109/date.2007.364659
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/register_pointer_architecture_for_efficient_embedded_processors/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/register_pointer_architecture_for_efficient_embedded_processors/talk.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://ieeexplore.ieee.org/document/4211864
     type: file-alt

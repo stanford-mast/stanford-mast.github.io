@@ -19,6 +19,15 @@ date: 2018-06-01
 doi: 10.1145/3192366.3192379
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/spatial_a_language_and_compiler_for_application_accelerators/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/spatial_a_language_and_compiler_for_application_accelerators/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3192366.3192379
+    type: file-alt
 tags:
   - architecture
   - compilers

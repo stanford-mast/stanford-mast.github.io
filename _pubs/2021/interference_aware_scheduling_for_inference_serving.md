@@ -12,6 +12,9 @@ date: 2021-04-01
 doi: 10.1145/3437984.3458837
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3437984.3458837
+    type: file-alt
 tags:
   - cloud
   - AI-systems

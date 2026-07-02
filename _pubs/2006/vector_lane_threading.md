@@ -11,6 +11,15 @@ date: 2006-08-01
 doi: 10.1109/icpp.2006.74
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/vector_lane_threading/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/vector_lane_threading/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/icpp.2006.74
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

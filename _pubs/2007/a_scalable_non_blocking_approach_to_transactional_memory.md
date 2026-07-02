@@ -15,6 +15,15 @@ date: 2007-02-01
 doi: 10.1109/hpca.2007.346189
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_scalable_non_blocking_approach_to_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/a_scalable_non_blocking_approach_to_transactional_memory/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2007.346189
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

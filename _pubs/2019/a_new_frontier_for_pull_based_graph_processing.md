@@ -9,6 +9,9 @@ date: 2019-03-01
 doi: 10.48550/arXiv.1903.07754
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.1903.07754
+    type: file-alt
 tags:
   - parallel-compute
 ---

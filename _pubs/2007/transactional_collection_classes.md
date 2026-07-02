@@ -13,6 +13,15 @@ date: 2007-03-01
 doi: 10.1145/1229428.1229441
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/transactional_collection_classes/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/transactional_collection_classes/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1229428.1229441
+    type: file-alt
 tags:
   - compilers
   - parallel-compute

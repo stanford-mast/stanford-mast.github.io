@@ -9,6 +9,12 @@ date: 2012-02-01
 doi: 10.1109/hpca.2012.6168950
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/scd_a_scalable_coherence_directory_with_flexible_sharer_set_encoding/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2012.6168950
+    type: file-alt
 tags:
   - architecture
   - memory-storage

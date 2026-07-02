@@ -15,7 +15,13 @@ date: 2006-02-01
 doi: 
 thumbnail: False
 materials:
-  - name: PDF
+  - name: paper
+    url: /pubs/building_and_using_the_atlas_transactional_memory_system/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/building_and_using_the_atlas_transactional_memory_system/talk.pdf
+    type: file-pdf
+  - name: original
     url: https://csl.stanford.edu/~christos/publications/2006.atlas.warfp.pdf
     type: file-pdf
 tags:

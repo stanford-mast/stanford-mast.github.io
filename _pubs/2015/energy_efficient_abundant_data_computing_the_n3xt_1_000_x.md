@@ -28,6 +28,9 @@ date: 2015-12-01
 doi: 10.1109/MC.2015.376
 thumbnail: True
 materials:
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/MC.2015.376
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

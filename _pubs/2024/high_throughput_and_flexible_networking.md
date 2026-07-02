@@ -22,7 +22,7 @@ date: 2024-07-16
 doi:
 thumbnail: True
 materials:
-  - name: PDF
+  - name: USENIX
     url: https://www.usenix.org/conference/osdi24/presentation/skiadopoulos
     type: file-pdf
 tags:

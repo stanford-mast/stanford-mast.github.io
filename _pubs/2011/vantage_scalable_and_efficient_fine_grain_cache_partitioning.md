@@ -9,6 +9,15 @@ date: 2011-06-01
 doi: 10.1145/2024723.2000073
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/vantage_scalable_and_efficient_fine_grain_cache_partitioning/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/vantage_scalable_and_efficient_fine_grain_cache_partitioning/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2024723.2000073
+    type: file-alt
 tags:
   - architecture
   - memory-storage

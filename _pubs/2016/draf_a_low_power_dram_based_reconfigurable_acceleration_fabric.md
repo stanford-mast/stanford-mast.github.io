@@ -18,6 +18,12 @@ date: 2016-06-01
 doi: 10.1109/ISCA.2016.51
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/draf_a_low_power_dram_based_reconfigurable_acceleration_fabric/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/ISCA.2016.51
+    type: file-alt
 tags:
   - architecture
   - memory-storage

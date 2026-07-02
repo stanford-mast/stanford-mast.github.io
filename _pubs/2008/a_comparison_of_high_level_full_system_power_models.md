@@ -11,6 +11,12 @@ date: 2008-12-01
 doi: 10.5555/1855610.1855613
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_comparison_of_high_level_full_system_power_models/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.5555/1855610.1855613
+    type: file-alt
 tags:
   - cloud
   - resource-management

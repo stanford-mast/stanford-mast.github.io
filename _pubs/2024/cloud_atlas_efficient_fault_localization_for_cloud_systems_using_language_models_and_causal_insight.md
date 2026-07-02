@@ -17,6 +17,9 @@ date: 2024-07-01
 doi: 10.48550/arXiv.2407.08694
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2407.08694
+    type: file-alt
 tags:
   - architecture
   - cloud

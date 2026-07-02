@@ -12,6 +12,15 @@ date: 2009-11-01
 doi: 10.1145/1654059.1654102
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/future_scaling_of_processor_memory_interfaces/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/future_scaling_of_processor_memory_interfaces/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1654059.1654102
+    type: file-alt
 tags:
   - architecture
   - memory-storage

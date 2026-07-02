@@ -14,6 +14,12 @@ date: 2008-12-01
 doi: 10.1145/1455650.1455651
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/comparative_evaluation_of_memory_models_for_chip_multiprocessors/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1455650.1455651
+    type: file-alt
 tags:
   - architecture
   - memory-storage

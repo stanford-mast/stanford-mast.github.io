@@ -9,6 +9,12 @@ date: 2006-03-01
 doi: 10.1109/date.2006.244090
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/simultaneously_improving_code_size_performance_and_energy_in_embedded_processors/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/date.2006.244090
+    type: file-alt
 tags:
   - architecture
   - energy-efficiency

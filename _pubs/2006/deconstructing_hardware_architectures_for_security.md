@@ -10,6 +10,12 @@ date: 2006-06-01
 doi: 
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/deconstructing_hardware_architectures_for_security/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/deconstructing_hardware_architectures_for_security/talk.pdf
+    type: file-pdf
 tags:
   - architecture
   - security

@@ -20,6 +20,12 @@ date: 1997-10-01
 doi: 10.1109/iccd.1997.628842
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/intelligent_ram_iram_the_industrial_setting_applications_and_architectures/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/iccd.1997.628842
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

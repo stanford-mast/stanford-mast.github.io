@@ -15,6 +15,12 @@ date: 1997-02-01
 doi: 10.1109/isscc.1997.585348
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/intelligent_ram_iram_chips_that_remember_and_compute/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/isscc.1997.585348
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

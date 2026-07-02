@@ -11,6 +11,9 @@ date: 2026-06-01
 doi: 10.48550/arXiv.2605.06914
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2605.06914
+    type: file-alt
 tags:
   - AI-systems
   - parallel-compute

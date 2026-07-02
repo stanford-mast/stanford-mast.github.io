@@ -10,6 +10,15 @@ date: 2009-01-01
 doi: 10.1145/1480881.1480909
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/feedback_directed_barrier_optimization_in_a_strongly_isolated_stm/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/feedback_directed_barrier_optimization_in_a_strongly_isolated_stm/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1480881.1480909
+    type: file-alt
 tags:
   - compilers
   - parallel-compute

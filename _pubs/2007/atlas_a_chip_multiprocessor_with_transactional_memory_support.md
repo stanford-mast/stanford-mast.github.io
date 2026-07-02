@@ -14,6 +14,15 @@ date: 2007-04-01
 doi: 10.1109/date.2007.364558
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/atlas_a_chip_multiprocessor_with_transactional_memory_support/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/atlas_a_chip_multiprocessor_with_transactional_memory_support/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/date.2007.364558
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

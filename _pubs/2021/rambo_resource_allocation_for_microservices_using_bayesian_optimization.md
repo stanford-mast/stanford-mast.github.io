@@ -14,6 +14,9 @@ date: 2021-03-01
 doi: 10.1109/LCA.2021.3066142
 thumbnail: True
 materials:
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/LCA.2021.3066142
+    type: file-alt
 tags:
   - architecture
   - cloud

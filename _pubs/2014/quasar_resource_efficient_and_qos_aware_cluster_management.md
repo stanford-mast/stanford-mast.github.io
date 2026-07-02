@@ -9,6 +9,15 @@ date: 2014-02-01
 doi: 10.1145/2541940.2541941
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/quasar_resource_efficient_and_qos_aware_cluster_management/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/quasar_resource_efficient_and_qos_aware_cluster_management/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2541940.2541941
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

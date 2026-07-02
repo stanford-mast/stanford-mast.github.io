@@ -14,6 +14,12 @@ date: 2006-09-01
 doi: 10.1145/1152154.1152177
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/testing_implementations_of_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1152154.1152177
+    type: file-alt
 tags:
   - parallel-compute
   - memory-storage

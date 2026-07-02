@@ -12,6 +12,9 @@ date: 2025-11-15
 doi: 10.48550/arXiv.2511.12294
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2511.12294
+    type: file-alt
 tags:
   - compilers
   - AI-systems

@@ -16,6 +16,12 @@ date: 2013-07-01
 doi: 10.1145/2486159.2486175
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/locality_aware_task_management_for_unstructured_parallelism_a_quantitative_limit_study/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2486159.2486175
+    type: file-alt
 tags:
   - parallel-compute
   - resource-management

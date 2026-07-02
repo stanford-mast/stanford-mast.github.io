@@ -10,6 +10,15 @@ date: 2007-06-01
 doi: 10.1145/1273440.1250722
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/raksha_a_flexible_information_flow_architecture_for_software_security/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/raksha_a_flexible_information_flow_architecture_for_software_security/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1273440.1250722
+    type: file-alt
 tags:
   - architecture
   - security

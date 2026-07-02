@@ -12,6 +12,12 @@ date: 2010-06-01
 doi: 10.1145/1810479.1810528
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/implementing_and_evaluating_nested_parallel_transactions_in_software_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1810479.1810528
+    type: file-alt
 tags:
   - parallel-compute
   - memory-storage

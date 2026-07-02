@@ -17,6 +17,9 @@ date: 2017-06-01
 doi: 10.1145/3079856.3080256
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3079856.3080256
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

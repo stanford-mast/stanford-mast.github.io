@@ -23,6 +23,9 @@ date: 2011-07-01
 doi: 10.1145/1965724.1965751
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1965724.1965751
+    type: file-alt
 tags:
   - cloud
   - databases

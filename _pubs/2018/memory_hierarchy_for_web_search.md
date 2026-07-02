@@ -11,6 +11,15 @@ date: 2018-02-01
 doi: 10.1109/hpca.2018.00061
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/memory_hierarchy_for_web_search/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/memory_hierarchy_for_web_search/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2018.00061
+    type: file-alt
 tags:
   - architecture
   - memory-storage

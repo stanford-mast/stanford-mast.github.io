@@ -12,6 +12,15 @@ date: 2007-09-01
 doi: 10.1109/pact.2007.4336227
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_opentm_transactional_application_programming_interface/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/the_opentm_transactional_application_programming_interface/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/pact.2007.4336227
+    type: file-alt
 tags:
   - compilers
   - parallel-compute

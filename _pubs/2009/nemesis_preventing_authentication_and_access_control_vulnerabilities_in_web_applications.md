@@ -10,7 +10,7 @@ date: 2009-08-01
 doi:
 thumbnail: False
 materials:
-  - name: USENIX PDF
+  - name: USENIX
     url: https://www.usenix.org/legacy/event/sec09/tech/full_papers/dalton.pdf
     type: file-pdf
 tags:

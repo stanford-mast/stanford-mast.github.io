@@ -15,6 +15,9 @@ date: 2007-03-01
 doi: 10.1145/1241601.1241608
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1241601.1241608
+    type: file-alt
 tags:
   - architecture
   - cloud

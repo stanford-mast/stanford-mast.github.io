@@ -14,6 +14,9 @@ date: 2008-06-01
 doi: 10.1145/1378533.1378599
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1378533.1378599
+    type: file-alt
 tags:
   - security
   - parallel-compute

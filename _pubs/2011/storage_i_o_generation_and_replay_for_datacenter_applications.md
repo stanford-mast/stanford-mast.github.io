@@ -11,6 +11,12 @@ date: 2011-04-01
 doi: 10.1109/ispass.2011.5762724
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/storage_i_o_generation_and_replay_for_datacenter_applications/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/ispass.2011.5762724
+    type: file-alt
 tags:
   - cloud
   - memory-storage

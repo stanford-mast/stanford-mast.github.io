@@ -13,6 +13,9 @@ date: 2018-07-01
 doi:
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/understanding_ephemeral_storage_for_serverless_analytics/paper.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/conference/atc18/presentation/klimovic-serverless
     type: file-alt

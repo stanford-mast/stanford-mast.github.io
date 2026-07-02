@@ -13,6 +13,15 @@ date: 2010-05-01
 doi: 10.1109/fccm.2010.41
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/farm_a_prototyping_environment_for_tightly_coupled_heterogeneous_architectures/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/farm_a_prototyping_environment_for_tightly_coupled_heterogeneous_architectures/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/fccm.2010.41
+    type: file-alt
 tags:
   - architecture
   - accelerators

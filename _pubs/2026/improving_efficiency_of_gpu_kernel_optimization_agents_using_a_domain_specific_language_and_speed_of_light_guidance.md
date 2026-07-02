@@ -12,6 +12,9 @@ date: 2026-03-30
 doi: 10.48550/arXiv.2603.29010
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2603.29010
+    type: file-alt
 tags:
   - OS
   - compilers

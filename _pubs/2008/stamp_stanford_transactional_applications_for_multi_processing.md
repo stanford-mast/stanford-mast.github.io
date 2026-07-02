@@ -11,6 +11,12 @@ date: 2008-10-01
 doi: 10.1109/iiswc.2008.4636089
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/stamp_stanford_transactional_applications_for_multi_processing/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/iiswc.2008.4636089
+    type: file-alt
 tags:
   - parallel-compute
   - transactional-memory

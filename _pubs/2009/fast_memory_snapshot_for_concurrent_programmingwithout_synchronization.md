@@ -10,6 +10,9 @@ date: 2009-06-01
 doi: 10.1145/1542275.154229
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1542275.154229
+    type: file-alt
 tags:
   - parallel-compute
   - memory-storage

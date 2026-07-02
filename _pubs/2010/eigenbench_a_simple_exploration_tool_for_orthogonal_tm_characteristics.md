@@ -13,6 +13,15 @@ date: 2010-12-01
 doi: 10.1109/iiswc.2010.5648812
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/eigenbench_a_simple_exploration_tool_for_orthogonal_tm_characteristics/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/eigenbench_a_simple_exploration_tool_for_orthogonal_tm_characteristics/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/iiswc.2010.5648812
+    type: file-alt
 tags:
   - parallel-compute
   - transactional-memory

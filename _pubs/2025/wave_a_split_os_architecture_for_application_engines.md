@@ -20,6 +20,9 @@ date: 2025-08-01
 doi: 10.1145/3676642.3736113
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3676642.3736113
+    type: file-alt
 tags:
   - OS
   - cloud

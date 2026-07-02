@@ -15,6 +15,9 @@ date: 2017-10-01
 doi: 10.1145/3125502.3125531
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3125502.3125531
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

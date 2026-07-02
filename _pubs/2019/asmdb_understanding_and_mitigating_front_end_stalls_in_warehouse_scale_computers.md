@@ -18,6 +18,9 @@ date: 2019-06-01
 doi: 10.1145/3307650.3322234
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3307650.3322234
+    type: file-alt
 tags:
   - architecture
   - cloud

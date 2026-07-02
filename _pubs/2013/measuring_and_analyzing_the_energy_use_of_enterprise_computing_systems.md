@@ -16,6 +16,9 @@ date: 2013-09-01
 doi: 10.1016/j.suscom.2013.01.009
 thumbnail: True
 materials:
+  - name: Elsevier
+    url: https://doi.org/10.1016/j.suscom.2013.01.009
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

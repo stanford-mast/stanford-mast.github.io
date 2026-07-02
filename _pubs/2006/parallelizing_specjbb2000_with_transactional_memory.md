@@ -11,6 +11,12 @@ date: 2006-06-01
 doi: 
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/parallelizing_specjbb2000_with_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/parallelizing_specjbb2000_with_transactional_memory/talk.pdf
+    type: file-pdf
 tags:
   - parallel-compute
   - memory-storage

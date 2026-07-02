@@ -12,12 +12,12 @@ doi: 10.1145/3694715.3695960
 teaser: ReCycle works around failures by adaptively re-routing micro-batches from failed worker to its functional peers
 thumbnail: True
 materials:
+  - name: talk
+    url: https://swapnilgandhi.com/slides/recycle-sosp24.pdf
+    type: file
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/3694715.3695960
     type: file-alt
-  - name: Slides
-    url: https://swapnilgandhi.com/slides/recycle-sosp24.pdf
-    type: file
 tags:
   - distributed training
   - resilience

@@ -14,6 +14,9 @@ date: 2026-02-15
 doi: 10.48550/arXiv.2602.14293
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2602.14293
+    type: file-alt
 tags:
   - OS
   - AI-systems

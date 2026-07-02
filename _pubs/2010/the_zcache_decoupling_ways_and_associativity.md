@@ -9,6 +9,15 @@ date: 2010-12-01
 doi: 10.1109/MICRO.2010.20
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_zcache_decoupling_ways_and_associativity/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/the_zcache_decoupling_ways_and_associativity/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/MICRO.2010.20
+    type: file-alt
 tags:
   - architecture
   - memory-storage

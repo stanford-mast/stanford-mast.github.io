@@ -9,6 +9,9 @@ date: 2013-12-20
 doi: 10.1145/2556583
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2556583
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

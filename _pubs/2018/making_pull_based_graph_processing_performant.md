@@ -10,6 +10,15 @@ date: 2018-02-01
 doi: 10.1145/3178487.3178506
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/making_pull_based_graph_processing_performant/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/making_pull_based_graph_processing_performant/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3178487.3178506
+    type: file-alt
 tags:
   - compilers
   - parallel-compute

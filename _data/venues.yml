@@ -4,6 +4,12 @@ preprint:
   bibtex:
     type: misc
     venue: booktitle
+gomactech:
+  short: GOMACTech
+  full: Government Microcircuit Applications and Critical Technology Conference (GOMACTech)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
 sosp:
   short: SOSP
   full: ACM SIGOPS Symposium on Operating Systems Principles (SOSP)

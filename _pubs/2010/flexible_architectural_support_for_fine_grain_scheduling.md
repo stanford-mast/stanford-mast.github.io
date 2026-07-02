@@ -10,6 +10,12 @@ date: 2010-03-01
 doi: 10.1145/1736020.1736055
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/flexible_architectural_support_for_fine_grain_scheduling/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1736020.1736055
+    type: file-alt
 tags:
   - cloud
   - resource-management

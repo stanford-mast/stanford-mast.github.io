@@ -17,6 +17,9 @@ date: 2022-11-01
 doi: 10.14778/3570690.3570695
 thumbnail: True
 materials:
+  - name: VLDB
+    url: https://doi.org/10.14778/3570690.3570695
+    type: file-alt
 tags:
   - databases
   - AI-systems

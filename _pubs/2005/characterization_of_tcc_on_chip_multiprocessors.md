@@ -15,6 +15,15 @@ date: 2005-09-01
 doi: 10.1109/pact.2005.11
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/characterization_of_tcc_on_chip_multiprocessors/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/characterization_of_tcc_on_chip_multiprocessors/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/pact.2005.11
+    type: file-alt
 tags:
   - architecture
   - memory-storage

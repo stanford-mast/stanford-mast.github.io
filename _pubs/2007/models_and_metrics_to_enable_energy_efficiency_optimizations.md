@@ -13,6 +13,12 @@ date: 2007-12-01
 doi: 10.1109/MC.2007.436
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/models_and_metrics_to_enable_energy_efficiency_optimizations/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/MC.2007.436
+    type: file-alt
 tags:
   - architecture
   - energy-efficiency

@@ -8,9 +8,15 @@ authors:
 venue: icml
 year: 2026
 date: 2026-07-06
-doi: 10.48550/arXiv.2605.21470
+doi:
 thumbnail: True
 materials:
+  - name: OpenReview
+    url: https://openreview.net/forum?id=7NiATKcx1B
+    type: file-alt
+  - name: ICML
+    url: https://icml.cc/virtual/2026/poster/66062
+    type: file-alt
 tags:
   - cloud
   - compilers

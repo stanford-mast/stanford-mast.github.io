@@ -12,6 +12,15 @@ date: 2011-06-01
 doi: 10.1145/1996092.1996095
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/phoenix_modular_mapreduce_for_shared_memory_systems/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/phoenix_modular_mapreduce_for_shared_memory_systems/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1996092.1996095
+    type: file-alt
 tags:
   - cloud
   - parallel-compute

@@ -10,12 +10,15 @@ authors:
   - name: Kunle Olukotun
     affiliation: Stanford
   - name: Ken Mai
-venue: preprint
+venue: gomactech
 year: 2005
-date: 2005-04-01
+date: 2005-04-04
 doi: 
 thumbnail: False
 materials:
+  - name: paper
+    url: http://www.firoozshahian.com/publications/GOMACTech-05.pdf
+    type: file-pdf
 tags:
   - architecture
   - parallel-compute

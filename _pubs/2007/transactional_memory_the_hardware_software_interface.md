@@ -15,6 +15,12 @@ date: 2007-05-01
 doi: 10.1109/MM.2007.26
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/transactional_memory_the_hardware_software_interface/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/MM.2007.26
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

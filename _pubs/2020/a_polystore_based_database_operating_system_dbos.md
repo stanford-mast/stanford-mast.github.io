@@ -18,6 +18,9 @@ date: 2020-08-01
 doi: 10.1007/978-3-030-71055-2_1
 thumbnail: True
 materials:
+  - name: Springer
+    url: https://doi.org/10.1007/978-3-030-71055-2_1
+    type: file-alt
 tags:
   - OS
   - databases

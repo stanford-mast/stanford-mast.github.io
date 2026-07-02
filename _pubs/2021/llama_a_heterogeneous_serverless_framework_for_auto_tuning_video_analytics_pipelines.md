@@ -11,6 +11,9 @@ date: 2021-11-01
 doi: 10.1145/3472883.3486972
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3472883.3486972
+    type: file-alt
 tags:
   - cloud
   - databases

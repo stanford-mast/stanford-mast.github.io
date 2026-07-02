@@ -14,6 +14,15 @@ date: 2007-06-01
 doi: 10.1145/1273440.1250707
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/comparing_memory_systems_for_chip_multiprocessors/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/comparing_memory_systems_for_chip_multiprocessors/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1273440.1250707
+    type: file-alt
 tags:
   - architecture
   - memory-storage
