@@ -14,6 +14,12 @@ date: 2012-10-01
 doi: 10.1145/2380445.2380524
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_case_of_system_level_hardware_software_co_design_and_co_verification_of_a_commodity_multi_processor_system_with_custom_hardware/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2380445.2380524
+    type: file-alt
 tags:
   - architecture
   - memory-storage

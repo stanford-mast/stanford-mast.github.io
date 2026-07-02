@@ -12,6 +12,12 @@ date: 2011-08-01
 doi: 10.1007/978-3-642-32627-1_11
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/time_and_cost_efficient_modeling_and_generation_of_large_scale_tpcc_tpce_tpch_workloads/paper.pdf
+    type: file-pdf
+  - name: Springer
+    url: https://doi.org/10.1007/978-3-642-32627-1_11
+    type: file-alt
 tags:
   - databases
   - datacenter-systems

@@ -11,8 +11,8 @@ date: 2011-03-01
 doi:
 thumbnail: False
 materials:
-  - name: PDF
-    url: https://www.csl.cornell.edu/~delimitrou/papers/Accurate_Workload_Modeling.pdf
+  - name: paper
+    url: /pubs/accurate_modeling_and_generation_of_storage_i_o_for_datacenter_workloads/paper-storagemodeling-exert.pdf
     type: file-pdf
 tags:
   - cloud

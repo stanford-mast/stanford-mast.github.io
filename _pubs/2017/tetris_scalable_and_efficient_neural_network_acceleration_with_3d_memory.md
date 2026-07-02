@@ -13,6 +13,9 @@ date: 2017-04-01
 doi: 10.1145/3093337.3037702
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3093337.3037702
+    type: file-alt
 tags:
   - AI-systems
   - networking

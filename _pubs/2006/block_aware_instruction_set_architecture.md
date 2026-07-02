@@ -9,6 +9,12 @@ date: 2006-09-01
 doi: 10.1145/1162690.1162694
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/block_aware_instruction_set_architecture/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1162690.1162694
+    type: file-alt
 tags:
   - architecture
 ---

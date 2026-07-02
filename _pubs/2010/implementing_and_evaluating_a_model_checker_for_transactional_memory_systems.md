@@ -11,6 +11,12 @@ date: 2010-03-01
 doi: 10.1109/iceccs.2010.30
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/implementing_and_evaluating_a_model_checker_for_transactional_memory_systems/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/iceccs.2010.30
+    type: file-alt
 tags:
   - compilers
   - parallel-compute

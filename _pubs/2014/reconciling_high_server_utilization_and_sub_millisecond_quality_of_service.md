@@ -9,6 +9,12 @@ date: 2014-04-01
 doi: 10.1145/2592798.2592821
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/reconciling_high_server_utilization_and_sub_millisecond_quality_of_service/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2592798.2592821
+    type: file-alt
 tags:
   - cloud
   - OS

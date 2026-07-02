@@ -12,6 +12,9 @@ date: 2023-01-01
 doi: 10.48550/arXiv.2301.02959
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2301.02959
+    type: file-alt
 tags:
   - AI-systems
   - datacenter-systems

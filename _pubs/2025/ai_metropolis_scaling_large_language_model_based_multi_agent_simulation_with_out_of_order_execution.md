@@ -17,12 +17,12 @@ date: 2025-05-17
 doi:
 thumbnail: True
 materials:
+  - name: paper
+    url: https://openreview.net/pdf?id=fsMImmI1TE
+    type: file-pdf
   - name: OpenReview
     url: https://openreview.net/forum?id=fsMImmI1TE
     type: file-alt
-  - name: PDF
-    url: https://openreview.net/pdf?id=fsMImmI1TE
-    type: file-pdf
 tags:
   - AI-systems
   - resource-management

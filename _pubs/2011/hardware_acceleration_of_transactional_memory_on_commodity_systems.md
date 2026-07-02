@@ -18,6 +18,15 @@ date: 2011-03-01
 doi: 10.1145/1950365.1950372
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/hardware_acceleration_of_transactional_memory_on_commodity_systems/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/hardware_acceleration_of_transactional_memory_on_commodity_systems/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1950365.1950372
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

@@ -16,6 +16,12 @@ date: 2006-12-01
 doi: 10.1016/j.scico.2006.05.006
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/executing_java_programs_with_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: Elsevier
+    url: https://doi.org/10.1016/j.scico.2006.05.006
+    type: file-alt
 tags:
   - parallel-compute
   - memory-storage

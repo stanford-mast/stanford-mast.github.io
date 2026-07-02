@@ -11,9 +11,9 @@ date: 2024-12-01
 doi:
 thumbnail: False
 materials:
-  - name: Workshop page
-    url: https://neurips.cc/virtual/2024/103614
-    type: file-alt
+  - name: paper
+    url: https://mlforsystems.org/assets/papers/neurips2024/paper32.pdf
+    type: file-pdf
 tags:
   - AI-systems
   - parallel-compute

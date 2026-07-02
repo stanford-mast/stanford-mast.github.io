@@ -20,6 +20,12 @@ date: 1997-09-01
 doi: 10.1109/2.612252
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/scalable_processors_in_the_billion_transistor_era_iram/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/2.612252
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

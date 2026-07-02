@@ -15,6 +15,12 @@ date: 1997-06-01
 doi: 10.1145/264107.264214
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_energy_efficiency_of_iram_architectures/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/264107.264214
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

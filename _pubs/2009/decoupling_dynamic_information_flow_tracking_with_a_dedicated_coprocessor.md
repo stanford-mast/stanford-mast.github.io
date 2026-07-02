@@ -10,6 +10,15 @@ date: 2009-06-01
 doi: 10.1109/dsn.2009.5270347
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/decoupling_dynamic_information_flow_tracking_with_a_dedicated_coprocessor/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/decoupling_dynamic_information_flow_tracking_with_a_dedicated_coprocessor/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/dsn.2009.5270347
+    type: file-alt
 tags:
   - architecture
   - cloud

@@ -9,6 +9,12 @@ date: 2005-08-01
 doi: 10.1145/1077603.1077614
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/energy_efficient_and_high_performance_instruction_fetch_using_a_block_aware_isa/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1077603.1077614
+    type: file-alt
 tags:
   - architecture
   - energy-efficiency

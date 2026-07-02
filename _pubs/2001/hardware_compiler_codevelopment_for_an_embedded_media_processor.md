@@ -13,6 +13,12 @@ date: 2001-11-01
 doi: 10.1109/5.964446
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/hardware_compiler_codevelopment_for_an_embedded_media_processor/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/5.964446
+    type: file-alt
 tags:
   - architecture
   - compilers

@@ -13,6 +13,15 @@ date: 2013-06-01
 doi: 10.1145/2735841
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/convolution_engine_balancing_efficiency_flexibility_in_specialized_computing/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/convolution_engine_balancing_efficiency_flexibility_in_specialized_computing/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2735841
+    type: file-alt
 tags:
   - memory-storage
   - accelerators

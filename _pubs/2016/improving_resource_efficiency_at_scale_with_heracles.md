@@ -12,6 +12,12 @@ date: 2016-05-01
 doi: 10.1145/2882783
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/improving_resource_efficiency_at_scale_with_heracles/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2882783
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

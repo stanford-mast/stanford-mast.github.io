@@ -24,6 +24,9 @@ date: 2022-06-01
 doi: 10.1145/3470496.3533044
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3470496.3533044
+    type: file-alt
 tags:
   - architecture
   - AI-systems

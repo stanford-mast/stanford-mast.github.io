@@ -12,7 +12,7 @@ date: 2022-01-09
 doi:
 thumbnail: False
 materials:
-  - name: Paper
+  - name: VLDB
     url: https://vldb.org/cidrdb/papers/2022/p75-kang.pdf
     type: file-alt
 tags:

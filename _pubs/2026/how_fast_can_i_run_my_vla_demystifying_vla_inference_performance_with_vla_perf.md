@@ -11,6 +11,9 @@ date: 2026-02-20
 doi: 10.48550/arXiv.2602.18397
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2602.18397
+    type: file-alt
 tags:
   - AI-systems
   - datacenter-systems

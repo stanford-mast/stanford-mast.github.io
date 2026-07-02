@@ -15,6 +15,15 @@ date: 2006-05-01
 doi: 10.1145/1150019.1136491
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/architectural_semantics_for_practical_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/architectural_semantics_for_practical_transactional_memory/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1150019.1136491
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

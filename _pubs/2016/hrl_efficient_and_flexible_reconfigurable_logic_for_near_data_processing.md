@@ -9,6 +9,15 @@ date: 2016-03-01
 doi: 10.1109/hpca.2016.7446059
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/hrl_efficient_and_flexible_reconfigurable_logic_for_near_data_processing/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/hrl_efficient_and_flexible_reconfigurable_logic_for_near_data_processing/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2016.7446059
+    type: file-alt
 tags:
   - architecture
   - memory-storage

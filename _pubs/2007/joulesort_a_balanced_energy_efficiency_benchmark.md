@@ -12,6 +12,15 @@ date: 2007-06-01
 doi: 10.1145/1247480.1247522
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/joulesort_a_balanced_energy_efficiency_benchmark/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/joulesort_a_balanced_energy_efficiency_benchmark/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1247480.1247522
+    type: file-alt
 tags:
   - databases
   - datacenter-systems

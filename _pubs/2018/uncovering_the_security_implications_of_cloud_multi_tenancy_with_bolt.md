@@ -9,6 +9,9 @@ date: 2018-05-01
 doi: 10.1109/mm.2018.032271065
 thumbnail: False
 materials:
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/mm.2018.032271065
+    type: file-alt
 tags:
   - architecture
   - cloud

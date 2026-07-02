@@ -9,6 +9,9 @@ date: 2018-08-01
 doi: 10.1145/3232559
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3232559
+    type: file-alt
 tags:
   - cloud
   - OS

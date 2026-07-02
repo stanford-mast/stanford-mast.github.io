@@ -15,6 +15,15 @@ date: 2016-04-01
 doi: 10.1145/2901318.2901337
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/flash_storage_disaggregation/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/flash_storage_disaggregation/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2901318.2901337
+    type: file-alt
 tags:
   - cloud
   - memory-storage

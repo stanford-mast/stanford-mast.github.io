@@ -19,6 +19,9 @@ date: 2023-03-01
 doi: 10.48550/arXiv.2211.05239
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2211.05239
+    type: file-alt
 tags:
   - AI-systems
   - accelerators

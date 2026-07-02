@@ -10,6 +10,9 @@ date: 2018-07-01
 doi:
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/selecta_heterogeneous_cloud_storage_configuration_for_data_analytics/paper.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/conference/atc18/presentation/klimovic-selecta
     type: file-alt

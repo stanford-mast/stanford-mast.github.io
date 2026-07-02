@@ -17,7 +17,7 @@ date: 2023-07-10
 doi: 
 thumbnail: True
 materials:
-  - name: PDF
+  - name: USENIX
     url: https://www.usenix.org/conference/osdi23/presentation/mai
     type: file-pdf
 tags:

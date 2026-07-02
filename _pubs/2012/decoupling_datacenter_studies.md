@@ -13,6 +13,9 @@ date: 2012-04-01
 doi: 10.1109/IISWC.2011.6114196
 thumbnail: False
 materials:
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/IISWC.2011.6114196
+    type: file-alt
 tags:
   - cloud
   - memory-storage

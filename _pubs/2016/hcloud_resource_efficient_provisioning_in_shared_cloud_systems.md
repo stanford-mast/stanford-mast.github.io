@@ -9,6 +9,15 @@ date: 2016-03-01
 doi: 10.1145/2872362.2872365
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/hcloud_resource_efficient_provisioning_in_shared_cloud_systems/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/hcloud_resource_efficient_provisioning_in_shared_cloud_systems/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2872362.2872365
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

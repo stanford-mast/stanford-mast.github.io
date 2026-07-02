@@ -10,6 +10,15 @@ date: 2009-10-01
 doi: 10.1109/iiswc.2009.5306783
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/phoenix_rebirth_scalable_mapreduce_on_a_large_scale_shared_memory_system/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/phoenix_rebirth_scalable_mapreduce_on_a_large_scale_shared_memory_system/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/iiswc.2009.5306783
+    type: file-alt
 tags:
   - parallel-compute
   - memory-storage

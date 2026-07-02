@@ -11,7 +11,10 @@ date: 2008-12-01
 doi:
 thumbnail: False
 materials:
-  - name: PDF
+  - name: paper
+    url: /pubs/hardware_enforcement_of_application_security_policies_using_tagged_memory/paper.pdf
+    type: file-pdf
+  - name: USENIX
     url: https://www.usenix.org/legacy/event/osdi08/tech/full_papers/zeldovich/zeldovich_html/
     type: file-pdf
 tags:

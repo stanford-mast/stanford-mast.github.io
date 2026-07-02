@@ -15,6 +15,12 @@ date: 1997-03-01
 doi: 10.1109/40.592312
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_case_for_intelligent_ram/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/40.592312
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

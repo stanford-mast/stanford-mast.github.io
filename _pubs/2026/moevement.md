@@ -9,10 +9,10 @@ date: 2026-05-01
 doi:
 thumbnail: True
 materials:
-  - name: PDF
+  - name: USENIX
     url: https://www.usenix.org/conference/nsdi26/presentation/gandhi
     type: file-pdf
-  - name: Code
+  - name: code
     url: https://github.com/Swapnil-Gandhi/MoEvement
     type: code
 tags:

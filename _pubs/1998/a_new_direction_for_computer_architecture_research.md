@@ -9,6 +9,12 @@ date: 1998-11-01
 doi: 10.1109/2.730733
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_new_direction_for_computer_architecture_research/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/2.730733
+    type: file-alt
 tags:
   - architecture
   - near-data-processing

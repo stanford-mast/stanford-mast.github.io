@@ -11,7 +11,10 @@ date: 2009-10-11
 doi:
 thumbnail: False
 materials:
-  - name: Paper
+  - name: paper
+    url: /pubs/energy_dumpster_diving/paper.pdf
+    type: file-pdf
+  - name: ACM SIGOPS
     url: https://www.sigops.org/s/conferences/sosp/2009/papers/hotpower_3_kazandjieva.pdf
     type: file-alt
 tags:

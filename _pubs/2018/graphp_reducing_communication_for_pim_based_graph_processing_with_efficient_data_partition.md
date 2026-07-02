@@ -15,6 +15,12 @@ date: 2018-02-01
 doi: 10.1109/hpca.2018.00053
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/graphp_reducing_communication_for_pim_based_graph_processing_with_efficient_data_partition/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2018.00053
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

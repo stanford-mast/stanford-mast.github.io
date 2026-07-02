@@ -15,7 +15,7 @@ date: 2026-07-13
 doi:
 thumbnail: True
 materials:
-  - name: PDF
+  - name: USENIX
     url: https://www.usenix.org/conference/osdi26/presentation/xie-zhiqiang
     type: file-pdf
 tags:

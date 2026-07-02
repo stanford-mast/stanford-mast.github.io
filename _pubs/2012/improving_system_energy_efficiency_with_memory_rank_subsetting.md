@@ -12,6 +12,12 @@ date: 2012-03-01
 doi: 10.1145/2133382.2133386
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/improving_system_energy_efficiency_with_memory_rank_subsetting/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2133382.2133386
+    type: file-alt
 tags:
   - architecture
   - memory-storage

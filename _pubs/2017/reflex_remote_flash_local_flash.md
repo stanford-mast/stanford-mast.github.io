@@ -10,6 +10,12 @@ date: 2017-04-01
 doi: 10.1145/3093336.3037732
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/reflex_remote_flash_local_flash/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3093336.3037732
+    type: file-alt
 tags:
   - memory-storage
   - datacenter-systems

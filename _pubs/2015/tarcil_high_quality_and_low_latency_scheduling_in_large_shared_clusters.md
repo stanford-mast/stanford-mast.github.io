@@ -10,6 +10,15 @@ date: 2015-08-01
 doi: 10.1145/2806777.2806779
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/tarcil_high_quality_and_low_latency_scheduling_in_large_shared_clusters/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/tarcil_high_quality_and_low_latency_scheduling_in_large_shared_clusters/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2806777.2806779
+    type: file-alt
 tags:
   - cloud
   - OS

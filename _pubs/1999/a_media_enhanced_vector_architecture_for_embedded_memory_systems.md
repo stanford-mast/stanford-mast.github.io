@@ -11,6 +11,9 @@ materials:
   - name: Report
     url: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/Archive/CSD-99-1059.pdf
     type: file-alt
+  - name: thesis
+    url: /pubs/a_media_enhanced_vector_architecture_for_embedded_memory_systems/thesis.pdf
+    type: file-pdf
 tags:
   - architecture
   - parallel-compute

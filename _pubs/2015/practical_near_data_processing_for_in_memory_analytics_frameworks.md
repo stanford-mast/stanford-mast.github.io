@@ -10,6 +10,15 @@ date: 2015-10-01
 doi: 10.1109/pact.2015.22
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/practical_near_data_processing_for_in_memory_analytics_frameworks/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/practical_near_data_processing_for_in_memory_analytics_frameworks/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/pact.2015.22
+    type: file-alt
 tags:
   - architecture
   - memory-storage

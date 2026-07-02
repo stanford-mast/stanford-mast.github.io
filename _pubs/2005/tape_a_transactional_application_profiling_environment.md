@@ -16,6 +16,15 @@ date: 2005-06-01
 doi: 10.1145/1088149.1088176
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/tape_a_transactional_application_profiling_environment/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/tape_a_transactional_application_profiling_environment/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1088149.1088176
+    type: file-alt
 tags:
   - parallel-compute
   - transactional-memory

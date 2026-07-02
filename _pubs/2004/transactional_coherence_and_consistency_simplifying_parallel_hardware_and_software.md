@@ -14,6 +14,12 @@ date: 2004-11-01
 doi: 10.1109/MM.2004.91
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/transactional_coherence_and_consistency_simplifying_parallel_hardware_and_software/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/MM.2004.91
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

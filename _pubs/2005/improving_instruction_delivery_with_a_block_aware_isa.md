@@ -10,6 +10,15 @@ date: 2005-08-01
 doi: 10.1007/11549468_60
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/improving_instruction_delivery_with_a_block_aware_isa/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/improving_instruction_delivery_with_a_block_aware_isa/talk.pdf
+    type: file-pdf
+  - name: Springer
+    url: https://doi.org/10.1007/11549468_60
+    type: file-alt
 tags:
   - architecture
   - energy-efficiency

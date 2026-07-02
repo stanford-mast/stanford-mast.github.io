@@ -13,7 +13,7 @@ date: 2018-10-01
 doi:
 thumbnail: True
 materials:
-  - name: PDF
+  - name: USENIX
     url: https://www.usenix.org/conference/osdi18/presentation/klimovic
     type: file-pdf
 tags:

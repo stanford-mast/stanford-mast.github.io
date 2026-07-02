@@ -20,7 +20,7 @@ date: 2009-07-01
 doi: 
 thumbnail: False
 materials:
-  - name: Slides
+  - name: talk
     url: https://archive.dac.com/portals/0/documents/archive/2009/smartmemories.ppt
     type: file
 tags:

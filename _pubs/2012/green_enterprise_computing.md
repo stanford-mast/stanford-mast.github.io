@@ -15,6 +15,12 @@ date: 2012-04-01
 doi: 10.1109/IGCC.2012.6322264
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/green_enterprise_computing/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/IGCC.2012.6322264
+    type: file-alt
 tags:
   - cloud
   - datacenter-systems

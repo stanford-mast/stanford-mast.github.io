@@ -9,6 +9,12 @@ date: 2012-06-01
 doi: 10.1109/L-CA.2012.10
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_netflix_challenge_datacenter_edition/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/L-CA.2012.10
+    type: file-alt
 tags:
   - architecture
   - cloud

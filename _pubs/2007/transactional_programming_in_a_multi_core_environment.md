@@ -10,6 +10,12 @@ date: 2007-03-01
 doi: 10.1145/1229428.1229484
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1229428.1229484
+    type: file-alt
+  - name: tutorial
+    url: /pubs/transactional_programming_in_a_multi_core_environment/tutorial-tm-tutorial-ppopp.pdf
+    type: file-pdf
 tags:
   - compilers
   - parallel-compute

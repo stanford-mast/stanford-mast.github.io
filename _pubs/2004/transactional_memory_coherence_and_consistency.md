@@ -18,6 +18,15 @@ date: 2004-03-01
 doi: 10.1145/1028176.1006711
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/transactional_memory_coherence_and_consistency/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/transactional_memory_coherence_and_consistency/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1028176.1006711
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

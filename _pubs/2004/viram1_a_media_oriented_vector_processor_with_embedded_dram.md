@@ -12,6 +12,9 @@ date: 2004-06-01
 doi: 
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/viram1_a_media_oriented_vector_processor_with_embedded_dram/paper.pdf
+    type: file-pdf
 tags:
   - architecture
   - parallel-compute

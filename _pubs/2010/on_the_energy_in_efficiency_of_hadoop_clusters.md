@@ -9,6 +9,9 @@ date: 2010-03-01
 doi: 10.1145/1740390.1740405
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1740390.1740405
+    type: file-alt
 tags:
   - OS
   - cloud

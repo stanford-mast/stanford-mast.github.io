@@ -14,6 +14,9 @@ date: 2017-07-12
 doi:
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/persona/paper.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/conference/atc17/technical-sessions/presentation/byma
     type: file-alt

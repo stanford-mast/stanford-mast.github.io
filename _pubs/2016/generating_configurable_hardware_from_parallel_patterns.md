@@ -20,6 +20,12 @@ date: 2016-03-01
 doi: 10.1145/2872362.2872415
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/generating_configurable_hardware_from_parallel_patterns/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2872362.2872415
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

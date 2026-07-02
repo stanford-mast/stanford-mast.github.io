@@ -8,6 +8,12 @@ date: 2013-03-18
 doi: 10.5555/2485288.2485611
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/resource_efficient_computing_for_warehouse_scale_datacenters/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/resource_efficient_computing_for_warehouse_scale_datacenters/talk.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.5555/2485288.2485611
     type: file-alt

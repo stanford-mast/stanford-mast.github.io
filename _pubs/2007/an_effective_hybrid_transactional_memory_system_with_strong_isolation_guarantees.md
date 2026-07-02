@@ -16,6 +16,15 @@ date: 2007-06-01
 doi: 10.1145/1250662.1250673
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/an_effective_hybrid_transactional_memory_system_with_strong_isolation_guarantees/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/an_effective_hybrid_transactional_memory_system_with_strong_isolation_guarantees/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1250662.1250673
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

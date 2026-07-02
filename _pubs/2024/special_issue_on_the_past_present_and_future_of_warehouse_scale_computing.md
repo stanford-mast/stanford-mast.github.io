@@ -10,7 +10,7 @@ date: 2024-09-01
 doi: 10.1109/mm.2024.3467468
 thumbnail: False
 materials:
-  - name: Article
+  - name: IEEE Computer
     url: https://www.computer.org/csdl/magazine/mi/2024/05/10737012/21ppgvKEa6A
     type: file-alt
 tags:

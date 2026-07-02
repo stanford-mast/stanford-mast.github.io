@@ -15,6 +15,15 @@ date: 2014-06-01
 doi: 10.1109/ISCA.2014.6853237
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/towards_energy_proportionality_for_large_scale_latency_critical_workloads/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/towards_energy_proportionality_for_large_scale_latency_critical_workloads/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/ISCA.2014.6853237
+    type: file-alt
 tags:
   - architecture
   - cloud

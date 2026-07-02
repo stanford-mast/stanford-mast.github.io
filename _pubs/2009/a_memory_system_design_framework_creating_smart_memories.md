@@ -15,6 +15,15 @@ date: 2009-06-01
 doi: 10.1145/1555815.1555805
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_memory_system_design_framework_creating_smart_memories/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/a_memory_system_design_framework_creating_smart_memories/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1555815.1555805
+    type: file-alt
 tags:
   - architecture
   - memory-storage

@@ -18,6 +18,15 @@ date: 2012-06-01
 doi: 10.1145/2366231.2337164
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/towards_energy_proportional_datacenter_memory_with_mobile_dram/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/towards_energy_proportional_datacenter_memory_with_mobile_dram/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2366231.2337164
+    type: file-alt
 tags:
   - architecture
   - cloud

@@ -9,6 +9,12 @@ date: 2014-06-01
 doi: 10.1109/HPCA.2014.6835969
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/dynamic_management_of_turbo_mode/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/HPCA.2014.6835969
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

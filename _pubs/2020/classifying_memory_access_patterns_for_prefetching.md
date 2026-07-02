@@ -12,6 +12,9 @@ date: 2020-03-01
 doi: 10.1145/3373376.3378498
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3373376.3378498
+    type: file-alt
 tags:
   - memory-storage
   - accelerators

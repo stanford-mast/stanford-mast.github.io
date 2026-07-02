@@ -10,8 +10,11 @@ date: 2005-02-01
 doi: 
 thumbnail: False
 materials:
-  - name: PDF
+  - name: paper
     url: https://csl.stanford.edu/~christos/publications/2005.atlas.warfp.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/atlas_a_scalable_emulator_for_transactional_parallel_systems/talk.pdf
     type: file-pdf
 tags:
   - architecture

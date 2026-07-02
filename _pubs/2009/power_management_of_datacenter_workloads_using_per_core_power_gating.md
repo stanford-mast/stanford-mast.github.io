@@ -13,6 +13,12 @@ date: 2009-08-01
 doi: 10.1109/L-CA.2009.46
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/power_management_of_datacenter_workloads_using_per_core_power_gating/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/L-CA.2009.46
+    type: file-alt
 tags:
   - architecture
   - cloud

@@ -11,6 +11,9 @@ date: 2025-07-18
 doi: 10.48550/arXiv.2507.14397
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2507.14397
+    type: file-alt
 tags:
   - AI-systems
   - accelerators

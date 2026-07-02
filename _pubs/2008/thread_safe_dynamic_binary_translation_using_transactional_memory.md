@@ -11,6 +11,15 @@ date: 2008-02-01
 doi: 10.1109/hpca.2008.4658646
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/thread_safe_dynamic_binary_translation_using_transactional_memory/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/thread_safe_dynamic_binary_translation_using_transactional_memory/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2008.4658646
+    type: file-alt
 tags:
   - architecture
   - compilers

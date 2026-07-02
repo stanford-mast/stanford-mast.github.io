@@ -9,6 +9,15 @@ date: 2013-06-01
 doi: 10.1145/2508148.2485963
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/zsim_fast_and_accurate_microarchitectural_simulation_of_thousand_core_systems/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/zsim_fast_and_accurate_microarchitectural_simulation_of_thousand_core_systems/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/2508148.2485963
+    type: file-alt
 tags:
   - architecture
 ---

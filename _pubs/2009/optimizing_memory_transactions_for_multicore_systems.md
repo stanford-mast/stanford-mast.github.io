@@ -10,6 +10,9 @@ date: 2009-08-01
 doi: 10.1007/978-1-4419-0263-4_5
 thumbnail: False
 materials:
+  - name: Springer
+    url: https://doi.org/10.1007/978-1-4419-0263-4_5
+    type: file-alt
 tags:
   - parallel-compute
   - memory-storage

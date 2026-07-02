@@ -12,6 +12,12 @@ date: 2007-02-01
 doi: 10.1109/hpca.2007.346181
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/evaluating_mapreduce_for_multi_core_and_multiprocessor_systems/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/hpca.2007.346181
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

@@ -14,7 +14,7 @@ date: 2019-02-01
 doi:
 thumbnail: True
 materials:
-  - name: PDF
+  - name: USENIX
     url: https://www.usenix.org/conference/nsdi19/presentation/kaffes
     type: file-pdf
 tags:

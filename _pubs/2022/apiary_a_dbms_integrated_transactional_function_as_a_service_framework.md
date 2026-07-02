@@ -29,6 +29,9 @@ date: 2022-08-01
 doi: 10.48550/arXiv.2208.13068
 thumbnail: True
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2208.13068
+    type: file-alt
 tags:
   - cloud
   - databases

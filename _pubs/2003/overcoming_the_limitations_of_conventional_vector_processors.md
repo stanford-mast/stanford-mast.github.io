@@ -9,6 +9,15 @@ date: 2003-06-01
 doi: 10.1145/859618.859664
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/overcoming_the_limitations_of_conventional_vector_processors/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/overcoming_the_limitations_of_conventional_vector_processors/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/859618.859664
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

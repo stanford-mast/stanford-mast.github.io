@@ -40,6 +40,9 @@ date: 2026-03-19
 doi: 10.48550/arXiv.2603.19173
 thumbnail: False
 materials:
+  - name: arXiv
+    url: https://doi.org/10.48550/arXiv.2603.19173
+    type: file-alt
 tags:
   - architecture
   - OS

@@ -26,12 +26,12 @@ date: 2024-12-01
 doi:
 thumbnail: True
 materials:
+  - name: paper
+    url: https://openreview.net/pdf?id=VqkAKQibpq
+    type: file-pdf
   - name: OpenReview
     url: https://openreview.net/forum?id=VqkAKQibpq
     type: file-alt
-  - name: PDF
-    url: https://openreview.net/pdf?id=VqkAKQibpq
-    type: file-pdf
 tags:
   - AI-systems
 ---

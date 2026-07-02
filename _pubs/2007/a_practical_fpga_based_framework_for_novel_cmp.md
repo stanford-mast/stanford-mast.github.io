@@ -15,6 +15,12 @@ date: 2007-02-01
 doi: 10.1145/1216919.1216936
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_practical_fpga_based_framework_for_novel_cmp/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1216919.1216936
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

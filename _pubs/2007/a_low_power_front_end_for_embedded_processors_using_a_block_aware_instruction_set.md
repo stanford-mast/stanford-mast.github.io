@@ -9,6 +9,15 @@ date: 2007-09-01
 doi: 10.1145/1289881.1289926
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/a_low_power_front_end_for_embedded_processors_using_a_block_aware_instruction_set/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/a_low_power_front_end_for_embedded_processors_using_a_block_aware_instruction_set/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1289881.1289926
+    type: file-alt
 tags:
   - architecture
   - energy-efficiency

@@ -17,6 +17,15 @@ date: 2010-06-01
 doi: 10.1145/1816038.1815968
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/understanding_sources_of_inefficiency_in_general_purpose_chips/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/understanding_sources_of_inefficiency_in_general_purpose_chips/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1816038.1815968
+    type: file-alt
 tags:
   - architecture
   - energy-efficiency

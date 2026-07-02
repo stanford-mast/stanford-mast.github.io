@@ -13,6 +13,12 @@ date: 2004-09-01
 doi: 10.1109/pact.2004.1342560
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_stream_virtual_machine/paper.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/pact.2004.1342560
+    type: file-alt
 tags:
   - architecture
 ---

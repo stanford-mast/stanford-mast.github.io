@@ -11,6 +11,9 @@ date: 1997-01-01
 doi: 10.5555/786452.786683
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/pipelined_multi_queue_management_in_a_vlsi_atm_switch_chip_with_credit_based_flow_control/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.5555/786452.786683
     type: file-alt

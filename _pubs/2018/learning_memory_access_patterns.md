@@ -15,12 +15,12 @@ date: 2018-07-10
 doi:
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/learning_memory_access_patterns/paper-prefetch-icml.pdf
+    type: file-pdf
   - name: PMLR
     url: https://proceedings.mlr.press/v80/hashemi18a.html
     type: file-alt
-  - name: PDF
-    url: https://proceedings.mlr.press/v80/hashemi18a/hashemi18a.pdf
-    type: file-pdf
 tags:
   - AI-systems
   - memory-storage

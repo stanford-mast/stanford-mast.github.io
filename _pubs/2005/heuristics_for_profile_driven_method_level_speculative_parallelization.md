@@ -9,6 +9,15 @@ date: 2005-06-01
 doi: 10.1109/icpp.2005.44
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/heuristics_for_profile_driven_method_level_speculative_parallelization/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/heuristics_for_profile_driven_method_level_speculative_parallelization/talk.pdf
+    type: file-pdf
+  - name: IEEE Xplore
+    url: https://doi.org/10.1109/icpp.2005.44
+    type: file-alt
 tags:
   - compilers
   - parallel-compute

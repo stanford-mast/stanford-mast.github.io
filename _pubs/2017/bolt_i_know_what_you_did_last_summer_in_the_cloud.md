@@ -9,6 +9,12 @@ date: 2017-04-01
 doi: 10.1145/3093337.3037703
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/bolt_i_know_what_you_did_last_summer_in_the_cloud/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3093337.3037703
+    type: file-alt
 tags:
   - cloud
   - security

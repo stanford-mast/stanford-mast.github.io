@@ -9,6 +9,9 @@ date: 2006-02-01
 doi: 
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/library_based_prefetching_for_pointer_intensive_applications/paper.pdf
+    type: file-pdf
 tags:
   - memory-storage
 ---

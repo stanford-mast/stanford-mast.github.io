@@ -15,7 +15,10 @@ date: 2014-10-01
 doi:
 thumbnail: True
 materials:
-  - name: PDF
+  - name: paper
+    url: /pubs/ix_a_protected_dataplane_os_for_high_throughput_and_low_latency/paper.pdf
+    type: file-pdf
+  - name: USENIX
     url: https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay
     type: file-pdf
 tags:

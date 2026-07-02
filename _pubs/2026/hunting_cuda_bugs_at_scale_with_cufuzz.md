@@ -9,6 +9,9 @@ date: 2026-04-01
 doi: 10.1145/3798231
 thumbnail: False
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3798231
+    type: file-alt
 tags:
   - compilers
   - AI-systems

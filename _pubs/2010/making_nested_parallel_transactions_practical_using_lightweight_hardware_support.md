@@ -12,6 +12,15 @@ date: 2010-06-01
 doi: 10.1145/1810085.1810097
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/making_nested_parallel_transactions_practical_using_lightweight_hardware_support/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/making_nested_parallel_transactions_practical_using_lightweight_hardware_support/talk.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1810085.1810097
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

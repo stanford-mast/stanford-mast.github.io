@@ -13,6 +13,9 @@ date: 2019-04-01
 doi: 10.1145/3297858.3304014
 thumbnail: True
 materials:
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/3297858.3304014
+    type: file-alt
 tags:
   - architecture
   - accelerators

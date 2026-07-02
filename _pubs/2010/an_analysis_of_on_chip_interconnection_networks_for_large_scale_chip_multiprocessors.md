@@ -11,6 +11,12 @@ date: 2010-05-01
 doi: 10.1145/1736065.1736069
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/an_analysis_of_on_chip_interconnection_networks_for_large_scale_chip_multiprocessors/paper.pdf
+    type: file-pdf
+  - name: ACM DL
+    url: https://dl.acm.org/doi/10.1145/1736065.1736069
+    type: file-alt
 tags:
   - architecture
   - networking

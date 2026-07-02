@@ -15,6 +15,9 @@ date: 2025-04-01
 doi: 10.1007/s00778-024-00899-0
 thumbnail: True
 materials:
+  - name: Springer
+    url: https://doi.org/10.1007/s00778-024-00899-0
+    type: file-alt
 tags:
   - databases
 ---
