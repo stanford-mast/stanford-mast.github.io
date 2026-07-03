@@ -9,6 +9,9 @@ date: 2013-12-20
 doi: 10.1145/2556583
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/quality_of_service_aware_scheduling_in_heterogeneous_data_centers_with_paragon/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/2556583
     type: file-alt

@@ -9,6 +9,9 @@ date: 2015-07-01
 doi: 10.1109/LCA.2015.2461215
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/security_implications_of_data_mining_in_cloud_scheduling/paper.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/LCA.2015.2461215
     type: file-alt

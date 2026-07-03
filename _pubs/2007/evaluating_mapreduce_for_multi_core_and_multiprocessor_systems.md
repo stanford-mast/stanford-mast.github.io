@@ -15,6 +15,9 @@ materials:
   - name: paper
     url: /pubs/evaluating_mapreduce_for_multi_core_and_multiprocessor_systems/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/evaluating_mapreduce_for_multi_core_and_multiprocessor_systems/talk.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/hpca.2007.346181
     type: file-alt

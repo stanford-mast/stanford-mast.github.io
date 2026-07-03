@@ -1,5 +1,5 @@
 ---
-title: 'Tetris: Scalable and efficient neural network acceleration with 3d memory'
+title: 'Tetris: Scalable and efficient neural network acceleration with 3D memory'
 authors:
   - key: mingyugao
   - name: Jing Pu
@@ -13,6 +13,9 @@ date: 2017-04-01
 doi: 10.1145/3093337.3037702
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/tetris_scalable_and_efficient_neural_network_acceleration_with_3d_memory/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/3093337.3037702
     type: file-alt

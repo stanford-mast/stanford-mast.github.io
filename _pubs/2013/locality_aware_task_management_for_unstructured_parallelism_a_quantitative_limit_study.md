@@ -19,6 +19,9 @@ materials:
   - name: paper
     url: /pubs/locality_aware_task_management_for_unstructured_parallelism_a_quantitative_limit_study/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/locality_aware_task_management_for_unstructured_parallelism_a_quantitative_limit_study/talk.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/2486159.2486175
     type: file-alt

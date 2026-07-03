@@ -13,6 +13,9 @@ materials:
   - name: paper
     url: https://www.usenix.org/legacy/event/sec08/tech/full_papers/dalton/dalton.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/real_world_buffer_overflow_protection_for_userspace_and_kernelspace/talk.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/legacy/event/sec08/tech/full_papers/dalton/dalton_html/
     type: file-alt

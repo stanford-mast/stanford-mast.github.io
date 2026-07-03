@@ -15,6 +15,9 @@ date: 2006-06-01
 doi: 10.1145/1133981.1133983
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_atomos_transactional_programming_language/paper.pdf
+    type: file-pdf
   - name: talk
     url: /pubs/the_atomos_transactional_programming_language/talk.pdf
     type: file-pdf

@@ -16,6 +16,9 @@ materials:
   - name: talk
     url: /pubs/qos_aware_admission_control_in_heterogeneous_datacenters/talk.pdf
     type: file-pdf
+  - name: extended
+    url: /pubs/qos_aware_admission_control_in_heterogeneous_datacenters/extended.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/conference/icac13/technical-sessions/presentation/delimitrou
     type: file-alt

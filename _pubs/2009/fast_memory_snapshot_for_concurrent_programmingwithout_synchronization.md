@@ -1,5 +1,5 @@
 ---
-title: 'Fast memory snapshot for concurrent programmingwithout synchronization'
+title: 'Fast memory snapshot for concurrent programming without synchronization'
 authors:
   - key: jaewoongchung
   - key: woongkibaek
@@ -7,11 +7,17 @@ authors:
 venue: ics
 year: 2009
 date: 2009-06-01
-doi: 10.1145/1542275.154229
+doi: 10.1145/1542275.1542297
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/fast_memory_snapshot_for_concurrent_programmingwithout_synchronization/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/fast_memory_snapshot_for_concurrent_programmingwithout_synchronization/talk.pdf
+    type: file-pdf
   - name: ACM DL
-    url: https://dl.acm.org/doi/10.1145/1542275.154229
+    url: https://dl.acm.org/doi/10.1145/1542275.1542297
     type: file-alt
 tags:
   - parallel-compute

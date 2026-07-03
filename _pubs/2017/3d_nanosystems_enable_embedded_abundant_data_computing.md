@@ -15,6 +15,9 @@ date: 2017-10-01
 doi: 10.1145/3125502.3125531
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/3d_nanosystems_enable_embedded_abundant_data_computing/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/3125502.3125531
     type: file-alt

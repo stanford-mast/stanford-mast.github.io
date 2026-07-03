@@ -14,6 +14,9 @@ materials:
   - name: paper
     url: /pubs/implementing_and_evaluating_a_model_checker_for_transactional_memory_systems/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/implementing_and_evaluating_a_model_checker_for_transactional_memory_systems/talk.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/iceccs.2010.30
     type: file-alt

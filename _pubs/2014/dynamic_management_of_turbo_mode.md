@@ -12,6 +12,9 @@ materials:
   - name: paper
     url: /pubs/dynamic_management_of_turbo_mode/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/dynamic_management_of_turbo_mode/talk.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/HPCA.2014.6835969
     type: file-alt

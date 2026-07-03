@@ -18,6 +18,9 @@ materials:
   - name: paper
     url: /pubs/energy_proportionality_and_workload_consolidation_for_latency_critical_applications/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/energy_proportionality_and_workload_consolidation_for_latency_critical_applications/talk.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/2806777.2806848
     type: file-alt

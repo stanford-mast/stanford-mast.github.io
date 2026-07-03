@@ -12,6 +12,9 @@ materials:
   - name: paper
     url: /pubs/ibench_quantifying_interference_for_datacenter_applications/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/ibench_quantifying_interference_for_datacenter_applications/talk.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/iiswc.2013.6704667
     type: file-alt

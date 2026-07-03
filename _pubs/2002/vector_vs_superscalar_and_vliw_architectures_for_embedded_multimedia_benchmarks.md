@@ -12,6 +12,9 @@ materials:
   - name: paper
     url: /pubs/vector_vs_superscalar_and_vliw_architectures_for_embedded_multimedia_benchmarks/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/vector_vs_superscalar_and_vliw_architectures_for_embedded_multimedia_benchmarks/talk.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/MICRO.2002.1176257
     type: file-alt

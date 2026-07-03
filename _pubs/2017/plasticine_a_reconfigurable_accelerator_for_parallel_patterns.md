@@ -1,5 +1,5 @@
 ---
-title: 'Plasticine: A Reconfigurable Architecture For Parallel Paterns'
+title: 'Plasticine: A Reconfigurable Architecture For Parallel Patterns'
 authors:
   - key: raghuprabhakar
   - name: Yaqi Zhang
@@ -17,6 +17,9 @@ date: 2017-06-01
 doi: 10.1145/3079856.3080256
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/plasticine_a_reconfigurable_accelerator_for_parallel_patterns/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/3079856.3080256
     type: file-alt

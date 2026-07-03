@@ -10,6 +10,9 @@ date: 2006-12-01
 doi: 10.1145/1189276.1189288
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/unlocking_concurrency_multicore_programming_with_transactional_memory/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/1189276.1189288
     type: file-alt

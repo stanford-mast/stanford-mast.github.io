@@ -18,6 +18,9 @@ materials:
   - name: paper
     url: /pubs/ix_a_protected_dataplane_os_for_high_throughput_and_low_latency/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/ix_a_protected_dataplane_os_for_high_throughput_and_low_latency/talk.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay
     type: file-pdf

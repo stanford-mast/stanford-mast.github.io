@@ -9,6 +9,9 @@ date: 2014-06-01
 doi: 10.1109/MM.2014.7
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/quality_of_service_aware_scheduling/paper.pdf
+    type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/MM.2014.7
     type: file-alt

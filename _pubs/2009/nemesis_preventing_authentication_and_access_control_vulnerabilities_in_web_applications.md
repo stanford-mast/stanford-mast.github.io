@@ -10,6 +10,12 @@ date: 2009-08-01
 doi:
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/nemesis_preventing_authentication_and_access_control_vulnerabilities_in_web_applications/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/nemesis_preventing_authentication_and_access_control_vulnerabilities_in_web_applications/talk.pdf
+    type: file-pdf
   - name: USENIX
     url: https://www.usenix.org/legacy/event/sec09/tech/full_papers/dalton.pdf
     type: file-pdf

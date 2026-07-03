@@ -1,7 +1,7 @@
 ---
 title: 'Simultaneously Improving Code Size, Performance, and Energy in Embedded Processors'
 authors:
-  - name: Alaa Zmily
+  - name: Ahmad Zmily
   - key: christoskozyrakis
 venue: date
 year: 2006
@@ -11,6 +11,9 @@ thumbnail: False
 materials:
   - name: paper
     url: /pubs/simultaneously_improving_code_size_performance_and_energy_in_embedded_processors/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/simultaneously_improving_code_size_performance_and_energy_in_embedded_processors/talk.pdf
     type: file-pdf
   - name: IEEE Xplore
     url: https://doi.org/10.1109/date.2006.244090

@@ -9,6 +9,9 @@ date: 2008-07-01
 doi: 10.1145/1364782.1364800
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/transactional_memory/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/1364782.1364800
     type: file-alt

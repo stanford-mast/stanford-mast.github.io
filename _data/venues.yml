@@ -4,6 +4,12 @@ preprint:
   bibtex:
     type: misc
     venue: booktitle
+login:
+  short: ';login:'
+  full: 'USENIX ;login:'
+  bibtex:
+    type: article
+    venue: journal
 gomactech:
   short: GOMACTech
   full: Government Microcircuit Applications and Critical Technology Conference (GOMACTech)
@@ -124,6 +130,18 @@ techreport:
   bibtex:
     type: techreport
     venue: institution
+transact:
+  short: TRANSACT
+  full: ACM SIGPLAN Workshop on Transactional Computing (TRANSACT)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+logicdram:
+  short: ISCA Workshop
+  full: Workshop on Mixing Logic and DRAM (ISCA)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
 iclr:
   short: ICLR
   full: International Conference on Learning Representations (ICLR)
@@ -151,6 +169,12 @@ icde:
 mlsys:
   short: MLSys
   full: Conference on Machine Learning and Systems (MLSys)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sysml:
+  short: SysML
+  full: Conference on Systems and Machine Learning (SysML)
   bibtex:
     type: inproceedings
     venue: booktitle
@@ -493,6 +517,12 @@ popl:
 globecom:
   short: GLOBECOM
   full: IEEE Global Telecommunications Conference (GLOBECOM)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+ims:
+  short: IMS
+  full: International Workshop on Intelligent Memory Systems (IMS)
   bibtex:
     type: inproceedings
     venue: booktitle

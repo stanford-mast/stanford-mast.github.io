@@ -12,11 +12,15 @@ from urllib.parse import urlparse
 
 PUBLISHERS = (
     "ACM DL",
+    "CACM",
+    "EPFL",
+    "TRANSACT",
     "IEEE Xplore",
     "IEEE Computer",
     "USENIX",
     "Springer",
     "PMLR",
+    "SysML",
     "OpenReview",
     "VLDB",
     "ACM SIGOPS",
@@ -34,8 +38,15 @@ def scalar(front_matter: str, key: str) -> str:
 
 def publisher_for_url(url: str) -> str:
     domain = urlparse(url).netloc.lower()
+    path = urlparse(url).path.lower()
     if "dl.acm.org" in domain:
         return "ACM DL"
+    if "cacm.acm.org" in domain:
+        return "CACM"
+    if "infoscience.epfl.ch" in domain:
+        return "EPFL"
+    if "transact2013.cse.lehigh.edu" in domain:
+        return "TRANSACT"
     if "ieeexplore.ieee.org" in domain:
         return "IEEE Xplore"
     if "computer.org" in domain:
@@ -46,6 +57,8 @@ def publisher_for_url(url: str) -> str:
         return "Springer"
     if "proceedings.mlr.press" in domain:
         return "PMLR"
+    if "mlsys.org" in domain and "/2018/" in path:
+        return "SysML"
     if "openreview.net" in domain:
         return "OpenReview"
     if "vldb.org" in domain:
@@ -175,9 +188,11 @@ def normalize_materials(materials: list[dict[str, str]], doi: str) -> list[dict[
             return (0, 0, name, item.get("url", ""))
         if name == "talk":
             return (1, 0, name, item.get("url", ""))
+        if name == "extended":
+            return (2, 0, name, item.get("url", ""))
         if name in PUBLISHER_ORDER:
-            return (2, PUBLISHER_ORDER[name], name, item.get("url", ""))
-        return (3, 0, name.lower(), item.get("url", ""))
+            return (3, PUBLISHER_ORDER[name], name, item.get("url", ""))
+        return (4, 0, name.lower(), item.get("url", ""))
 
     return sorted(unique, key=order)
 

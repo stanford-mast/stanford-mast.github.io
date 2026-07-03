@@ -7,10 +7,10 @@ authors:
   - name: Preethi Venkatesan
   - key: christoskozyrakis
   - name: Mark A Horowitz
-venue: cacm
+venue: isca
 year: 2013
 date: 2013-06-01
-doi: 10.1145/2735841
+doi: 10.1145/2485922.2485925
 thumbnail: True
 materials:
   - name: paper
@@ -20,7 +20,7 @@ materials:
     url: /pubs/convolution_engine_balancing_efficiency_flexibility_in_specialized_computing/talk.pdf
     type: file-pdf
   - name: ACM DL
-    url: https://dl.acm.org/doi/10.1145/2735841
+    url: https://dl.acm.org/doi/10.1145/2485922.2485925
     type: file-alt
 tags:
   - memory-storage
