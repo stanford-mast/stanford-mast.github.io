@@ -5,6 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
   const allElems = $$('.pub, .year');
   const searchBar = $('#search');
 
+  function tagKey(value) {
+    return String(value).toLowerCase().replace(/\s+/g, '-');
+  }
+
   const index = new FlexSearch.Document({
     index: ['title', 'abstract', 'caption', 'authors'],
     tokenize: 'forward',
@@ -16,9 +20,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const parent = el.parentElement;
     const selected = parent.querySelectorAll('.tag.selected');
 
-    toggle = el.classList.contains('toggleable') || 
-             evt.ctrlKey || evt.metaKey ||
-             (selected.length === 1 && selected[0] === el);
+    const toggle = el.classList.contains('toggleable') ||
+                   evt.ctrlKey || evt.metaKey ||
+                   (selected.length === 1 && selected[0] === el);
 
     if (toggle) {
       el.classList.toggle('selected');
@@ -49,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const selectedTypes = [...$$('#types .tag.selected')].map(e => e.getAttribute('data-tag').toLowerCase());
     if (selectedTypes.length) {
-      results = results.filter(r => selectedTypes.indexOf(r.type) >= 0);
+      results = results.filter(r => selectedTypes.includes(String(r.type).toLowerCase()));
     }
 
     const selectedTags = [...$$('#tags .tag.selected')].map(e => e.getAttribute('data-tag').toLowerCase());
@@ -65,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
     for (const res of results) {
       byId(res.id).style.display = 'block';
       byId(`year-${res.year}`).style.display = 'block';
-      counts[`type-${res.type}`] = counts[`type-${res.type}`] + 1 || 1;
+      counts[`type-${tagKey(res.type)}`] = counts[`type-${tagKey(res.type)}`] + 1 || 1;
       for (const tag of res.tags) {
         const t = tag.replaceAll(' ', '-').toLowerCase();
         counts[`tag-${t}`] = counts[`tag-${t}`] + 1 || 1;
@@ -78,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     for (const [id, count] of Object.entries(counts)) {
-      const elem = $(`#${id} span`);
+      const elem = byId(id)?.querySelector('span');
       if (!elem) continue;
       elem.innerText = `(${count})`;
       elem.parentElement.classList.remove('empty');
@@ -93,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     for (const [key, value] of params.entries()) {
-      $(`#${key}-${value}`).classList.add('selected');
+      byId(`${key}-${value}`)?.classList.add('selected');
     }
 
     search();

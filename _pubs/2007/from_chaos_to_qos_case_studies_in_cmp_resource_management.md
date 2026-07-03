@@ -15,6 +15,12 @@ date: 2007-03-01
 doi: 10.1145/1241601.1241608
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/from_chaos_to_qos_case_studies_in_cmp_resource_management/paper.pdf
+    type: file-pdf
+  - name: talk
+    url: /pubs/from_chaos_to_qos_case_studies_in_cmp_resource_management/talk.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/1241601.1241608
     type: file-alt

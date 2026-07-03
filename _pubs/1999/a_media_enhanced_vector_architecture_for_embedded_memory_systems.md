@@ -2,18 +2,19 @@
 title: 'A media-enhanced vector architecture for embedded memory systems'
 authors:
   - key: christoskozyrakis
-venue: techreport
+venue: berkeleyms
 year: 1999
 date: 1999-07-01
+type: BS/MS Thesis
 doi:
 thumbnail: False
 materials:
-  - name: Report
-    url: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/Archive/CSD-99-1059.pdf
-    type: file-alt
   - name: thesis
     url: /pubs/a_media_enhanced_vector_architecture_for_embedded_memory_systems/thesis.pdf
     type: file-pdf
+  - name: Report
+    url: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/Archive/CSD-99-1059.pdf
+    type: file-alt
 tags:
   - architecture
   - parallel-compute

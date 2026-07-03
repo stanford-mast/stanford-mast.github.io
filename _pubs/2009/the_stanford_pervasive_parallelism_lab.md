@@ -9,6 +9,12 @@ date: 2009-08-01
 doi:
 thumbnail: False
 materials:
+  - name: talk
+    url: /pubs/the_stanford_pervasive_parallelism_lab/talk.pdf
+    type: file-pdf
+  - name: Hot Chips
+    url: https://hc21.hotchips.org/
+    type: file-alt
   - name: IEEE Xplore
     url: https://ieeexplore.ieee.org/document/7478358
     type: file-alt

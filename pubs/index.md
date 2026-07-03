@@ -70,9 +70,17 @@ layout: page
     <h4>Publication Type</h4>
     <div id="types">
       {% assign types = site.pubs | map: 'type' | uniq %}
+      {% if types contains 'paper' %}
+        <a id="type-paper" class="tag" data-tag="paper">Paper <span>()</span></a>
+      {% endif %}
       {% for type in types %}
-        <a id="type-{{type}}" class="tag" data-tag="{{type}}">{{type | capitalize}} <span>()</span></a>
+        {% unless type == 'paper' or type == 'BS/MS Thesis' %}
+          <a id="type-{{type | replace: ' ', '-' | downcase}}" class="tag" data-tag="{{type}}">{% if type == 'PhD thesis' %}PhD thesis{% else %}{{type | capitalize}}{% endif %} <span>()</span></a>
+        {% endunless %}
       {% endfor %}
+      {% if types contains 'BS/MS Thesis' %}
+        <a id="type-bs/ms-thesis" class="tag" data-tag="BS/MS Thesis">BS/MS Thesis <span>()</span></a>
+      {% endif %}
     </div>
 
     <h4>Tags</h4>

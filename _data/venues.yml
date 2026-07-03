@@ -118,6 +118,12 @@ hotchips:
   bibtex:
     type: inproceedings
     venue: booktitle
+iccad:
+  short: ICCAD
+  full: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
 cnsm:
   short: CNSM
   full: International Conference on Network and Service Management (CNSM)
@@ -436,6 +442,36 @@ pact:
   bibtex:
     type: inproceedings
     venue: booktitle
+acaces:
+  short: ACACES
+  full: HiPEAC Summer School on Advanced Computer Architecture and Compilation for Embedded Systems (ACACES)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+stanfordphd:
+  short: Stanford PhD Thesis
+  full: Stanford University
+  bibtex:
+    type: phdthesis
+    venue: school
+berkeleyphd:
+  short: Berkeley PhD Thesis
+  full: University of California, Berkeley
+  bibtex:
+    type: phdthesis
+    venue: school
+cretebs:
+  short: University of Crete BS Thesis
+  full: University of Crete
+  bibtex:
+    type: misc
+    venue: school
+berkeleyms:
+  short: Berkeley MS Thesis
+  full: University of California, Berkeley
+  bibtex:
+    type: mastersthesis
+    venue: school
 queue:
   short: Queue
   full: ACM Queue

@@ -20,6 +20,9 @@ date: 2010-01-01
 doi: 10.1145/1713254.1713276
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/the_case_for_ramclouds_scalable_high_performance_storage_entirely_in_dram/paper.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/1713254.1713276
     type: file-alt

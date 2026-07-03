@@ -1,11 +1,11 @@
 ---
-title: 'The Architecture, Operation, and Design of the Queue Management Block in the ATLAS I ATM Switch'
+title: 'The architecture, operation and design of the queue management block in the ATLAS I ATM switch'
 authors:
   - key: christoskozyrakis
-venue: techreport
+venue: cretebs
 year: 1996
 date: 1996-07-01
-doi:
+type: BS/MS Thesis
 thumbnail: False
 materials:
   - name: thesis
@@ -15,3 +15,4 @@ tags:
   - architecture
   - networking
 ---
+This thesis presents the architecture and VLSI design of the hardware block that maintains output queues by priority class in the ATLAS I single-chip ATM switch, including support for multicasting and multi-lane credit-based flow control.

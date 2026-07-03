@@ -9,6 +9,9 @@ date: 2010-03-01
 doi: 10.1145/1740390.1740405
 thumbnail: False
 materials:
+  - name: talk
+    url: /pubs/on_the_energy_in_efficiency_of_hadoop_clusters/talk.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/1740390.1740405
     type: file-alt

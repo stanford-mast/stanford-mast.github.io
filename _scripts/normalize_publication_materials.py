@@ -15,6 +15,10 @@ PUBLISHERS = (
     "CACM",
     "EPFL",
     "TRANSACT",
+    "Hot Chips",
+    "HiPEAC",
+    "Stanford Library",
+    "Berkeley Library",
     "IEEE Xplore",
     "IEEE Computer",
     "USENIX",
@@ -47,6 +51,14 @@ def publisher_for_url(url: str) -> str:
         return "EPFL"
     if "transact2013.cse.lehigh.edu" in domain:
         return "TRANSACT"
+    if domain == "hotchips.org" or domain.endswith(".hotchips.org"):
+        return "Hot Chips"
+    if domain == "hipeac.net" or domain.endswith(".hipeac.net"):
+        return "HiPEAC"
+    if domain == "purl.stanford.edu" or domain == "searchworks.stanford.edu":
+        return "Stanford Library"
+    if domain in {"digicoll.lib.berkeley.edu", "search.library.berkeley.edu"}:
+        return "Berkeley Library"
     if "ieeexplore.ieee.org" in domain:
         return "IEEE Xplore"
     if "computer.org" in domain:
@@ -184,11 +196,13 @@ def normalize_materials(materials: list[dict[str, str]], doi: str) -> list[dict[
 
     def order(item: dict[str, str]) -> tuple[int, int, str, str]:
         name = item.get("name", "")
-        if name == "paper":
+        if name in {"paper", "thesis"}:
             return (0, 0, name, item.get("url", ""))
-        if name == "talk":
+        if name in {"talk", "defense"}:
             return (1, 0, name, item.get("url", ""))
-        if name == "extended":
+        if name == "tutorial":
+            return (1, 0, name, item.get("url", ""))
+        if name in {"extended", "poster"}:
             return (2, 0, name, item.get("url", ""))
         if name in PUBLISHER_ORDER:
             return (3, PUBLISHER_ORDER[name], name, item.get("url", ""))

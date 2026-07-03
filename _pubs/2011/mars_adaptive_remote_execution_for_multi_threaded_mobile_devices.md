@@ -19,6 +19,9 @@ materials:
   - name: paper
     url: /pubs/mars_adaptive_remote_execution_for_multi_threaded_mobile_devices/paper.pdf
     type: file-pdf
+  - name: talk
+    url: /pubs/mars_adaptive_remote_execution_for_multi_threaded_mobile_devices/talk.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/2043106.2043107
     type: file-alt

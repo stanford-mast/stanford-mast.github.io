@@ -1,5 +1,5 @@
 ---
-title: 'Ased: availability, security, and debugging support usingtransactional memory'
+title: 'ASeD: availability, security, and debugging support using transactional memory'
 authors:
   - key: jaewoongchung
   - key: woongkibaek
@@ -14,6 +14,12 @@ date: 2008-06-01
 doi: 10.1145/1378533.1378599
 thumbnail: False
 materials:
+  - name: paper
+    url: /pubs/ased_availability_security_and_debugging_support_usingtransactional_memory/paper.pdf
+    type: file-pdf
+  - name: poster
+    url: /pubs/ased_availability_security_and_debugging_support_usingtransactional_memory/poster.pdf
+    type: file-pdf
   - name: ACM DL
     url: https://dl.acm.org/doi/10.1145/1378533.1378599
     type: file-alt
