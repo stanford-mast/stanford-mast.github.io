@@ -23,7 +23,7 @@
     We are applying AI techniques to design and optimize both hardware and software systems. We place particular emphasis on testing and verification to ensure AI-designed systems are trustworthy and robust.
   highlights:
     - sol_execbench_speed_of_light_benchmarking_for_real_world_gpu_kernels_against_hardware_limits
-    - kernelblaster_continual_cross_task_cuda_optimization_via_memory_augmented_in_context_reinforcement_learning
+    - argus_agentic_gpu_optimization_guided_by_data_flow_invariants
     - proofwright_towards_agentic_formal_verification_of_cuda
 - key: hwswcodesign
   name: HW/SW co-design
@@ -32,5 +32,5 @@
     We are co-designing hardware, system software, and applications to improve the efficiency of cloud infrastructure, frequently using AI techniques to automate optimization.
   highlights:
     - symi
-    - proofwright_towards_agentic_formal_verification_of_cuda
+    - wave_a_split_os_architecture_for_application_engines
     - high_throughput_and_flexible_networking
