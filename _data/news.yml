@@ -2,6 +2,9 @@
 #     Description of pinned news items.
 
 #     More text can be added here to provide additional context or details about the news item.
+- date: 2016-07-14
+  desc: > 
+    Christos featured in an [IEEE interview](https://www.computer.org/publications/tech-news/insider-membership-news/2026-goode-ai-systems) on how do we fix data-movement bottlenecks in AI systems.
 - date: 2026-05-01
   desc: >
     Congratulations to [Christos](https://web.stanford.edu/~kozyraki/) on receiving the [2026 IEEE Computer Society Harry H. Goode Memorial Award](https://www.computer.org/volunteering/awards/goode).
