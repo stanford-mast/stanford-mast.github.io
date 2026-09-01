@@ -12,8 +12,11 @@ venue: preprint
 year: 2026
 date: 2026-02-15
 doi: 10.48550/arXiv.2602.14293
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/kernelblaster_continual_cross_task_cuda_optimization_via_memory_augmented_in_context_reinforcement_learning/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2602.14293
     type: file-alt

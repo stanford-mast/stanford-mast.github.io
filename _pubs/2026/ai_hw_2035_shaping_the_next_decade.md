@@ -35,8 +35,11 @@ venue: preprint
 year: 2026
 date: 2026-03-05
 doi: 10.48550/arXiv.2603.05225
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/ai_hw_2035_shaping_the_next_decade/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2603.05225
     type: file-alt

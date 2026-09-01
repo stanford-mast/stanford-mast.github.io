@@ -598,6 +598,12 @@ springerlncs:
   bibtex:
     type: book
     venue: publisher
+vlsit:
+  short: VLSI
+  full: IEEE/JSAP Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
 arvlsi:
   short: ARVLSI
   full: Advanced Research in VLSI

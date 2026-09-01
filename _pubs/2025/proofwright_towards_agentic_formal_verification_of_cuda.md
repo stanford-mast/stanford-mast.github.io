@@ -10,8 +10,11 @@ venue: preprint
 year: 2025
 date: 2025-11-15
 doi: 10.48550/arXiv.2511.12294
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/proofwright_towards_agentic_formal_verification_of_cuda/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2511.12294
     type: file-alt

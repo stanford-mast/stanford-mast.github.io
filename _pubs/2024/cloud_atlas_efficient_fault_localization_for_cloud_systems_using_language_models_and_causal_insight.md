@@ -17,6 +17,9 @@ date: 2024-07-01
 doi: 10.48550/arXiv.2407.08694
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/cloud_atlas_efficient_fault_localization_for_cloud_systems_using_language_models_and_causal_insight/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2407.08694
     type: file-alt

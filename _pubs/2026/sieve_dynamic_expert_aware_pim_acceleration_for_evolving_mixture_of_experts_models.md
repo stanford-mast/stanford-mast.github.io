@@ -13,8 +13,11 @@ venue: preprint
 year: 2026
 date: 2026-05-11
 doi: 10.48550/arXiv.2605.11277
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/sieve_dynamic_expert_aware_pim_acceleration_for_evolving_mixture_of_experts_models/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2605.11277
     type: file-alt

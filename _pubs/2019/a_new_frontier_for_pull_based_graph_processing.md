@@ -9,6 +9,9 @@ date: 2019-03-01
 doi: 10.48550/arXiv.1903.07754
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/a_new_frontier_for_pull_based_graph_processing/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.1903.07754
     type: file-alt

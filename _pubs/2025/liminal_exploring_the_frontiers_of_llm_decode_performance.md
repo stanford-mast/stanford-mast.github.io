@@ -9,8 +9,11 @@ venue: preprint
 year: 2025
 date: 2025-07-18
 doi: 10.48550/arXiv.2507.14397
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/liminal_exploring_the_frontiers_of_llm_decode_performance/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2507.14397
     type: file-alt

@@ -16,6 +16,9 @@ date: 2023-05-01
 doi: 10.48550/arXiv.2305.03785
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/zelda_video_analytics_using_vision_language_models/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://arxiv.org/abs/2305.03785
     type: file-alt

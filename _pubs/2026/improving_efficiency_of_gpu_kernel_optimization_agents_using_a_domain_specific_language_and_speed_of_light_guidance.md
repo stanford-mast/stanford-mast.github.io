@@ -10,8 +10,11 @@ venue: preprint
 year: 2026
 date: 2026-03-30
 doi: 10.48550/arXiv.2603.29010
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/improving_efficiency_of_gpu_kernel_optimization_agents_using_a_domain_specific_language_and_speed_of_light_guidance/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2603.29010
     type: file-alt

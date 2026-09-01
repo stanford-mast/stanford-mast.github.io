@@ -12,6 +12,9 @@ date: 2023-01-01
 doi: 10.48550/arXiv.2301.02959
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/flexshard_flexible_sharding_for_industry_scale_sequence_recommendation_models/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2301.02959
     type: file-alt

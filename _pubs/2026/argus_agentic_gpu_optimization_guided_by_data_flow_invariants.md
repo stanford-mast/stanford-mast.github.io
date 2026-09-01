@@ -14,8 +14,11 @@ authors:
 venue: sosp
 year: 2026
 date: 2026-04-16
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/argus_agentic_gpu_optimization_guided_by_data_flow_invariants/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://arxiv.org/abs/2604.18616
     type: file-alt

@@ -19,6 +19,9 @@ date: 2022-12-01
 doi: 10.48550/arXiv.2212.14161
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/transactions_make_debugging_easy/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2212.14161
     type: file-alt

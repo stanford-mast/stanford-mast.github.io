@@ -9,8 +9,11 @@ venue: preprint
 year: 2026
 date: 2026-02-20
 doi: 10.48550/arXiv.2602.18397
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/how_fast_can_i_run_my_vla_demystifying_vla_inference_performance_with_vla_perf/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2602.18397
     type: file-alt

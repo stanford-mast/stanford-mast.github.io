@@ -19,6 +19,9 @@ date: 2023-03-01
 doi: 10.48550/arXiv.2211.05239
 thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/recd_deduplication_for_end_to_end_deep_learning_recommendation_model_training_infrastructure/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2211.05239
     type: file-alt

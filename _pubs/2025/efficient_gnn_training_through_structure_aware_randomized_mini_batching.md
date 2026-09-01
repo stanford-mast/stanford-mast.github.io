@@ -9,8 +9,11 @@ venue: preprint
 year: 2025
 date: 2025-04-25
 doi: 10.48550/arXiv.2504.18082
-thumbnail: False
+thumbnail: True
 materials:
+  - name: paper
+    url: /pubs/efficient_gnn_training_through_structure_aware_randomized_mini_batching/paper.pdf
+    type: file-pdf
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2504.18082
     type: file-alt
