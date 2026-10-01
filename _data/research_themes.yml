@@ -4,17 +4,18 @@
   desc: >
     AI workloads are growing in compute and memory demands far faster than hardware capabilities can keep up. We are developing systems techniques and AI-system interfaces that bridge this efficiency gap.
   highlights:
+    - taper
     - strata
     - jit_planner
-    - taper
+  
 - key: scaleoutAI
   name: Scale-out AI systems
   url: /pubs/#tag=scale-out AI
   desc: >
     Today’s AI infrastructure, rooted in HPC paradigms, is inflexible and expensive. We are designing AI systems around scale-out principles to improve scalability, resilience, and cost effectiveness.
   highlights:
-    - raidserve
     - moevement
+    - raidserve
     - recycle_resilient_training_of_large_dnns_using_pipeline_adaptation
 - key: aiforsystems
   name: AI for Systems
@@ -31,6 +32,6 @@
   desc: >
     We are co-designing hardware, system software, and applications to improve the efficiency of cloud infrastructure, frequently using AI techniques to automate optimization.
   highlights:
+    - purlin
     - symi
     - wave_a_split_os_architecture_for_application_engines
-    - high_throughput_and_flexible_networking

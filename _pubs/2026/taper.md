@@ -5,9 +5,9 @@ authors:
   - name: Siva Hari
   - name: Bill Dally
   - key: christoskozyrakis
-venue: preprint
+venue: neurips
 year: 2026
-date: 2026-06-01
+date: 2026-12-08
 doi: 10.48550/arXiv.2605.06914
 thumbnail: True
 materials:
@@ -17,6 +17,9 @@ materials:
   - name: arXiv
     url: https://doi.org/10.48550/arXiv.2605.06914
     type: file-alt
+  - name: code
+    url: https://github.com/Swapnil-Gandhi/PACE
+    type: code
 tags:
   - AI-systems
   - parallel-compute
