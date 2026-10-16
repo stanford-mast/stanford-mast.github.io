@@ -2,6 +2,9 @@
 #     Description of pinned news items.
 
 #     More text can be added here to provide additional context or details about the news item.
+- date: 2026-08-1
+  desc: > 
+    Our paper on the [IX Dataplane OS](https://mast.stanford.edu/pubs/ix_a_protected_dataplane_os_for_high_throughput_and_low_latency/) was inducted into the [ACM SIGOPS Hall of Fame](https://www.sigops.org/awards/hof/).    
 - date: 2026-07-14
   desc: > 
     Christos featured in an [IEEE interview](https://www.computer.org/publications/tech-news/insider-membership-news/2026-goode-ai-systems) on how do we fix data-movement bottlenecks in AI systems.
